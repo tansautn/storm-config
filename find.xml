@@ -1,0 +1,19 @@
+<application>
+  <component name="FindSettings">
+    <option name="customScope" value="File 'E:\Github\pdp2016\module\Pdp\view\pdp\admin\image\modal.tpl.phtml'" />
+    <option name="defaultScopeName" value="File 'E:\Github\pdp2016\module\Pdp\view\pdp\admin\image\modal.tpl.phtml'" />
+    <option name="SEARCH_SCOPE" value="File 'E:\Github\pdp2016\module\Pdp\view\pdp\admin\image\modal.tpl.phtml'" />
+    <recentFileMasks>
+      <mask>*.properties</mask>
+      <mask>*.jsp</mask>
+      <mask>*.xml</mask>
+      <mask>*.java</mask>
+      <mask>*.js</mask>
+      <mask>*.as</mask>
+      <mask>*.css</mask>
+      <mask>*.mxml</mask>
+      <mask>*.php</mask>
+      <mask>*.html</mask>
+    </recentFileMasks>
+  </component>
+</application>

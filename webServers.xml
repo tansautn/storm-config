@@ -1,0 +1,35 @@
+<application>
+  <component name="WebServers">
+    <sftpAdvancedGlobalOptions>
+      <SftpAdvancedOptions hostKeyCheckingLevel="NO">
+        <option name="hostKeyCheckingLevel" value="NO" />
+      </SftpAdvancedOptions>
+    </sftpAdvancedGlobalOptions>
+    <option name="servers">
+      <webServer id="9e8044c6-edc3-4873-966a-058769165cc0" name="UK" url="http://77services.uk">
+        <fileTransfer host="192.121.166.58" port="22" privateKey="E:\Z-Data\Dev\rsa-phpstorm-no-pwd.key" accessType="SFTP" keyPair="true">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
+      <webServer id="8273f172-b4c6-4bd9-9146-b2c6238d55ed" name="188.166.176.19" url="http://188.166.176.19/projects/duc/harts">
+        <fileTransfer host="188.166.176.19" port="22" accessType="SFTP">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
+      <webServer id="a1dc74e7-1d16-4280-bbe7-d31cf425b2e9" name="UK-MAGE" url="http://zuko.pw/">
+        <fileTransfer host="zuko.pw" port="22" rootFolder="/var/www/" accessType="SFTP">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</application>

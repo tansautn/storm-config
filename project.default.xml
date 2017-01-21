@@ -1,0 +1,155 @@
+<application>
+  <component name="ProjectManager">
+    <defaultProject>
+      <component name="Behat">
+        <behat_settings>
+          <BehatSettings />
+        </behat_settings>
+      </component>
+      <component name="ComposerJsonPluginSettings">
+        <unboundedVersionInspectionSettings>
+          <excludedPackages />
+        </unboundedVersionInspectionSettings>
+        <customRepositories />
+      </component>
+      <component name="ComposerSettings">
+        <pharPath>C:\ProgramData\ComposerSetup\bin\composer.phar</pharPath>
+      </component>
+      <component name="CopyrightManager">
+        <LanguageOptions name="PHP">
+          <option name="relativeBefore" value="false" />
+          <option name="lenBefore" value="20" />
+          <option name="lenAfter" value="20" />
+        </LanguageOptions>
+        <LanguageOptions name="__TEMPLATE__">
+          <option name="relativeBefore" value="false" />
+          <option name="block" value="false" />
+          <option name="lenBefore" value="60" />
+          <option name="lenAfter" value="60" />
+          <option name="box" value="true" />
+        </LanguageOptions>
+      </component>
+      <component name="Encoding">
+        <file url="PROJECT" charset="UTF-8" />
+      </component>
+      <component name="FileColors">
+        <fileColor scope="Problems" color="Rose" />
+      </component>
+      <component name="Git.Settings">
+        <option name="UPDATE_TYPE" value="MERGE" />
+        <option name="PUSH_AUTO_UPDATE" value="true" />
+        <option name="ROOT_SYNC" value="SYNC" />
+        <option name="AUTO_COMMIT_ON_CHERRY_PICK" value="true" />
+        <option name="FORCE_PUSH_ALLOWED" value="true" />
+      </component>
+      <component name="InspectionProjectProfileManager">
+        <profile version="1.0">
+          <option name="myName" value="Project Default" />
+          <option name="myLocal" value="true" />
+          <inspection_tool class="SpellCheckingInspection" enabled="false" level="TYPO" enabled_by_default="false" />
+        </profile>
+        <version value="1.0" />
+      </component>
+      <component name="JavaScriptSettings">
+        <option name="languageLevel" value="ES5" />
+      </component>
+      <component name="JsBowerSettings">
+        <exe-path>$USER_HOME$/AppData/Roaming/npm/bower.cmd</exe-path>
+        <config-path>E:/Github/pdp2016/bower.json</config-path>
+      </component>
+      <component name="JsFlowSettings">
+        <service-enabled>false</service-enabled>
+        <exe-path />
+        <annotation-enable>false</annotation-enable>
+        <other-services-enabled>false</other-services-enabled>
+      </component>
+      <component name="PhpUnit">
+        <phpunit_settings>
+          <PhpUnitSettings />
+        </phpunit_settings>
+      </component>
+      <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" interpreter_name="PHP 5.6">
+        <include_path>
+          <path value="." />
+        </include_path>
+      </component>
+      <component name="ProjectDictionaryState">
+        <dictionary name="Zuko" />
+      </component>
+      <component name="ProjectInspectionProfilesVisibleTreeState">
+        <entry key="Project Default">
+          <profile-state>
+            <expanded-state>
+              <State>
+                <id />
+              </State>
+              <State>
+                <id>GeneralPHP</id>
+              </State>
+              <State>
+                <id>PHP</id>
+              </State>
+              <State>
+                <id>PHPDocPHP</id>
+              </State>
+            </expanded-state>
+            <selected-state>
+              <State>
+                <id>PhpMissingDocCommentInspection</id>
+              </State>
+            </selected-state>
+          </profile-state>
+        </entry>
+      </component>
+      <component name="PropertiesComponent">
+        <property name="options.lastSelected" value="Configurable.PHP.Composer" />
+        <property name="options.splitter.main.proportions" value="0.3" />
+        <property name="options.splitter.details.proportions" value="0.2" />
+        <property name="options.searchVisible" value="true" />
+        <property name="settings.editor.selected.configurable" value="configurable.group.tools" />
+        <property name="last_opened_file_path" value="E:/Github/pdp2016/bower.json" />
+        <property name="nodejs_interpreter_path" value="C:/Program Files/nodejs/node" />
+        <property name="JavaScriptPreferStrict" value="true" />
+        <property name="JavaScriptWeakerCompletionTypeGuess" value="false" />
+      </component>
+      <component name="PublishConfigData" promptOnRemoteOverwrite="CHECK_CONTENT" createEmptyFolders="true" traceLevel="DETAILS" exclude=".svn;.cvs;.idea;.DS_Store;.git*;.hg" />
+      <component name="SvnConfiguration">
+        <configuration>C:\Users\Zuko\AppData\Roaming\Subversion</configuration>
+      </component>
+      <component name="VagrantProjectSettings">
+        <option name="instanceFolder" value="" />
+        <option name="provider" value="" />
+      </component>
+      <component name="VcsContentAnnotationSettings">
+        <option name="myLimit" value="2678400000" />
+      </component>
+      <component name="masterDetails">
+        <states>
+          <state key="Copyright.UI">
+            <settings>
+              <last-edited>Modify</last-edited>
+              <splitter-proportions>
+                <option name="proportions">
+                  <list>
+                    <option value="0.2" />
+                  </list>
+                </option>
+              </splitter-proportions>
+            </settings>
+          </state>
+          <state key="ScopeChooserConfigurable.UI">
+            <settings>
+              <splitter-proportions>
+                <option name="proportions">
+                  <list>
+                    <option value="0.2" />
+                  </list>
+                </option>
+              </splitter-proportions>
+            </settings>
+          </state>
+        </states>
+      </component>
+    </defaultProject>
+  </component>
+</application>

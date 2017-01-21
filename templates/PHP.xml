@@ -1,0 +1,16 @@
+<templateSet group="PHP">
+  <template name="prn" value="print_r($END$);" description="print_r" toReformat="false" toShortenFQNames="true" />
+  <template name="vad" value="echo '&lt;pre&gt;';&#10;var_dump($var$);&#10;echo '&lt;pre&gt;';&#10;exit();$END$" description="var_dump with echo pre lines" toReformat="true" toShortenFQNames="true">
+    <variable name="var" expression="phpVar" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="PHP" value="true" />
+    </context>
+  </template>
+  <template name="ech" value="echo ($this-&gt;curl-&gt;response);&#10;$END$" description="echo curl response" toReformat="false" toShortenFQNames="true" />
+  <template name="zdeg" value="\Zend\Debug\Debug::dump($VALUE$);&#10;exit();$END$" description="Zend Debug" toReformat="true" toShortenFQNames="true">
+    <variable name="VALUE" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="PHP" value="true" />
+    </context>
+  </template>
+</templateSet>
