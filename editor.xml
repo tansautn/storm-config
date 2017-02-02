@@ -2,6 +2,14 @@
   <component name="EditorSettings">
     <option name="USE_SOFT_WRAPS" value="MAIN_EDITOR:CONSOLE" />
     <option name="SHOW_QUICK_DOC_ON_MOUSE_OVER_ELEMENT" value="true" />
-    <option name="QUICK_DOC_ON_MOUSE_OVER_DELAY_MS" value="750" />
+    <option name="QUICK_DOC_ON_MOUSE_OVER_DELAY_MS" value="700" />
+  </component>
+  <component name="TodoConfiguration">
+    <pattern pattern="\btodo\b.*" />
+    <pattern icon="question" pattern="\bfixme\b.*" />
+    <pattern icon="important" useCustomColors="true" pattern="\bdelme\b.*">
+      <option name="FOREGROUND" value="b60001" />
+      <option name="FONT_TYPE" value="2" />
+    </pattern>
   </component>
 </application>

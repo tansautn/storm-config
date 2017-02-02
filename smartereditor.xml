@@ -108,10 +108,10 @@
           <option name="className" value="com.ansorgit.plugins.bash.lang.psi.api.shell.BashIf" />
         </PsiClassname>
         <PsiClassname>
-          <option name="className" value="com.intellij.psi.PsiSwitchStatement" />
+          <option name="className" value="com.intellij.lang.javascript.psi.JSFunction" />
         </PsiClassname>
         <PsiClassname>
-          <option name="className" value="com.intellij.lang.javascript.psi.JSFunction" />
+          <option name="className" value="com.intellij.lang.javascript.psi.JSBlockStatement" />
         </PsiClassname>
         <PsiClassname>
           <option name="className" value="com.jetbrains.php.lang.psi.elements.Foreach" />

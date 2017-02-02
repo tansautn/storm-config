@@ -1,12 +1,13 @@
 <application>
   <component name="CodeFoldingSettings">
+    <option name="COLLAPSE_IMPORTS" value="false" />
     <option name="COLLAPSE_FILE_HEADER" value="false" />
     <option name="COLLAPSE_DOC_COMMENTS" value="true" />
     <option name="COLLAPSE_CUSTOM_FOLDING_REGIONS" value="true" />
   </component>
   <component name="CodeInsightSettings">
     <option name="PARAMETER_INFO_DELAY" value="2000" />
-    <option name="COMPLETION_CASE_SENSITIVE" value="1" />
+    <option name="COMPLETION_CASE_SENSITIVE" value="2" />
     <option name="SELECT_AUTOPOPUP_SUGGESTIONS_BY_CHARS" value="true" />
     <option name="SURROUND_SELECTION_ON_QUOTE_TYPED" value="true" />
     <option name="HIGHLIGHT_SCOPE" value="true" />
@@ -16,7 +17,7 @@
     <option name="ERROR_STRIPE_MARK_MIN_HEIGHT" value="3" />
   </component>
   <component name="PhpCodeFoldingSettings">
+    <option name="COLLAPSE_PHP_TAGS" value="true" />
     <option name="COLLAPSE_HERE_DOCS" value="true" />
-    <option name="COLLAPSE_IMPORTS" value="false" />
   </component>
 </application>

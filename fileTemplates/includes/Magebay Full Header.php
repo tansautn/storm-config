@@ -26,7 +26,7 @@
 #end
  * @CREATED    : ${TIME} , ${DAY}/${MONTH_NAME_SHORT}/${YEAR}
  * @DETAIL     : #if(${DETAIL})${DETAIL}
-#end
+ #end
 #if(${XHL})*   *  *  *  *  *  *  *  *  *  *  *  *  *  *  *  *   *
 #else* --*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*-- *
 #end
