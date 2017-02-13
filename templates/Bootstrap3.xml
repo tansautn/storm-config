@@ -11,6 +11,7 @@
       <option name="CSS" value="false" />
       <option name="CoffeeScript" value="false" />
       <option name="JAVA_SCRIPT" value="false" />
+      <option name="JSX_HTML" value="false" />
       <option name="HAML" value="false" />
       <option name="GSP" value="true" />
       <option name="SQL" value="false" />
@@ -28,6 +29,7 @@
       <option name="CSS" value="false" />
       <option name="CoffeeScript" value="false" />
       <option name="JAVA_SCRIPT" value="false" />
+      <option name="JSX_HTML" value="false" />
       <option name="HAML" value="false" />
       <option name="GSP" value="true" />
       <option name="SQL" value="false" />
@@ -45,6 +47,7 @@
       <option name="CSS" value="false" />
       <option name="CoffeeScript" value="false" />
       <option name="JAVA_SCRIPT" value="false" />
+      <option name="JSX_HTML" value="false" />
       <option name="HAML" value="false" />
       <option name="GSP" value="true" />
       <option name="SQL" value="false" />
@@ -62,6 +65,7 @@
       <option name="CSS" value="false" />
       <option name="CoffeeScript" value="false" />
       <option name="JAVA_SCRIPT" value="false" />
+      <option name="JSX_HTML" value="false" />
       <option name="HAML" value="false" />
       <option name="GSP" value="true" />
       <option name="SQL" value="false" />
@@ -79,6 +83,7 @@
       <option name="CSS" value="false" />
       <option name="CoffeeScript" value="false" />
       <option name="JAVA_SCRIPT" value="false" />
+      <option name="JSX_HTML" value="false" />
       <option name="HAML" value="false" />
       <option name="GSP" value="true" />
       <option name="SQL" value="false" />
@@ -113,6 +118,7 @@
       <option name="CSS" value="false" />
       <option name="CoffeeScript" value="false" />
       <option name="JAVA_SCRIPT" value="false" />
+      <option name="JSX_HTML" value="false" />
       <option name="HAML" value="false" />
       <option name="GSP" value="true" />
       <option name="SQL" value="false" />
@@ -128,6 +134,7 @@
       <option name="CSS" value="false" />
       <option name="CoffeeScript" value="false" />
       <option name="JAVA_SCRIPT" value="false" />
+      <option name="JSX_HTML" value="false" />
       <option name="HAML" value="false" />
       <option name="GSP" value="true" />
       <option name="SQL" value="false" />
@@ -143,6 +150,7 @@
       <option name="CSS" value="false" />
       <option name="CoffeeScript" value="false" />
       <option name="JAVA_SCRIPT" value="false" />
+      <option name="JSX_HTML" value="false" />
       <option name="HAML" value="false" />
       <option name="GSP" value="true" />
       <option name="SQL" value="false" />
@@ -158,6 +166,7 @@
       <option name="CSS" value="false" />
       <option name="CoffeeScript" value="false" />
       <option name="JAVA_SCRIPT" value="false" />
+      <option name="JSX_HTML" value="false" />
       <option name="HAML" value="false" />
       <option name="GSP" value="true" />
       <option name="SQL" value="false" />
@@ -174,6 +183,7 @@
       <option name="CSS" value="false" />
       <option name="CoffeeScript" value="false" />
       <option name="JAVA_SCRIPT" value="false" />
+      <option name="JSX_HTML" value="false" />
       <option name="HAML" value="false" />
       <option name="GSP" value="true" />
       <option name="SQL" value="false" />
@@ -190,6 +200,7 @@
       <option name="CSS" value="false" />
       <option name="CoffeeScript" value="false" />
       <option name="JAVA_SCRIPT" value="false" />
+      <option name="JSX_HTML" value="false" />
       <option name="HAML" value="false" />
       <option name="GSP" value="true" />
       <option name="SQL" value="false" />
@@ -207,6 +218,7 @@
       <option name="CSS" value="false" />
       <option name="CoffeeScript" value="false" />
       <option name="JAVA_SCRIPT" value="false" />
+      <option name="JSX_HTML" value="false" />
       <option name="HAML" value="false" />
       <option name="GSP" value="true" />
       <option name="SQL" value="false" />
@@ -225,6 +237,7 @@
       <option name="CSS" value="false" />
       <option name="CoffeeScript" value="false" />
       <option name="JAVA_SCRIPT" value="false" />
+      <option name="JSX_HTML" value="false" />
       <option name="HAML" value="false" />
       <option name="GSP" value="true" />
       <option name="SQL" value="false" />
@@ -249,6 +262,7 @@
       <option name="CSS" value="false" />
       <option name="CoffeeScript" value="false" />
       <option name="JAVA_SCRIPT" value="false" />
+      <option name="JSX_HTML" value="false" />
       <option name="HAML" value="false" />
       <option name="GSP" value="true" />
       <option name="SQL" value="false" />
@@ -268,6 +282,7 @@
       <option name="CSS" value="false" />
       <option name="CoffeeScript" value="false" />
       <option name="JAVA_SCRIPT" value="false" />
+      <option name="JSX_HTML" value="false" />
       <option name="HAML" value="false" />
       <option name="GSP" value="true" />
       <option name="SQL" value="false" />
@@ -286,6 +301,7 @@
       <option name="CSS" value="false" />
       <option name="CoffeeScript" value="false" />
       <option name="JAVA_SCRIPT" value="false" />
+      <option name="JSX_HTML" value="false" />
       <option name="HAML" value="false" />
       <option name="GSP" value="true" />
       <option name="SQL" value="false" />
@@ -302,6 +318,7 @@
       <option name="CSS" value="false" />
       <option name="CoffeeScript" value="false" />
       <option name="JAVA_SCRIPT" value="false" />
+      <option name="JSX_HTML" value="false" />
       <option name="HAML" value="false" />
       <option name="GSP" value="true" />
       <option name="SQL" value="false" />
@@ -318,6 +335,7 @@
       <option name="CSS" value="false" />
       <option name="CoffeeScript" value="false" />
       <option name="JAVA_SCRIPT" value="false" />
+      <option name="JSX_HTML" value="false" />
       <option name="HAML" value="false" />
       <option name="GSP" value="true" />
       <option name="SQL" value="false" />
@@ -334,6 +352,7 @@
       <option name="CSS" value="false" />
       <option name="CoffeeScript" value="false" />
       <option name="JAVA_SCRIPT" value="false" />
+      <option name="JSX_HTML" value="false" />
       <option name="HAML" value="false" />
       <option name="GSP" value="true" />
       <option name="SQL" value="false" />
@@ -350,6 +369,7 @@
       <option name="CSS" value="false" />
       <option name="CoffeeScript" value="false" />
       <option name="JAVA_SCRIPT" value="false" />
+      <option name="JSX_HTML" value="false" />
       <option name="HAML" value="false" />
       <option name="GSP" value="true" />
       <option name="SQL" value="false" />
@@ -366,6 +386,7 @@
       <option name="CSS" value="false" />
       <option name="CoffeeScript" value="false" />
       <option name="JAVA_SCRIPT" value="false" />
+      <option name="JSX_HTML" value="false" />
       <option name="HAML" value="false" />
       <option name="GSP" value="true" />
       <option name="SQL" value="false" />
@@ -382,6 +403,7 @@
       <option name="CSS" value="false" />
       <option name="CoffeeScript" value="false" />
       <option name="JAVA_SCRIPT" value="false" />
+      <option name="JSX_HTML" value="false" />
       <option name="HAML" value="false" />
       <option name="GSP" value="true" />
       <option name="SQL" value="false" />
@@ -400,6 +422,7 @@
       <option name="CSS" value="false" />
       <option name="CoffeeScript" value="false" />
       <option name="JAVA_SCRIPT" value="false" />
+      <option name="JSX_HTML" value="false" />
       <option name="HAML" value="false" />
       <option name="GSP" value="true" />
       <option name="SQL" value="false" />
@@ -418,6 +441,7 @@
       <option name="CSS" value="false" />
       <option name="CoffeeScript" value="false" />
       <option name="JAVA_SCRIPT" value="false" />
+      <option name="JSX_HTML" value="false" />
       <option name="HAML" value="false" />
       <option name="GSP" value="true" />
       <option name="SQL" value="false" />
@@ -435,6 +459,7 @@
       <option name="CSS" value="false" />
       <option name="CoffeeScript" value="false" />
       <option name="JAVA_SCRIPT" value="false" />
+      <option name="JSX_HTML" value="false" />
       <option name="HAML" value="false" />
       <option name="GSP" value="true" />
       <option name="SQL" value="false" />
@@ -456,6 +481,7 @@
       <option name="CSS" value="false" />
       <option name="CoffeeScript" value="false" />
       <option name="JAVA_SCRIPT" value="false" />
+      <option name="JSX_HTML" value="false" />
       <option name="HAML" value="false" />
       <option name="GSP" value="true" />
       <option name="SQL" value="false" />
@@ -476,6 +502,7 @@
       <option name="CSS" value="false" />
       <option name="CoffeeScript" value="false" />
       <option name="JAVA_SCRIPT" value="false" />
+      <option name="JSX_HTML" value="false" />
       <option name="HAML" value="false" />
       <option name="GSP" value="true" />
       <option name="SQL" value="false" />
@@ -496,6 +523,7 @@
       <option name="CSS" value="false" />
       <option name="CoffeeScript" value="false" />
       <option name="JAVA_SCRIPT" value="false" />
+      <option name="JSX_HTML" value="false" />
       <option name="HAML" value="false" />
       <option name="GSP" value="true" />
       <option name="SQL" value="false" />
@@ -513,6 +541,7 @@
       <option name="CSS" value="false" />
       <option name="CoffeeScript" value="false" />
       <option name="JAVA_SCRIPT" value="false" />
+      <option name="JSX_HTML" value="false" />
       <option name="HAML" value="false" />
       <option name="GSP" value="true" />
       <option name="SQL" value="false" />
@@ -528,6 +557,7 @@
       <option name="CSS" value="false" />
       <option name="CoffeeScript" value="false" />
       <option name="JAVA_SCRIPT" value="false" />
+      <option name="JSX_HTML" value="false" />
       <option name="HAML" value="false" />
       <option name="GSP" value="true" />
       <option name="SQL" value="false" />
@@ -543,6 +573,7 @@
       <option name="CSS" value="false" />
       <option name="CoffeeScript" value="false" />
       <option name="JAVA_SCRIPT" value="false" />
+      <option name="JSX_HTML" value="false" />
       <option name="HAML" value="false" />
       <option name="GSP" value="true" />
       <option name="SQL" value="false" />
@@ -558,6 +589,7 @@
       <option name="CSS" value="false" />
       <option name="CoffeeScript" value="false" />
       <option name="JAVA_SCRIPT" value="false" />
+      <option name="JSX_HTML" value="false" />
       <option name="HAML" value="false" />
       <option name="GSP" value="true" />
       <option name="SQL" value="false" />
@@ -573,6 +605,7 @@
       <option name="CSS" value="false" />
       <option name="CoffeeScript" value="false" />
       <option name="JAVA_SCRIPT" value="false" />
+      <option name="JSX_HTML" value="false" />
       <option name="HAML" value="false" />
       <option name="GSP" value="true" />
       <option name="SQL" value="false" />
@@ -588,6 +621,7 @@
       <option name="CSS" value="false" />
       <option name="CoffeeScript" value="false" />
       <option name="JAVA_SCRIPT" value="false" />
+      <option name="JSX_HTML" value="false" />
       <option name="HAML" value="false" />
       <option name="GSP" value="true" />
       <option name="SQL" value="false" />
@@ -605,6 +639,7 @@
       <option name="CSS" value="false" />
       <option name="CoffeeScript" value="false" />
       <option name="JAVA_SCRIPT" value="false" />
+      <option name="JSX_HTML" value="false" />
       <option name="HAML" value="false" />
       <option name="GSP" value="true" />
       <option name="SQL" value="false" />
@@ -622,6 +657,7 @@
       <option name="CSS" value="false" />
       <option name="CoffeeScript" value="false" />
       <option name="JAVA_SCRIPT" value="false" />
+      <option name="JSX_HTML" value="false" />
       <option name="HAML" value="false" />
       <option name="GSP" value="true" />
       <option name="SQL" value="false" />
@@ -639,6 +675,7 @@
       <option name="CSS" value="false" />
       <option name="CoffeeScript" value="false" />
       <option name="JAVA_SCRIPT" value="false" />
+      <option name="JSX_HTML" value="false" />
       <option name="HAML" value="false" />
       <option name="GSP" value="true" />
       <option name="SQL" value="false" />
@@ -656,6 +693,7 @@
       <option name="CSS" value="false" />
       <option name="CoffeeScript" value="false" />
       <option name="JAVA_SCRIPT" value="false" />
+      <option name="JSX_HTML" value="false" />
       <option name="HAML" value="false" />
       <option name="GSP" value="true" />
       <option name="SQL" value="false" />
@@ -673,6 +711,7 @@
       <option name="CSS" value="false" />
       <option name="CoffeeScript" value="false" />
       <option name="JAVA_SCRIPT" value="false" />
+      <option name="JSX_HTML" value="false" />
       <option name="HAML" value="false" />
       <option name="GSP" value="true" />
       <option name="SQL" value="false" />
@@ -691,6 +730,7 @@
       <option name="CSS" value="false" />
       <option name="CoffeeScript" value="false" />
       <option name="JAVA_SCRIPT" value="false" />
+      <option name="JSX_HTML" value="false" />
       <option name="HAML" value="false" />
       <option name="GSP" value="true" />
       <option name="SQL" value="false" />
@@ -709,6 +749,7 @@
       <option name="CSS" value="false" />
       <option name="CoffeeScript" value="false" />
       <option name="JAVA_SCRIPT" value="false" />
+      <option name="JSX_HTML" value="false" />
       <option name="HAML" value="false" />
       <option name="GSP" value="true" />
       <option name="SQL" value="false" />
@@ -726,6 +767,7 @@
       <option name="CSS" value="false" />
       <option name="CoffeeScript" value="false" />
       <option name="JAVA_SCRIPT" value="false" />
+      <option name="JSX_HTML" value="false" />
       <option name="HAML" value="false" />
       <option name="GSP" value="true" />
       <option name="SQL" value="false" />
@@ -748,6 +790,7 @@
       <option name="CSS" value="false" />
       <option name="CoffeeScript" value="false" />
       <option name="JAVA_SCRIPT" value="false" />
+      <option name="JSX_HTML" value="false" />
       <option name="HAML" value="false" />
       <option name="GSP" value="true" />
       <option name="SQL" value="false" />
@@ -766,6 +809,7 @@
       <option name="CSS" value="false" />
       <option name="CoffeeScript" value="false" />
       <option name="JAVA_SCRIPT" value="false" />
+      <option name="JSX_HTML" value="false" />
       <option name="HAML" value="false" />
       <option name="GSP" value="true" />
       <option name="SQL" value="false" />
@@ -782,6 +826,7 @@
       <option name="CSS" value="false" />
       <option name="CoffeeScript" value="false" />
       <option name="JAVA_SCRIPT" value="false" />
+      <option name="JSX_HTML" value="false" />
       <option name="HAML" value="false" />
       <option name="GSP" value="true" />
       <option name="SQL" value="false" />
@@ -798,6 +843,7 @@
       <option name="CSS" value="false" />
       <option name="CoffeeScript" value="false" />
       <option name="JAVA_SCRIPT" value="false" />
+      <option name="JSX_HTML" value="false" />
       <option name="HAML" value="false" />
       <option name="GSP" value="true" />
       <option name="SQL" value="false" />
@@ -813,6 +859,7 @@
       <option name="CSS" value="false" />
       <option name="CoffeeScript" value="false" />
       <option name="JAVA_SCRIPT" value="false" />
+      <option name="JSX_HTML" value="false" />
       <option name="HAML" value="false" />
       <option name="GSP" value="true" />
       <option name="SQL" value="false" />
@@ -829,6 +876,7 @@
       <option name="CSS" value="false" />
       <option name="CoffeeScript" value="false" />
       <option name="JAVA_SCRIPT" value="false" />
+      <option name="JSX_HTML" value="false" />
       <option name="HAML" value="false" />
       <option name="GSP" value="true" />
       <option name="SQL" value="false" />
@@ -845,6 +893,7 @@
       <option name="CSS" value="false" />
       <option name="CoffeeScript" value="false" />
       <option name="JAVA_SCRIPT" value="false" />
+      <option name="JSX_HTML" value="false" />
       <option name="HAML" value="false" />
       <option name="GSP" value="true" />
       <option name="SQL" value="false" />
@@ -861,6 +910,7 @@
       <option name="CSS" value="false" />
       <option name="CoffeeScript" value="false" />
       <option name="JAVA_SCRIPT" value="false" />
+      <option name="JSX_HTML" value="false" />
       <option name="HAML" value="false" />
       <option name="GSP" value="true" />
       <option name="SQL" value="false" />
@@ -879,6 +929,7 @@
       <option name="CSS" value="false" />
       <option name="CoffeeScript" value="false" />
       <option name="JAVA_SCRIPT" value="false" />
+      <option name="JSX_HTML" value="false" />
       <option name="HAML" value="false" />
       <option name="GSP" value="true" />
       <option name="SQL" value="false" />
@@ -896,6 +947,7 @@
       <option name="CSS" value="false" />
       <option name="CoffeeScript" value="false" />
       <option name="JAVA_SCRIPT" value="false" />
+      <option name="JSX_HTML" value="false" />
       <option name="HAML" value="false" />
       <option name="GSP" value="true" />
       <option name="SQL" value="false" />
@@ -915,6 +967,7 @@
       <option name="CSS" value="false" />
       <option name="CoffeeScript" value="false" />
       <option name="JAVA_SCRIPT" value="false" />
+      <option name="JSX_HTML" value="false" />
       <option name="HAML" value="false" />
       <option name="GSP" value="true" />
       <option name="SQL" value="false" />
@@ -934,6 +987,7 @@
       <option name="CSS" value="false" />
       <option name="CoffeeScript" value="false" />
       <option name="JAVA_SCRIPT" value="false" />
+      <option name="JSX_HTML" value="false" />
       <option name="HAML" value="false" />
       <option name="GSP" value="true" />
       <option name="SQL" value="false" />
@@ -952,6 +1006,7 @@
       <option name="CSS" value="false" />
       <option name="CoffeeScript" value="false" />
       <option name="JAVA_SCRIPT" value="false" />
+      <option name="JSX_HTML" value="false" />
       <option name="HAML" value="false" />
       <option name="GSP" value="true" />
       <option name="SQL" value="false" />
@@ -970,6 +1025,7 @@
       <option name="CSS" value="false" />
       <option name="CoffeeScript" value="false" />
       <option name="JAVA_SCRIPT" value="false" />
+      <option name="JSX_HTML" value="false" />
       <option name="HAML" value="false" />
       <option name="GSP" value="true" />
       <option name="SQL" value="false" />
@@ -988,6 +1044,7 @@
       <option name="CSS" value="false" />
       <option name="CoffeeScript" value="false" />
       <option name="JAVA_SCRIPT" value="false" />
+      <option name="JSX_HTML" value="false" />
       <option name="HAML" value="false" />
       <option name="GSP" value="true" />
       <option name="SQL" value="false" />
@@ -1007,6 +1064,7 @@
       <option name="CSS" value="false" />
       <option name="CoffeeScript" value="false" />
       <option name="JAVA_SCRIPT" value="false" />
+      <option name="JSX_HTML" value="false" />
       <option name="HAML" value="false" />
       <option name="GSP" value="true" />
       <option name="SQL" value="false" />
@@ -1024,6 +1082,7 @@
       <option name="CSS" value="false" />
       <option name="CoffeeScript" value="false" />
       <option name="JAVA_SCRIPT" value="false" />
+      <option name="JSX_HTML" value="false" />
       <option name="HAML" value="false" />
       <option name="GSP" value="true" />
       <option name="SQL" value="false" />
@@ -1043,6 +1102,7 @@
       <option name="CSS" value="false" />
       <option name="CoffeeScript" value="false" />
       <option name="JAVA_SCRIPT" value="false" />
+      <option name="JSX_HTML" value="false" />
       <option name="HAML" value="false" />
       <option name="GSP" value="true" />
       <option name="SQL" value="false" />
@@ -1059,6 +1119,7 @@
       <option name="CSS" value="false" />
       <option name="CoffeeScript" value="false" />
       <option name="JAVA_SCRIPT" value="false" />
+      <option name="JSX_HTML" value="false" />
       <option name="HAML" value="false" />
       <option name="GSP" value="true" />
       <option name="SQL" value="false" />
@@ -1076,6 +1137,7 @@
       <option name="CSS" value="false" />
       <option name="CoffeeScript" value="false" />
       <option name="JAVA_SCRIPT" value="false" />
+      <option name="JSX_HTML" value="false" />
       <option name="HAML" value="false" />
       <option name="GSP" value="true" />
       <option name="SQL" value="false" />
@@ -1091,6 +1153,7 @@
       <option name="CSS" value="false" />
       <option name="CoffeeScript" value="false" />
       <option name="JAVA_SCRIPT" value="false" />
+      <option name="JSX_HTML" value="false" />
       <option name="HAML" value="false" />
       <option name="GSP" value="true" />
       <option name="SQL" value="false" />
@@ -1106,6 +1169,7 @@
       <option name="CSS" value="false" />
       <option name="CoffeeScript" value="false" />
       <option name="JAVA_SCRIPT" value="false" />
+      <option name="JSX_HTML" value="false" />
       <option name="HAML" value="false" />
       <option name="GSP" value="true" />
       <option name="SQL" value="false" />
@@ -1121,6 +1185,7 @@
       <option name="CSS" value="false" />
       <option name="CoffeeScript" value="false" />
       <option name="JAVA_SCRIPT" value="false" />
+      <option name="JSX_HTML" value="false" />
       <option name="HAML" value="false" />
       <option name="GSP" value="true" />
       <option name="SQL" value="false" />
@@ -1136,6 +1201,7 @@
       <option name="CSS" value="false" />
       <option name="CoffeeScript" value="false" />
       <option name="JAVA_SCRIPT" value="false" />
+      <option name="JSX_HTML" value="false" />
       <option name="HAML" value="false" />
       <option name="GSP" value="true" />
       <option name="SQL" value="false" />
@@ -1151,6 +1217,7 @@
       <option name="CSS" value="false" />
       <option name="CoffeeScript" value="false" />
       <option name="JAVA_SCRIPT" value="false" />
+      <option name="JSX_HTML" value="false" />
       <option name="HAML" value="false" />
       <option name="GSP" value="true" />
       <option name="SQL" value="false" />
@@ -1166,6 +1233,7 @@
       <option name="CSS" value="false" />
       <option name="CoffeeScript" value="false" />
       <option name="JAVA_SCRIPT" value="false" />
+      <option name="JSX_HTML" value="false" />
       <option name="HAML" value="false" />
       <option name="GSP" value="true" />
       <option name="SQL" value="false" />
@@ -1181,6 +1249,7 @@
       <option name="CSS" value="false" />
       <option name="CoffeeScript" value="false" />
       <option name="JAVA_SCRIPT" value="false" />
+      <option name="JSX_HTML" value="false" />
       <option name="HAML" value="false" />
       <option name="GSP" value="true" />
       <option name="SQL" value="false" />
@@ -1196,6 +1265,7 @@
       <option name="CSS" value="false" />
       <option name="CoffeeScript" value="false" />
       <option name="JAVA_SCRIPT" value="false" />
+      <option name="JSX_HTML" value="false" />
       <option name="HAML" value="false" />
       <option name="GSP" value="true" />
       <option name="SQL" value="false" />
@@ -1211,6 +1281,7 @@
       <option name="CSS" value="false" />
       <option name="CoffeeScript" value="false" />
       <option name="JAVA_SCRIPT" value="false" />
+      <option name="JSX_HTML" value="false" />
       <option name="HAML" value="false" />
       <option name="GSP" value="true" />
       <option name="SQL" value="false" />
@@ -1226,6 +1297,7 @@
       <option name="CSS" value="false" />
       <option name="CoffeeScript" value="false" />
       <option name="JAVA_SCRIPT" value="false" />
+      <option name="JSX_HTML" value="false" />
       <option name="HAML" value="false" />
       <option name="GSP" value="true" />
       <option name="SQL" value="false" />
@@ -1241,6 +1313,7 @@
       <option name="CSS" value="false" />
       <option name="CoffeeScript" value="false" />
       <option name="JAVA_SCRIPT" value="false" />
+      <option name="JSX_HTML" value="false" />
       <option name="HAML" value="false" />
       <option name="GSP" value="true" />
       <option name="SQL" value="false" />
@@ -1256,6 +1329,7 @@
       <option name="CSS" value="false" />
       <option name="CoffeeScript" value="false" />
       <option name="JAVA_SCRIPT" value="false" />
+      <option name="JSX_HTML" value="false" />
       <option name="HAML" value="false" />
       <option name="GSP" value="true" />
       <option name="SQL" value="false" />
@@ -1271,6 +1345,7 @@
       <option name="CSS" value="false" />
       <option name="CoffeeScript" value="false" />
       <option name="JAVA_SCRIPT" value="false" />
+      <option name="JSX_HTML" value="false" />
       <option name="HAML" value="false" />
       <option name="GSP" value="true" />
       <option name="SQL" value="false" />
@@ -1286,6 +1361,7 @@
       <option name="CSS" value="false" />
       <option name="CoffeeScript" value="false" />
       <option name="JAVA_SCRIPT" value="false" />
+      <option name="JSX_HTML" value="false" />
       <option name="HAML" value="false" />
       <option name="GSP" value="true" />
       <option name="SQL" value="false" />
@@ -1305,6 +1381,7 @@
       <option name="CSS" value="false" />
       <option name="CoffeeScript" value="false" />
       <option name="JAVA_SCRIPT" value="false" />
+      <option name="JSX_HTML" value="false" />
       <option name="HAML" value="false" />
       <option name="GSP" value="true" />
       <option name="SQL" value="false" />
@@ -1323,6 +1400,7 @@
       <option name="CSS" value="false" />
       <option name="CoffeeScript" value="false" />
       <option name="JAVA_SCRIPT" value="false" />
+      <option name="JSX_HTML" value="false" />
       <option name="HAML" value="false" />
       <option name="GSP" value="true" />
       <option name="SQL" value="false" />
@@ -1342,6 +1420,7 @@
       <option name="CSS" value="false" />
       <option name="CoffeeScript" value="false" />
       <option name="JAVA_SCRIPT" value="false" />
+      <option name="JSX_HTML" value="false" />
       <option name="HAML" value="false" />
       <option name="GSP" value="true" />
       <option name="SQL" value="false" />
@@ -1360,6 +1439,7 @@
       <option name="CSS" value="false" />
       <option name="CoffeeScript" value="false" />
       <option name="JAVA_SCRIPT" value="false" />
+      <option name="JSX_HTML" value="false" />
       <option name="HAML" value="false" />
       <option name="GSP" value="true" />
       <option name="SQL" value="false" />
@@ -1378,6 +1458,7 @@
       <option name="CSS" value="false" />
       <option name="CoffeeScript" value="false" />
       <option name="JAVA_SCRIPT" value="false" />
+      <option name="JSX_HTML" value="false" />
       <option name="HAML" value="false" />
       <option name="GSP" value="true" />
       <option name="SQL" value="false" />
@@ -1399,6 +1480,7 @@
       <option name="CSS" value="false" />
       <option name="CoffeeScript" value="false" />
       <option name="JAVA_SCRIPT" value="false" />
+      <option name="JSX_HTML" value="false" />
       <option name="HAML" value="false" />
       <option name="GSP" value="true" />
       <option name="SQL" value="false" />
@@ -1423,6 +1505,7 @@
       <option name="CSS" value="false" />
       <option name="CoffeeScript" value="false" />
       <option name="JAVA_SCRIPT" value="false" />
+      <option name="JSX_HTML" value="false" />
       <option name="HAML" value="false" />
       <option name="GSP" value="true" />
       <option name="SQL" value="false" />
@@ -1441,6 +1524,7 @@
       <option name="CSS" value="false" />
       <option name="CoffeeScript" value="false" />
       <option name="JAVA_SCRIPT" value="false" />
+      <option name="JSX_HTML" value="false" />
       <option name="HAML" value="false" />
       <option name="GSP" value="true" />
       <option name="SQL" value="false" />
@@ -1462,6 +1546,7 @@
       <option name="CSS" value="false" />
       <option name="CoffeeScript" value="false" />
       <option name="JAVA_SCRIPT" value="false" />
+      <option name="JSX_HTML" value="false" />
       <option name="HAML" value="false" />
       <option name="GSP" value="true" />
       <option name="SQL" value="false" />
@@ -1482,6 +1567,7 @@
       <option name="CSS" value="false" />
       <option name="CoffeeScript" value="false" />
       <option name="JAVA_SCRIPT" value="false" />
+      <option name="JSX_HTML" value="false" />
       <option name="HAML" value="false" />
       <option name="GSP" value="true" />
       <option name="SQL" value="false" />
@@ -1500,6 +1586,7 @@
       <option name="CSS" value="false" />
       <option name="CoffeeScript" value="false" />
       <option name="JAVA_SCRIPT" value="false" />
+      <option name="JSX_HTML" value="false" />
       <option name="HAML" value="false" />
       <option name="GSP" value="true" />
       <option name="SQL" value="false" />
@@ -1517,6 +1604,7 @@
       <option name="CSS" value="false" />
       <option name="CoffeeScript" value="false" />
       <option name="JAVA_SCRIPT" value="false" />
+      <option name="JSX_HTML" value="false" />
       <option name="HAML" value="false" />
       <option name="GSP" value="true" />
       <option name="SQL" value="false" />
