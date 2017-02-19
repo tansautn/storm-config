@@ -6,6 +6,10 @@
           <option name="url" value="http://github.com" />
           <option name="userName" value="tansautn" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://git.77services.uk:8483" />
+          <option name="userName" value="root" />
+        </UrlAndUserName>
       </list>
     </option>
   </component>
