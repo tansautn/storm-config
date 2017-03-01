@@ -22,8 +22,8 @@
           <option name="port" value="22" />
         </fileTransfer>
       </webServer>
-      <webServer id="dadc060e-13f7-4656-bd35-2c86ca30b59e" name="UK-GIT" url="https://dev.zuko.pw/">
-        <fileTransfer host="zuko.pw" port="22" privateKey="E:\Z-Data\Dev\rsa-prikey-opensshformat.key" rootFolder="/var/www/" accessType="SFTP" keyPair="true">
+      <webServer id="dadc060e-13f7-4656-bd35-2c86ca30b59e" name="JP-MAGE" url="http://jp.zuko.pw/">
+        <fileTransfer host="jp.zuko.pw" port="22" privateKey="E:\Z-Data\Dev\rsa-prikey-opensshformat.key" rootFolder="/var/www/" accessType="SFTP" keyPair="true">
           <advancedOptions>
             <advancedOptions dataProtectionLevel="Private" />
           </advancedOptions>
