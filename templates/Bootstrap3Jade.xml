@@ -634,26 +634,26 @@
       <option name="JADE" value="true" />
     </context>
   </template>
-  <template name="bs3-form-field:button" value=".form-group&#10;  .col-sm-offset-2.col-sm-10&#10;    button.btn.btn-default(type='submit') $var1$&#10;$END$" toReformat="true" toShortenFQNames="false" deactivated="true">
+  <template name="bs3-form-field:button" value=".form-group&#10;  .col-sm-offset-2.col-sm-10&#10;    button.btn.btn-default(type='submit') $var1$&#10;$END$" description="" toReformat="true" toShortenFQNames="false" deactivated="true">
     <variable name="var1" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
       <option name="JADE" value="true" />
     </context>
   </template>
-  <template name="bs3-form-field:checkbox" value=".form-group&#10;  .col-sm-offset-2.col-sm-10&#10;    .checkbox&#10;      label&#10;        input(type='checkbox')&#10;        |  $var1$&#10;$END$" toReformat="true" toShortenFQNames="false" deactivated="true">
+  <template name="bs3-form-field:checkbox" value=".form-group&#10;  .col-sm-offset-2.col-sm-10&#10;    .checkbox&#10;      label&#10;        input(type='checkbox')&#10;        |  $var1$&#10;$END$" description="" toReformat="true" toShortenFQNames="false" deactivated="true">
     <variable name="var1" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
       <option name="JADE" value="true" />
     </context>
   </template>
-  <template name="bs3-form-field:text" value=".form-group&#10;  label.col-sm-2.control-label(for='$var1$') $var2$&#10;  .col-sm-10&#10;    input.form-control(type='text', id='$var1$', placeholder='$var2$')&#10;$END$" toReformat="true" toShortenFQNames="false" deactivated="true">
+  <template name="bs3-form-field:text" value=".form-group&#10;  label.col-sm-2.control-label(for='$var1$') $var2$&#10;  .col-sm-10&#10;    input.form-control(type='text', id='$var1$', placeholder='$var2$')&#10;$END$" description="" toReformat="true" toShortenFQNames="false" deactivated="true">
     <variable name="var1" expression="" defaultValue="" alwaysStopAt="true" />
     <variable name="var2" expression="capitalize(var1)" defaultValue="" alwaysStopAt="false" />
     <context>
       <option name="JADE" value="true" />
     </context>
   </template>
-  <template name="bs3-form-field:time" value=".form-group&#10;  label.col-sm-2.control-label(for='$var1$') $var2$&#10;  .col-sm-10&#10;    input.form-control(type='time', id='$var1$', placeholder='$var2$')&#10;$END$" toReformat="true" toShortenFQNames="false" deactivated="true">
+  <template name="bs3-form-field:time" value=".form-group&#10;  label.col-sm-2.control-label(for='$var1$') $var2$&#10;  .col-sm-10&#10;    input.form-control(type='time', id='$var1$', placeholder='$var2$')&#10;$END$" description="" toReformat="true" toShortenFQNames="false" deactivated="true">
     <variable name="var1" expression="" defaultValue="" alwaysStopAt="true" />
     <variable name="var2" expression="capitalize(var1)" defaultValue="" alwaysStopAt="false" />
     <context>
