@@ -10,7 +10,16 @@
           <option name="url" value="http://git.77services.uk:8483" />
           <option name="userName" value="root" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="git@github.com:tansautn/zlr.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/tansautn/zlr.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
+    <option name="cloneParentDir" value="D:\GitHub" />
   </component>
 </application>
