@@ -46,6 +46,14 @@
           <option name="port" value="21" />
         </fileTransfer>
       </webServer>
+      <webServer id="62891832-d572-4313-9c85-04632f7b8cf9" name="WWE-JP" url="http://77services.uk/">
+        <fileTransfer host="jp.zuko.pw" port="22" privateKey="D:\Z-Data\Dev\rsa-phpstorm-no-pwd.key" rootFolder="/var/wwe/" accessType="SFTP" keyPair="true">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
     </option>
   </component>
 </application>
