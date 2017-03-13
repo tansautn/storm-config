@@ -67,9 +67,9 @@
       <path value="Main Toolbar" />
       <option name="myInitialPosition" value="-1" />
     </group>
-    <action id="com.jetbrains.plugins.remotesdk.console.RunSshConsoleAction" icon="E:/Z-Data/Pictures/PhpStorm icon/ssh.png" />
-    <action id="WebDeployment.Options" icon="E:/Z-Data/Pictures/PhpStorm icon/deploy opts.png" />
-    <action id="WebDeployment.Configuration" icon="E:/Z-Data/Pictures/PhpStorm icon/settings.png" />
-    <action id="WebDeployment.ToggleAutoUpload" icon="E:/Z-Data/Pictures/PhpStorm icon/auto upload.png" />
+    <action id="com.jetbrains.plugins.remotesdk.console.RunSshConsoleAction" icon="D:/Z-Data/Pictures/PhpStorm icon/ssh.png" />
+    <action id="WebDeployment.Options" icon="D:/Z-Data/Pictures/PhpStorm icon/settings 2.png" />
+    <action id="WebDeployment.Configuration" icon="D:/Z-Data/Pictures/PhpStorm icon/settings.png" />
+    <action id="WebDeployment.ToggleAutoUpload" icon="D:/Z-Data/Pictures/PhpStorm icon/auto upload.png" />
   </component>
 </application>
