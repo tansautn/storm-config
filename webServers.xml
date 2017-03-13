@@ -14,7 +14,7 @@
           <option name="port" value="21" />
         </fileTransfer>
       </webServer>
-      <webServer id="9e8044c6-edc3-4873-966a-058769165cc0" name="UK" url="http://77services.uk">
+      <webServer id="9e8044c6-edc3-4873-966a-058769165cc0" name="UK-ROOT" url="http://77services.uk">
         <fileTransfer host="192.121.166.58" port="22" privateKey="E:\Z-Data\Dev\rsa-phpstorm-no-pwd.key" accessType="SFTP" keyPair="true">
           <advancedOptions>
             <advancedOptions dataProtectionLevel="Private" />
