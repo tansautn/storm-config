@@ -46,8 +46,8 @@
           <option name="port" value="21" />
         </fileTransfer>
       </webServer>
-      <webServer id="62891832-d572-4313-9c85-04632f7b8cf9" name="WWE-JP" url="https://77services.uk/">
-        <fileTransfer host="jp.zuko.pw" port="22" rootFolder="/var/wwe/" accessType="SFTP">
+      <webServer id="62891832-d572-4313-9c85-04632f7b8cf9" name="JP-ROOT" url="https://77services.uk/">
+        <fileTransfer host="jp.zuko.pw" port="22" privateKey="D:\Z-Data\Dev\rsa-prikey-opensshformat.key" accessType="SFTP" keyPair="true">
           <advancedOptions>
             <advancedOptions dataProtectionLevel="Private" />
           </advancedOptions>
