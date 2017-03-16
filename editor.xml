@@ -17,8 +17,8 @@
     </pattern>
   </component>
   <component name="XmlEditorOptions">
-    <option name="showCssColorPreviewInGutter" value="false" />
     <option name="showCssInlineColorPreview" value="true" />
-    <option name="tagTreeHighlightingOpacity" value="25" />
+    <option name="tagTreeHighlightingLevelCount" value="8" />
+    <option name="tagTreeHighlightingOpacity" value="30" />
   </component>
 </application>
