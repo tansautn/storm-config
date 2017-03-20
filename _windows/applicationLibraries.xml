@@ -69,5 +69,16 @@
       </CLASSES>
       <SOURCES />
     </library>
+    <library name="webfont" type="javaScript">
+      <properties>
+        <sourceFilesUrls>
+          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_ajax.googleapis.com_ajax_libs_webfont_1.5.18_webfont_debug.js" />
+        </sourceFilesUrls>
+      </properties>
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_ajax.googleapis.com_ajax_libs_webfont_1.5.18_webfont_debug.js" />
+      </CLASSES>
+      <SOURCES />
+    </library>
   </component>
 </application>
