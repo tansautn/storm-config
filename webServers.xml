@@ -54,14 +54,6 @@
           <option name="port" value="22" />
         </fileTransfer>
       </webServer>
-      <webServer id="55842644-7b4b-4443-a142-822b0a9538f9" name="SG - MAGE" url="https://live.zuko.pw/">
-        <fileTransfer host="live.zuko.pw" port="22" privateKey="D:\Z-Data\Dev\rsa-phpstorm-no-pwd.key" rootFolder="/var/" accessType="SFTP" keyPair="true">
-          <advancedOptions>
-            <advancedOptions dataProtectionLevel="Private" />
-          </advancedOptions>
-          <option name="port" value="22" />
-        </fileTransfer>
-      </webServer>
     </option>
   </component>
 </application>
