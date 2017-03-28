@@ -9,10 +9,12 @@
       <mapping pattern="myobject" type="PHP" />
       <mapping ext="ctp" type="PHP" />
       <mapping pattern="envvars" type="PLAIN_TEXT" />
-      <mapping pattern="TODO" type="PLAIN_TEXT" />
       <mapping pattern="default" type="PLAIN_TEXT" />
+      <mapping pattern="TODO" type="PLAIN_TEXT" />
       <mapping pattern="README" type="PLAIN_TEXT" />
+      <mapping ext="10841" type="PLAIN_TEXT" />
       <mapping ext="stub" type="PLAIN_TEXT" />
+      <mapping ext="sample" type="PLAIN_TEXT" />
       <mapping pattern=".htacccess" type="htaccess" />
     </extensionMap>
   </component>
