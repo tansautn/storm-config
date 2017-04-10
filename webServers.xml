@@ -30,7 +30,7 @@
           <option name="port" value="22" />
         </fileTransfer>
       </webServer>
-      <webServer id="a0d1db6f-1987-4ca7-aab5-0111f62efd96" name="pdp demo" url="http://demo.productsdesignerpro.com">
+      <webServer id="a0d1db6f-1987-4ca7-aab5-0111f62efd96" name="pdp demo" url="http://demo.productsdesignerpro.com/">
         <fileTransfer host="demo.productsdesignerpro.com" port="21">
           <advancedOptions>
             <advancedOptions dataProtectionLevel="Private" />
