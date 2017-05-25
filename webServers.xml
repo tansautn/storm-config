@@ -6,6 +6,14 @@
       </SftpAdvancedOptions>
     </sftpAdvancedGlobalOptions>
     <option name="servers">
+      <webServer id="26452080-de4c-4cab-8734-f500cb22882b" name="productsdesignerpro.com" url="http://productsdesignerpro.com">
+        <fileTransfer host="productsdesignerpro.com" port="21">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="21" />
+        </fileTransfer>
+      </webServer>
       <webServer id="ff70c8d5-9383-484f-b5b8-0869dd65c1ad" name="Mageboat" url="http://mageboat.com/">
         <fileTransfer host="mageboat.com" port="21">
           <advancedOptions>
