@@ -6,6 +6,14 @@
       </SftpAdvancedOptions>
     </sftpAdvancedGlobalOptions>
     <option name="servers">
+      <webServer id="0d55d98f-4840-4130-92c3-d84cdf5e0861" name="paintmytee.my" url="http://paintmytee.my">
+        <fileTransfer host="paintmytee.my" port="8288" accessType="SFTP">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="8288" />
+        </fileTransfer>
+      </webServer>
       <webServer id="26452080-de4c-4cab-8734-f500cb22882b" name="productsdesignerpro.com" url="http://productsdesignerpro.com">
         <fileTransfer host="productsdesignerpro.com" port="21">
           <advancedOptions>
