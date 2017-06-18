@@ -12,15 +12,15 @@
   </component>
   <component name="PhpInterpreters">
     <interpreters>
-      <interpreter home="E:\Z-Data\XAMPP\php\php.exe" id="462eabcb-f463-441d-811c-e6d143e13058" name="PHP 5.6" debugger_id="php.debugger.XDebug" />
+      <interpreter home="D:\XAMPP\php\php.exe" id="462eabcb-f463-441d-811c-e6d143e13058" name="PHP 5.6" debugger_id="php.debugger.XDebug" />
     </interpreters>
   </component>
   <component name="PhpInterpretersPhpInfoCache">
     <phpInfoCache>
       <interpreter name="PHP 5.6">
-        <phpinfo binary_type="PHP" php_cgi="E:\Z-Data\XAMPP\php\php-cgi.exe" php_cli="E:\Z-Data\XAMPP\php\php.exe" path_separator=";" version="5.6.23">
+        <phpinfo binary_type="PHP" php_cgi="D:\XAMPP\php\php-cgi.exe" php_cli="D:\XAMPP\php\php.exe" path_separator=";" version="5.6.30">
           <additional_php_ini />
-          <configuration_file>E:\Z-Data\XAMPP\php\php.ini</configuration_file>
+          <configuration_file>D:\XAMPP\php\php.ini</configuration_file>
           <configuration_options>
             <configuration_option name="SMTP" value="localhost" />
             <configuration_option name="allow_url_fopen" value="1" />
@@ -39,7 +39,7 @@
             <configuration_option name="auto_globals_jit" value="1" />
             <configuration_option name="auto_prepend_file" value="" />
             <configuration_option name="bcmath.scale" value="0" />
-            <configuration_option name="browscap" value="E:\Z-Data\XAMPP\php\extras\browscap.ini" />
+            <configuration_option name="browscap" value="D:\XAMPP\php\extras\browscap.ini" />
             <configuration_option name="curl.cainfo" value="" />
             <configuration_option name="date.default_latitude" value="31.7667" />
             <configuration_option name="date.default_longitude" value="35.2333" />
@@ -59,7 +59,7 @@
             <configuration_option name="enable_dl" value="" />
             <configuration_option name="enable_post_data_reading" value="1" />
             <configuration_option name="error_append_string" value="" />
-            <configuration_option name="error_log" value="E:\Z-Data\XAMPP\php\logs\php_error_log" />
+            <configuration_option name="error_log" value="D:\XAMPP\php\logs\php_error_log" />
             <configuration_option name="error_prepend_string" value="" />
             <configuration_option name="error_reporting" value="22527" />
             <configuration_option name="exif.decode_jis_intel" value="JIS" />
@@ -70,7 +70,7 @@
             <configuration_option name="exif.encode_unicode" value="ISO-8859-15" />
             <configuration_option name="exit_on_timeout" value="0" />
             <configuration_option name="expose_php" value="1" />
-            <configuration_option name="extension_dir" value="E:\Z-Data\XAMPP\php\ext" />
+            <configuration_option name="extension_dir" value="D:\XAMPP\php\ext" />
             <configuration_option name="file_uploads" value="1" />
             <configuration_option name="filter.default" value="unsafe_raw" />
             <configuration_option name="filter.default_flags" value="" />
@@ -88,11 +88,8 @@
             <configuration_option name="ignore_repeated_errors" value="" />
             <configuration_option name="ignore_repeated_source" value="" />
             <configuration_option name="ignore_user_abort" value="0" />
-            <configuration_option name="imagick.locale_fix" value="0" />
-            <configuration_option name="imagick.progress_monitor" value="0" />
-            <configuration_option name="imagick.skip_version_check" value="0" />
             <configuration_option name="implicit_flush" value="1" />
-            <configuration_option name="include_path" value="E:\Z-Data\XAMPP\php\PEAR" />
+            <configuration_option name="include_path" value="D:\XAMPP\php\PEAR" />
             <configuration_option name="input_encoding" value="" />
             <configuration_option name="internal_encoding" value="" />
             <configuration_option name="log_errors" value="1" />
@@ -201,7 +198,7 @@
             <configuration_option name="session.name" value="PHPSESSID" />
             <configuration_option name="session.referer_check" value="" />
             <configuration_option name="session.save_handler" value="files" />
-            <configuration_option name="session.save_path" value="E:\Z-Data\XAMPP\tmp" />
+            <configuration_option name="session.save_path" value="D:\XAMPP\tmp" />
             <configuration_option name="session.serialize_handler" value="php" />
             <configuration_option name="session.upload_progress.cleanup" value="1" />
             <configuration_option name="session.upload_progress.enabled" value="1" />
@@ -220,7 +217,7 @@
             <configuration_option name="track_errors" value="" />
             <configuration_option name="unserialize_callback_func" value="" />
             <configuration_option name="upload_max_filesize" value="2M" />
-            <configuration_option name="upload_tmp_dir" value="E:\Z-Data\XAMPP\tmp" />
+            <configuration_option name="upload_tmp_dir" value="D:\XAMPP\tmp" />
             <configuration_option name="url_rewriter.tags" value="a=href,area=href,frame=src,input=src,form=fakeentry" />
             <configuration_option name="user_agent" value="" />
             <configuration_option name="user_dir" value="" />
@@ -262,7 +259,6 @@
             <extension name="gettext" />
             <extension name="hash" />
             <extension name="iconv" />
-            <extension name="imagick" />
             <extension name="json" />
             <extension name="libxml" />
             <extension name="mbstring" />
