@@ -78,6 +78,14 @@
           <option name="port" value="22" />
         </fileTransfer>
       </webServer>
+      <webServer id="c4e51b24-32b6-4f42-874e-79548accef3c" name="alltype" url="http://newsite.alltype.com">
+        <fileTransfer host="newsite.alltype.com" port="21">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="21" />
+        </fileTransfer>
+      </webServer>
     </option>
   </component>
 </application>
