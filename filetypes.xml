@@ -5,6 +5,7 @@
       <mapping ext="rar" type="ARCHIVE" />
       <mapping pattern=".gitattributes" type="Git file" />
       <mapping ext="latte" type="HTML" />
+      <mapping ext="markdown" type="Markdown" />
       <mapping pattern="factory" type="PHP" />
       <mapping pattern="myobject" type="PHP" />
       <mapping ext="ctp" type="PHP" />
