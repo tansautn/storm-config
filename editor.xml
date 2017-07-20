@@ -1,8 +1,14 @@
 <application>
   <component name="EditorSettings">
+    <option name="languageBreadcrumbsMap">
+      <map>
+        <entry key="PHP" value="true" />
+      </map>
+    </option>
     <option name="USE_SOFT_WRAPS" value="MAIN_EDITOR:CONSOLE" />
     <option name="SHOW_QUICK_DOC_ON_MOUSE_OVER_ELEMENT" value="true" />
     <option name="QUICK_DOC_ON_MOUSE_OVER_DELAY_MS" value="1000" />
+    <option name="SHOW_BREADCRUMBS_ABOVE" value="true" />
   </component>
   <component name="SqlEditorOptions">
     <option name="concatenateStringsOnEnter" value="true" />
