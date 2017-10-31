@@ -37,14 +37,14 @@
       </CLASSES>
       <SOURCES />
     </library>
-    <library name="es6-promise.auto" type="javaScript">
+    <library name="es6-promise-DefinitelyTyped" type="javaScript">
       <properties>
         <sourceFilesUrls>
-          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_cdn.jsdelivr.net_npm_es6-promise@4_dist_es6-promise.auto.js" />
+          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_github.com_DefinitelyTyped_DefinitelyTyped_raw_master_types_es6-promise_index.d.ts" />
         </sourceFilesUrls>
       </properties>
       <CLASSES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_cdn.jsdelivr.net_npm_es6-promise@4_dist_es6-promise.auto.js" />
+        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_github.com_DefinitelyTyped_DefinitelyTyped_raw_master_types_es6-promise_index.d.ts" />
       </CLASSES>
       <SOURCES />
     </library>
