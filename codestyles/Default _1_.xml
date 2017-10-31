@@ -52,6 +52,9 @@
     <option name="PREFER_TEMPLATE_INDENTS" value="true" />
     <option name="NAMESPACE_BRACE_STYLE" value="2" />
   </PHPCodeStyleSettings>
+  <TypeScriptCodeStyleSettings>
+    <option name="USE_DOUBLE_QUOTES" value="false" />
+  </TypeScriptCodeStyleSettings>
   <XML>
     <option name="XML_SPACE_AROUND_EQUALITY_IN_ATTRIBUTE" value="true" />
     <option name="XML_SPACE_INSIDE_EMPTY_TAG" value="true" />
