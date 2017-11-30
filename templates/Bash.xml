@@ -1,5 +1,5 @@
 <templateSet group="Bash">
-  <template name="fori" value="for i in $a$; do&#10;    $END$&#10;done" toReformat="false" toShortenFQNames="true">
+  <template name="fori" value="for i in $a$; do&#10;    $END$&#10;done" description="" toReformat="false" toShortenFQNames="true">
     <variable name="a" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
       <option name="Bash" value="true" />
