@@ -86,6 +86,14 @@
           <option name="port" value="21" />
         </fileTransfer>
       </webServer>
+      <webServer id="0a742cd2-ccc9-4eb0-bc8f-538d969571c7" name="S3-ZUKO" url="https://s3.zuko.pw">
+        <fileTransfer host="s3.zuko.pw" port="22" privateKey="C:\Users\Zuko\.ssh\id_rsa" accessType="SFTP" keyPair="true">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
     </option>
   </component>
 </application>
