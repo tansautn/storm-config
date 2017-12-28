@@ -6,6 +6,14 @@
       </SftpAdvancedOptions>
     </sftpAdvancedGlobalOptions>
     <option name="servers">
+      <webServer id="1d4f1c2e-40df-4090-97b2-507beef55b4e" name="DEMO" url="http://104.154.96.238">
+        <fileTransfer host="104.154.96.238" port="22" privateKey="C:\Users\Zuko\.ssh\rsa-phpstorm-no-pwd.key" accessType="SFTP" keyPair="true">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
       <webServer id="ae9d60ec-8c49-454f-bad6-adbdc200e412" name="maiuoc.com" url="http://maiuoc.com">
         <fileTransfer host="maiuoc.com" port="22" accessType="SFTP">
           <advancedOptions>
