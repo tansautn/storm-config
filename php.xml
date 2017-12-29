@@ -605,6 +605,7 @@
     </phpInfoCache>
   </component>
   <component name="PhpSmartKeysConfiguration">
+    <option name="selectVariableNameWithoutDollar" value="true" />
     <option name="smartFunctionParametersCompletion" value="true" />
   </component>
 </application>
