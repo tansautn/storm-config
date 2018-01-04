@@ -22,32 +22,8 @@
           <option name="port" value="22" />
         </fileTransfer>
       </webServer>
-      <webServer id="ae9d60ec-8c49-454f-bad6-adbdc200e412" name="maiuoc.com" url="http://maiuoc.com">
-        <fileTransfer host="maiuoc.com" port="22" accessType="SFTP">
-          <advancedOptions>
-            <advancedOptions dataProtectionLevel="Private" />
-          </advancedOptions>
-          <option name="port" value="22" />
-        </fileTransfer>
-      </webServer>
-      <webServer id="0d55d98f-4840-4130-92c3-d84cdf5e0861" name="paintmytee.my" url="http://paintmytee.my">
-        <fileTransfer host="paintmytee.my" port="8288" rootFolder="/home/paintmyt" accessType="SFTP">
-          <advancedOptions>
-            <advancedOptions dataProtectionLevel="Private" />
-          </advancedOptions>
-          <option name="port" value="8288" />
-        </fileTransfer>
-      </webServer>
       <webServer id="26452080-de4c-4cab-8734-f500cb22882b" name="productsdesignerpro.com" url="http://productsdesignerpro.com">
         <fileTransfer host="productsdesignerpro.com" port="21">
-          <advancedOptions>
-            <advancedOptions dataProtectionLevel="Private" />
-          </advancedOptions>
-          <option name="port" value="21" />
-        </fileTransfer>
-      </webServer>
-      <webServer id="ff70c8d5-9383-484f-b5b8-0869dd65c1ad" name="Mageboat" url="http://mageboat.com/">
-        <fileTransfer host="mageboat.com" port="21">
           <advancedOptions>
             <advancedOptions dataProtectionLevel="Private" />
           </advancedOptions>
