@@ -7,7 +7,7 @@
     </sftpAdvancedGlobalOptions>
     <option name="servers">
       <webServer id="480e35cf-63fe-4dc7-9acc-eefac641f66f" name="S3-ZUKO" url="http://s3.zuko.pw">
-        <fileTransfer host="s3.zuko.pw" port="22" privateKey="E:\Z-Data\Dev\rsa-phpstorm-no-pwd.key" accessType="SFTP" keyPair="true">
+        <fileTransfer host="s3.zuko.pw" port="22" privateKey="D:\Z-Data\Dev\rsa-phpstorm-no-pwd.key" accessType="SFTP" keyPair="true">
           <advancedOptions>
             <advancedOptions dataProtectionLevel="Private" />
           </advancedOptions>
