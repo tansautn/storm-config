@@ -1,5 +1,6 @@
 <application>
   <component name="ComposerJsonPluginAppSettings">
-    <charityNotificationShown>true</charityNotificationShown>
+    <charityNotificationShown>false</charityNotificationShown>
+    <charitySummaryNotificationShown>false</charitySummaryNotificationShown>
   </component>
 </application>

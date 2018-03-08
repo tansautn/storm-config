@@ -12,8 +12,8 @@
         </unboundedVersionInspectionSettings>
         <customRepositories />
       </component>
-      <component name="ComposerSettings">
-        <pharPath>E:\Z-Data\XMAPP\htdocs\yii\composer.phar</pharPath>
+      <component name="ComposerSettings" phpInterpreterId="462eabcb-f463-441d-811c-e6d143e13058">
+        <pharPath>C:\ProgramData\ComposerSetup\bin\composer.phar</pharPath>
       </component>
       <component name="CopyrightManager">
         <LanguageOptions name="PHP">
@@ -40,7 +40,6 @@
         <option name="PUSH_AUTO_UPDATE" value="true" />
         <option name="ROOT_SYNC" value="SYNC" />
         <option name="AUTO_COMMIT_ON_CHERRY_PICK" value="true" />
-        <option name="FORCE_PUSH_ALLOWED" value="true" />
       </component>
       <component name="InspectionProjectProfileManager">
         <profile version="1.0">
@@ -53,6 +52,13 @@
       <component name="JsBowerSettings">
         <exe-path />
         <config-path />
+      </component>
+      <component name="PhpIncludePathManager">
+        <include_path>
+          <path value="." />
+          <path value="E:\Z-Data\XMAPP\php\pear" />
+          <path value="E:\Z-Data\Dev\phpstorm-stubs" />
+        </include_path>
       </component>
       <component name="PhpUnit">
         <phpunit_settings>
@@ -99,12 +105,13 @@
         <property name="options.splitter.main.proportions" value="0.3" />
         <property name="options.splitter.details.proportions" value="0.2" />
         <property name="options.searchVisible" value="true" />
-        <property name="settings.editor.selected.configurable" value="requirejs.settings.RequirejsSettingsPage" />
-        <property name="settings.editor.splitter.proportion" value="0.2" />
+        <property name="settings.editor.selected.configurable" value="reference.webide.settings.project.settings.php.composer" />
         <property name="last_opened_file_path" value="C:/Program Files/nodejs/node.exe" />
-        <property name="nodejs_interpreter_path" value="C:/Program Files/nodejs/node" />
+        <property name="nodejs_interpreter_path.stuck_in_default_project" value="C:/Program Files/nodejs/node" />
       </component>
-      <component name="PublishConfigData" promptOnRemoteOverwrite="CHECK_CONTENT" createEmptyFolders="true" traceLevel="DETAILS" exclude=".svn;.cvs;.idea;.DS_Store;.git*;.hg" />
+      <component name="PublishConfigData" autoUpload="On explicit save action" promptOnRemoteOverwrite="CHECK_CONTENT" createEmptyFolders="true" traceLevel="DETAILS" exclude=".svn;.cvs;.idea;.DS_Store;.git*;.hg" autoUploadExternalChanges="true">
+        <option name="myAutoUpload" value="ON_EXPLICIT_SAVE" />
+      </component>
       <component name="SvnConfiguration">
         <configuration>C:\Users\Zuko\AppData\Roaming\Subversion</configuration>
       </component>

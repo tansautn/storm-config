@@ -14,22 +14,4 @@
       <option name="JAVA_SCRIPT" value="true" />
     </context>
   </template>
-  <template name="iffe" value="(function ($ARGS$)&#10;{&#10;  $END$&#10;})($ARGS$);" description="IIFE Function" toReformat="false" toShortenFQNames="true">
-    <variable name="ARGS" expression="" defaultValue="" alwaysStopAt="true" />
-    <context>
-      <option name="JAVA_SCRIPT" value="true" />
-      <option name="TypeScript" value="true" />
-    </context>
-  </template>
-  <template name="cle" value="console.error($END$);" description="Console error this" toReformat="true" toShortenFQNames="true">
-    <context>
-      <option name="JAVA_SCRIPT" value="true" />
-    </context>
-  </template>
-  <template name="iob" value="if ($VAR$ !== null &amp;&amp; typeof $VAR$ === 'object') {&#10;    $END$&#10;}&#10;" description="check variable is a JS Object" toReformat="true" toShortenFQNames="true">
-    <variable name="VAR" expression="" defaultValue="" alwaysStopAt="true" />
-    <context>
-      <option name="JAVA_SCRIPT" value="true" />
-    </context>
-  </template>
 </templateSet>

@@ -5,7 +5,7 @@
       <path value="Main Toolbar" />
       <option name="myInitialPosition" value="-1" />
     </group>
-    <group value="MainToolBarSettings" is_group="true" action_type="-1" position="16">
+    <group seperator="true" action_type="-1" position="17">
       <path value="root" />
       <path value="Main Toolbar" />
       <option name="myInitialPosition" value="-1" />
@@ -37,6 +37,11 @@
       <path value="Main Toolbar" />
       <option name="myInitialPosition" value="-1" />
     </group>
+    <group seperator="true" action_type="1" position="20">
+      <path value="root" />
+      <path value="Main Toolbar" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
     <group value="WebDeployment.Options" is_action="true" action_type="1" position="21">
       <path value="root" />
       <path value="Main Toolbar" />
@@ -58,11 +63,6 @@
       <option name="myInitialPosition" value="-1" />
     </group>
     <group seperator="true" action_type="1" position="25">
-      <path value="root" />
-      <path value="Main Toolbar" />
-      <option name="myInitialPosition" value="-1" />
-    </group>
-    <group value="MainToolBarSettings" is_group="true" action_type="1" position="26">
       <path value="root" />
       <path value="Main Toolbar" />
       <option name="myInitialPosition" value="-1" />

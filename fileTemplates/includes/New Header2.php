@@ -8,7 +8,7 @@
          MMMMMMMMMMM    -*-  Created by Zuko  -*-      
 
          * * * * * * * * * * * * * * * * * * * * *     
-         * -    - -     S.Y.M.L.I.E     - -    - *     
+         * -    - -   F.R.E.E.M.I.N.D   - -    - *     
          * -  Copyright © ${YEAR} (Z) Programing  - *     
          *    -  -  All Rights Reserved  -  -    *     
          * * * * * * * * * * * * * * * * * * * * *     
@@ -18,14 +18,16 @@
 #end
  * @PROJECT    : ${PROJECT_NAME}
  * @AUTHOR     : ${USER}
- * @COPYRIGHT  : © ${YEAR} Z-Programing a.k.a Zuko
+ * @COPYRIGHT  : © ${YEAR} Zuko
  * @LINK       : http://www.zuko.pw/
  * @FILE       :#if (${FILE_NAME}) ${FILE_NAME}
 #else ${NAME}.${EXT}
 #end
  * @CREATED    : ${TIME} , ${DAY}/${MONTH_NAME_SHORT}/${YEAR}
- * @DETAIL     : #if(${DETAIL})${DETAIL}
- #end
+#if(${VERSION}) * @VERSION    : ${VERSION}
+#end
+#if(${DETAIL}) * @DETAIL     : ${DETAIL}
+#end
 #if(${XHL})*   *  *  *  *  *  *  *  *  *  *  *  *  *  *  *  *   *
 #else* --*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*-- *
 #end

@@ -1,25 +1,7 @@
 <application>
   <component name="FileTypeManager" version="17">
-    <ignoreFiles list="*.hprof;*.pyc;*.pyo;*.rbc;*~;.DS_Store;.git;.hg;.svn;CVS;RCS;SCCS;__pycache__;_svn;rcs;" />
     <extensionMap>
-      <mapping ext="rar" type="ARCHIVE" />
-      <mapping pattern=".gitattributes" type="Git file" />
-      <mapping ext="latte" type="HTML" />
-      <mapping pattern="myobject" type="PHP" />
-      <mapping pattern="factory" type="PHP" />
-      <mapping ext="ctp" type="PHP" />
-      <mapping pattern="error_log" type="PLAIN_TEXT" />
-      <mapping pattern="README" type="PLAIN_TEXT" />
-      <mapping pattern=".development" type="PLAIN_TEXT" />
-      <mapping pattern="envvars" type="PLAIN_TEXT" />
-      <mapping pattern="TODO" type="PLAIN_TEXT" />
-      <mapping pattern="default" type="PLAIN_TEXT" />
-      <mapping pattern="authorized_keys2" type="PLAIN_TEXT" />
-      <mapping ext="10841" type="PLAIN_TEXT" />
-      <mapping ext="stub" type="PLAIN_TEXT" />
-      <mapping ext="private" type="PLAIN_TEXT" />
-      <mapping ext="sample" type="PLAIN_TEXT" />
-      <mapping pattern=".htacccess" type="htaccess" />
+      <mapping pattern=".env.develop" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>

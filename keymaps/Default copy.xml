@@ -82,9 +82,6 @@
   <action id="OpenDirectoryProject">
     <keyboard-shortcut first-keystroke="shift ctrl o" />
   </action>
-  <action id="PublishGroup.SyncLocalVsRemote">
-    <keyboard-shortcut first-keystroke="shift ctrl y" />
-  </action>
   <action id="PublishGroup.SyncLocalVsRemoteWith">
     <keyboard-shortcut first-keystroke="shift ctrl alt y" />
   </action>
@@ -100,6 +97,7 @@
   <action id="RevealIn">
     <keyboard-shortcut first-keystroke="ctrl alt e" />
   </action>
+  <action id="RunDashboard.ShowConfigurations" />
   <action id="SaveAll">
     <keyboard-shortcut first-keystroke="ctrl alt s" />
   </action>

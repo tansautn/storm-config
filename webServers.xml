@@ -6,36 +6,28 @@
       </SftpAdvancedOptions>
     </sftpAdvancedGlobalOptions>
     <option name="servers">
-      <webServer id="480e35cf-63fe-4dc7-9acc-eefac641f66f" name="S3-ZUKO" url="http://s3.zuko.pw">
-        <fileTransfer host="s3.zuko.pw" port="22" privateKey="D:\Z-Data\Dev\rsa-phpstorm-no-pwd.key" accessType="SFTP" keyPair="true">
+      <webServer id="12a6aa30-1be6-4014-9966-53beedb93f87" name="PDP-Release-Patch" url="http://download.magebay.com">
+        <fileTransfer host="download.magebay.com" port="22" privateKey="C:\Users\Zuko\.ssh\rsa-phpstorm-no-pwd.key" rootFolder="/var/www" accessType="SFTP" keyPair="true">
           <advancedOptions>
             <advancedOptions dataProtectionLevel="Private" />
           </advancedOptions>
           <option name="port" value="22" />
         </fileTransfer>
       </webServer>
-      <webServer id="1d4f1c2e-40df-4090-97b2-507beef55b4e" name="DEMO" url="http://104.154.96.238">
-        <fileTransfer host="104.154.96.238" port="22" privateKey="C:\Users\Zuko\.ssh\rsa-phpstorm-no-pwd.key" accessType="SFTP" keyPair="true">
+      <webServer id="9e8044c6-edc3-4873-966a-058769165cc0" name="S3-ROOT" url="http://77services.uk">
+        <fileTransfer host="s3.zuko.pw" port="22" privateKey="E:\Z-Data\Dev\rsa-phpstorm-no-pwd.key" accessType="SFTP" keyPair="true">
           <advancedOptions>
             <advancedOptions dataProtectionLevel="Private" />
           </advancedOptions>
           <option name="port" value="22" />
         </fileTransfer>
       </webServer>
-      <webServer id="26452080-de4c-4cab-8734-f500cb22882b" name="productsdesignerpro.com" url="http://productsdesignerpro.com">
-        <fileTransfer host="productsdesignerpro.com" port="21">
+      <webServer id="a1dc74e7-1d16-4280-bbe7-d31cf425b2e9" name="S3-ZUKO" url="https://s3.zuko.pw/">
+        <fileTransfer host="s3.zuko.pw" port="22" privateKey="C:\Users\Zuko\.ssh\rsa-phpstorm-no-pwd.key" rootFolder="/var/www/" accessType="SFTP" keyPair="true">
           <advancedOptions>
             <advancedOptions dataProtectionLevel="Private" />
           </advancedOptions>
-          <option name="port" value="21" />
-        </fileTransfer>
-      </webServer>
-      <webServer id="a0d1db6f-1987-4ca7-aab5-0111f62efd96" name="pdp demo" url="http://demo.productsdesignerpro.com/">
-        <fileTransfer host="demo.productsdesignerpro.com" port="21">
-          <advancedOptions>
-            <advancedOptions dataProtectionLevel="Private" />
-          </advancedOptions>
-          <option name="port" value="21" />
+          <option name="port" value="22" />
         </fileTransfer>
       </webServer>
       <webServer id="62891832-d572-4313-9c85-04632f7b8cf9" name="JP-ROOT" url="https://77services.uk/">
@@ -54,16 +46,8 @@
           <option name="port" value="22" />
         </fileTransfer>
       </webServer>
-      <webServer id="c4e51b24-32b6-4f42-874e-79548accef3c" name="alltype" url="https://alltype.com">
-        <fileTransfer host="alltype.com" port="21" rootFolder="/public_html/">
-          <advancedOptions>
-            <advancedOptions dataProtectionLevel="Private" />
-          </advancedOptions>
-          <option name="port" value="21" />
-        </fileTransfer>
-      </webServer>
-      <webServer id="d53dc79a-1f0c-4ded-8ddf-763814499c1f" name="TW | Zuko" url="https://zuko.pro">
-        <fileTransfer host="zuko.pro" port="22" privateKey="D:\Z-Data\Dev\rsa-phpstorm-no-pwd.key" rootFolder="/var/www/html" accessType="SFTP" keyPair="true">
+      <webServer id="ea0e2ae0-ab51-423c-b15e-1014942236f4" name="TW | Zuko" url="http://zuko.pro">
+        <fileTransfer host="zuko.pro" port="22" privateKey="C:\Users\Zuko\.ssh\rsa-phpstorm-no-pwd.key" accessType="SFTP" keyPair="true">
           <advancedOptions>
             <advancedOptions dataProtectionLevel="Private" />
           </advancedOptions>

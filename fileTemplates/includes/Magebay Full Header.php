@@ -25,7 +25,9 @@
 #else ${NAME}.${EXT}
 #end
  * @CREATED    : ${TIME} , ${DAY}/${MONTH_NAME_SHORT}/${YEAR}
- * @DETAIL     : #if(${DETAIL})${DETAIL}
+ #if(${DETAIL})* @DETAIL     : ${DETAIL}
+ #end
+ #if(${VERSION})* @VERSION    : ${VERSION}
  #end
 #if(${XHL})*   *  *  *  *  *  *  *  *  *  *  *  *  *  *  *  *   *
 #else* --*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*-- *
