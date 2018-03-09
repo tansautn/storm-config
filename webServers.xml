@@ -6,6 +6,14 @@
       </SftpAdvancedOptions>
     </sftpAdvancedGlobalOptions>
     <option name="servers">
+      <webServer id="764a6bc5-a7c7-45fa-b9b6-0d469cae577a" name="wp altype" url="http://builder.alltype.com">
+        <fileTransfer host="builder.alltype.com" port="21">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="21" />
+        </fileTransfer>
+      </webServer>
       <webServer id="12a6aa30-1be6-4014-9966-53beedb93f87" name="PDP-Release-Patch" url="http://download.magebay.com">
         <fileTransfer host="download.magebay.com" port="22" privateKey="C:\Users\Zuko\.ssh\rsa-phpstorm-no-pwd.key" rootFolder="/var/www" accessType="SFTP" keyPair="true">
           <advancedOptions>
