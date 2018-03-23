@@ -55,7 +55,7 @@
         </fileTransfer>
       </webServer>
       <webServer id="ea0e2ae0-ab51-423c-b15e-1014942236f4" name="TW | Zuko" url="http://zuko.pro">
-        <fileTransfer host="zuko.pro" port="22" privateKey="C:\Users\Zuko\.ssh\rsa-phpstorm-no-pwd.key" rootFolder="/var/www/html" accessType="SFTP" keyPair="true">
+        <fileTransfer host="zuko.pro" port="22" privateKey="D:\Z-Data\Dev\rsa-phpstorm-no-pwd.key" rootFolder="/var/www/html" accessType="SFTP" keyPair="true">
           <advancedOptions>
             <advancedOptions dataProtectionLevel="Private" />
           </advancedOptions>
