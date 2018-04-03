@@ -1,5 +1,5 @@
 <scheme name="Darcula copy" version="142" parent_scheme="Default">
-  <option name="LINE_SPACING" value="1.0" />
+  <option name="FONT_SCALE" value="1.0" />
   <font>
     <option name="EDITOR_FONT_NAME" value="Monospaced" />
     <option name="EDITOR_FONT_SIZE" value="12" />
@@ -14,7 +14,7 @@
   </console-font>
   <console-font>
     <option name="EDITOR_FONT_NAME" value="Consolas" />
-    <option name="EDITOR_FONT_SIZE" value="15" />
+    <option name="EDITOR_FONT_SIZE" value="12" />
   </console-font>
   <colors>
     <option name="ADDED_LINES_COLOR" value="295622" />
@@ -1130,7 +1130,7 @@
     </option>
     <option name="TYPO">
       <value>
-        <option name="FOREGROUND" value="3bff" />
+        <option name="EFFECT_COLOR" value="3bff" />
         <option name="EFFECT_TYPE" value="2" />
       </value>
     </option>
