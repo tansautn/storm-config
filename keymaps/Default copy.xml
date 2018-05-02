@@ -82,7 +82,6 @@
   <action id="OpenDirectoryProject">
     <keyboard-shortcut first-keystroke="shift ctrl o" />
   </action>
-  <action id="PopupHector" />
   <action id="PublishGroup.SyncLocalVsRemoteWith">
     <keyboard-shortcut first-keystroke="shift ctrl alt y" />
   </action>
@@ -90,7 +89,7 @@
     <mouse-shortcut keystroke="alt button2" />
   </action>
   <action id="RearrangeCode">
-    <keyboard-shortcut first-keystroke="shift ctrl alt h" />
+    <keyboard-shortcut first-keystroke="ctrl alt i" />
   </action>
   <action id="ReopenClosedTab">
     <keyboard-shortcut first-keystroke="shift alt o" />
