@@ -1,9 +1,10 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
-      <mapping pattern="git" type="Bash" />
+      <removed_mapping pattern=".env" type=".env file" />
       <mapping pattern="artisan" type="PHP" />
       <mapping pattern=".env.develop" type="PLAIN_TEXT" />
+      <mapping pattern="git" type="Bash" />
     </extensionMap>
   </component>
 </application>
