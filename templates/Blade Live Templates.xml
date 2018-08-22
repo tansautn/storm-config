@@ -1,0 +1,18 @@
+<templateSet group="Blade Live Templates">
+  <template name="iff" value="@if($COND$ $OPERATOR$ $CRS$)&#10;    $END$&#10;@endif" description="@if blade template" toReformat="false" toShortenFQNames="true">
+    <variable name="COND" expression="phpSuggestVariableName()" defaultValue="" alwaysStopAt="false" />
+    <variable name="OPERATOR" expression="enum(...)" defaultValue="" alwaysStopAt="false" />
+    <variable name="CRS" expression="phpSuggestVariableName()" defaultValue="" alwaysStopAt="false" />
+    <context>
+      <option name="Bash" value="false" />
+      <option name="CSS" value="false" />
+      <option name="JAVA_SCRIPT" value="false" />
+      <option name="JSON" value="false" />
+      <option name="OTHER" value="true" />
+      <option name="REQUEST" value="false" />
+      <option name="SQL" value="false" />
+      <option name="TypeScript" value="false" />
+      <option name="XML" value="false" />
+    </context>
+  </template>
+</templateSet>
