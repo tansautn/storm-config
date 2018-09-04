@@ -8,5 +8,6 @@
   <template name="she" value="#!$ENV$ $BASH$" description="shebang line" toReformat="false" toShortenFQNames="false">
     <variable name="ENV" expression="" defaultValue="&quot;/bin&quot;" alwaysStopAt="true" />
     <variable name="BASH" expression="enum(&quot;bash&quot;,&quot;sh&quot;)" defaultValue="" alwaysStopAt="true" />
+    <context />
   </template>
 </templateSet>
