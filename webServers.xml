@@ -22,7 +22,7 @@
           <option name="port" value="22" />
         </fileTransfer>
       </webServer>
-      <webServer id="a1dc74e7-1d16-4280-bbe7-d31cf425b2e9" name="TW-ZUKO" url="https://s3.zuko.pw/">
+      <webServer id="a1dc74e7-1d16-4280-bbe7-d31cf425b2e9" name="TW-ZUKO" url="https://zuko.pro/">
         <fileTransfer host="zuko.pro" port="22" privateKey="C:\Users\Zuko\.ssh\rsa-phpstorm-no-pwd.key" rootFolder="/var/www/" accessType="SFTP" keyPair="true">
           <advancedOptions>
             <advancedOptions dataProtectionLevel="Private" />
