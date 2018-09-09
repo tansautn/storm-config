@@ -12,6 +12,10 @@
   <option name="FORMATTER_TAGS_ENABLED" value="true" />
   <option name="FORMATTER_TAGS_ACCEPT_REGEXP" value="true" />
   <option name="SOFT_MARGINS" value="180" />
+  <CssCodeStyleSettings>
+    <option name="HEX_COLOR_LOWER_CASE" value="true" />
+    <option name="KEEP_SINGLE_LINE_BLOCKS" value="true" />
+  </CssCodeStyleSettings>
   <HTMLCodeStyleSettings>
     <option name="HTML_KEEP_WHITESPACES" value="true" />
     <option name="HTML_ALIGN_TEXT" value="true" />
@@ -61,6 +65,13 @@
   <codeStyleSettings language="Blade">
     <indentOptions>
       <option name="CONTINUATION_INDENT_SIZE" value="4" />
+    </indentOptions>
+  </codeStyleSettings>
+  <codeStyleSettings language="CSS">
+    <indentOptions>
+      <option name="INDENT_SIZE" value="2" />
+      <option name="CONTINUATION_INDENT_SIZE" value="4" />
+      <option name="TAB_SIZE" value="2" />
     </indentOptions>
   </codeStyleSettings>
   <codeStyleSettings language="HTML">
