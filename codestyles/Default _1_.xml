@@ -19,8 +19,10 @@
   <HTMLCodeStyleSettings>
     <option name="HTML_KEEP_WHITESPACES" value="true" />
     <option name="HTML_ALIGN_TEXT" value="true" />
+    <option name="HTML_SPACE_INSIDE_EMPTY_TAG" value="true" />
   </HTMLCodeStyleSettings>
   <JSCodeStyleSettings>
+    <option name="FORCE_SEMICOLON_STYLE" value="true" />
     <option name="SPACE_BEFORE_PROPERTY_COLON" value="true" />
     <option name="ALIGN_OBJECT_PROPERTIES" value="2" />
     <option name="ALIGN_VAR_STATEMENTS" value="1" />
@@ -77,7 +79,8 @@
   <codeStyleSettings language="HTML">
     <option name="WRAP_ON_TYPING" value="0" />
     <indentOptions>
-      <option name="CONTINUATION_INDENT_SIZE" value="2" />
+      <option name="INDENT_SIZE" value="2" />
+      <option name="CONTINUATION_INDENT_SIZE" value="4" />
       <option name="TAB_SIZE" value="2" />
     </indentOptions>
   </codeStyleSettings>
