@@ -1,5 +1,12 @@
 <application>
   <component name="com.intellij.ide.ui.customization.CustomActionsSchema">
+    <group value="Git.CompareWithBranch" is_action="true" action_type="1" position="4">
+      <path value="root" />
+      <path value="Main Toolbar" />
+      <path value="MainToolBarSettings" />
+      <path value="VCS Actions" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
     <group value="PublishGroup.Upload" is_action="true" action_type="1" position="16">
       <path value="root" />
       <path value="Main Toolbar" />
@@ -50,11 +57,7 @@
       <path value="Main Toolbar" />
       <option name="myInitialPosition" value="-1" />
     </group>
-    <group value="ComposerToolsGroup" is_group="true" action_type="1" position="26">
-      <path value="root" />
-      <path value="Main Toolbar" />
-      <option name="myInitialPosition" value="-1" />
-    </group>
+    <action id="Git.CompareWithBranch" icon="D:/Z-Data/Pictures/PhpStorm icon/git-compare-branch.png" />
     <action id="com.jetbrains.plugins.remotesdk.console.RunSshConsoleAction" icon="D:/Z-Data/Pictures/PhpStorm icon/ssh.png" />
     <action id="WebDeployment.Options" icon="D:/Z-Data/Pictures/PhpStorm icon/settings 2.png" />
     <action id="WebDeployment.Configuration" icon="D:/Z-Data/Pictures/PhpStorm icon/settings.png" />

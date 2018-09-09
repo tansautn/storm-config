@@ -14,14 +14,6 @@
           <option name="port" value="22" />
         </fileTransfer>
       </webServer>
-      <webServer id="9e8044c6-edc3-4873-966a-058769165cc0" name="TW-ROOT" url="https://zuko.pro">
-        <fileTransfer host="zuko.pro" port="22" privateKey="E:\Z-Data\Dev\rsa-phpstorm-no-pwd.key" rootFolder="/www/" accessType="SFTP" keyPair="true">
-          <advancedOptions>
-            <advancedOptions dataProtectionLevel="Private" />
-          </advancedOptions>
-          <option name="port" value="22" />
-        </fileTransfer>
-      </webServer>
       <webServer id="a1dc74e7-1d16-4280-bbe7-d31cf425b2e9" name="TW-ZUKO" url="https://zuko.pro/">
         <fileTransfer host="zuko.pro" port="22" privateKey="C:\Users\Zuko\.ssh\rsa-phpstorm-no-pwd.key" rootFolder="/var/www/" accessType="SFTP" keyPair="true">
           <advancedOptions>
@@ -40,6 +32,14 @@
       </webServer>
       <webServer id="8179394c-5186-4622-b883-dd5b7b40578c" name="US MAGE | Linode" url="https://zuko.pw/">
         <fileTransfer host="zuko.pw" port="22" privateKey="D:\Z-Data\Dev\rsa-phpstorm-no-pwd.key" rootFolder="/var/www/" accessType="SFTP" keyPair="true">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
+      <webServer id="de0f6ed1-066b-4cf2-be0c-7271319eb02d" name="TW | ROOT" url="https://zuko.pro">
+        <fileTransfer host="zuko.pro" port="22" privateKey="E:\Z-Data\Dev\rsa-phpstorm-no-pwd.key" rootFolder="/www/" accessType="SFTP" keyPair="true">
           <advancedOptions>
             <advancedOptions dataProtectionLevel="Private" />
           </advancedOptions>
