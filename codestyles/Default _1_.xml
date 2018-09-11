@@ -39,7 +39,6 @@
   <PHPCodeStyleSettings>
     <option name="ALIGN_KEY_VALUE_PAIRS" value="true" />
     <option name="ALIGN_PHPDOC_PARAM_NAMES" value="true" />
-    <option name="CONCAT_SPACES" value="false" />
     <option name="COMMA_AFTER_LAST_ARRAY_ELEMENT" value="true" />
     <option name="PHPDOC_BLANK_LINE_BEFORE_TAGS" value="true" />
     <option name="PHPDOC_WRAP_LONG_LINES" value="true" />
@@ -146,6 +145,8 @@
     <option name="ALIGN_MULTILINE_EXTENDS_LIST" value="true" />
     <option name="ALIGN_MULTILINE_ARRAY_INITIALIZER_EXPRESSION" value="true" />
     <option name="ALIGN_GROUP_FIELD_DECLARATIONS" value="true" />
+    <option name="SPACE_AFTER_SEMICOLON" value="false" />
+    <option name="SPACE_WITHIN_ARRAY_INITIALIZER_BRACES" value="true" />
     <option name="METHOD_PARAMETERS_WRAP" value="5" />
     <option name="METHOD_CALL_CHAIN_WRAP" value="5" />
     <option name="BINARY_OPERATION_WRAP" value="5" />
