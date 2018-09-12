@@ -1,15 +1,17 @@
 <application>
   <component name="ExportableFileTemplateSettings">
     <internal_templates>
-      <template name="HTML File.html" reformat="true" live-template-enabled="true" enabled="true" />
-      <template name="HTML4 File.html" reformat="true" live-template-enabled="true" enabled="true" />
+      <template name="Bash Script.sh" reformat="true" live-template-enabled="true" enabled="true" />
+      <template name="CSS File.css" reformat="true" live-template-enabled="true" enabled="true" />
       <template name="JavaScript File.js" reformat="false" live-template-enabled="false" enabled="true" />
       <template name="PHP Class.php" reformat="false" live-template-enabled="true" enabled="true" />
       <template name="PHP File.php" reformat="false" live-template-enabled="true" enabled="true" />
       <template name="PHP Interface.php" reformat="false" live-template-enabled="true" enabled="true" />
       <template name="PHP Trait.php" reformat="false" live-template-enabled="true" enabled="true" />
       <template name="PHPUnit Test.php" reformat="false" live-template-enabled="true" enabled="true" />
-      <template name="XHTML File.xhtml" reformat="true" live-template-enabled="true" enabled="true" />
     </internal_templates>
+    <includes_templates>
+      <template name="PHP Function Doc Comment.php" reformat="true" live-template-enabled="true" enabled="true" />
+    </includes_templates>
   </component>
 </application>
