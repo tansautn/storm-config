@@ -57,6 +57,31 @@
       <path value="Main Toolbar" />
       <option name="myInitialPosition" value="-1" />
     </group>
+    <group value="SaveFileAsTemplate" is_action="true" action_type="1" position="26">
+      <path value="root" />
+      <path value="Main Toolbar" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="SaveAsTemplate" is_action="true" action_type="1" position="27">
+      <path value="root" />
+      <path value="Main Toolbar" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="ManageProjectTemplatesAction" is_action="true" action_type="1" position="28">
+      <path value="root" />
+      <path value="Main Toolbar" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="SaveProjectAsTemplateAction" is_action="true" action_type="1" position="29">
+      <path value="root" />
+      <path value="Main Toolbar" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group seperator="true" action_type="1" position="30">
+      <path value="root" />
+      <path value="Main Toolbar" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
     <action id="Git.CompareWithBranch" icon="D:/Z-Data/Pictures/PhpStorm icon/git-compare-branch.png" />
     <action id="com.jetbrains.plugins.remotesdk.console.RunSshConsoleAction" icon="D:/Z-Data/Pictures/PhpStorm icon/ssh.png" />
     <action id="WebDeployment.Options" icon="D:/Z-Data/Pictures/PhpStorm icon/settings 2.png" />
