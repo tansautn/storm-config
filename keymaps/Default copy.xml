@@ -28,8 +28,10 @@
     <keyboard-shortcut first-keystroke="ctrl q" />
   </action>
   <action id="Console.History.Browse" />
+  <action id="Console.TableResult.NavigateAction" />
   <action id="Console.TableResult.Reload" />
   <action id="Diff.SelectedChange" />
+  <action id="EditSource" />
   <action id="Editor Redo">
     <keyboard-shortcut first-keystroke="ctrl y" />
   </action>
@@ -104,6 +106,10 @@
   <action id="ShowBookmarks">
     <keyboard-shortcut first-keystroke="f11" />
   </action>
+  <action id="ShowIntentionActions">
+    <keyboard-shortcut first-keystroke="alt enter" />
+    <keyboard-shortcut first-keystroke="f4" />
+  </action>
   <action id="ShowSettings">
     <keyboard-shortcut first-keystroke="shift ctrl p" />
   </action>
@@ -128,4 +134,6 @@
   <action id="ToggleBookmarkWithMnemonic" />
   <action id="TypeHierarchy" />
   <action id="TypeHierarchyBase.BaseOnThisType" />
+  <action id="Vcs.EditSource" />
+  <action id="XDebugger.JumpToSource" />
 </keymap>
