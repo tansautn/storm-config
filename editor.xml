@@ -3,7 +3,7 @@
     <option name="USE_SOFT_WRAPS" value="MAIN_EDITOR:CONSOLE" />
   </component>
   <component name="TodoConfiguration">
-    <pattern pattern="\btodo\b.*" />
+    <pattern pattern="\b\s*todo\s*\b.*" />
     <pattern icon="question" pattern="\bfixme\b.*" />
     <pattern icon="important" useCustomColors="true" pattern="\bdelme\b.*">
       <option name="FOREGROUND" value="b60001" />
