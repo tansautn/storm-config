@@ -18,4 +18,9 @@
       <option name="PHP Comment" value="true" />
     </context>
   </template>
+  <template name="eol" value="echo PHP_EOL;&#10;$END$" description="echo eol" toReformat="true" toShortenFQNames="true">
+    <context>
+      <option name="PHP" value="true" />
+    </context>
+  </template>
 </templateSet>
