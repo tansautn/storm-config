@@ -1,5 +1,5 @@
 <templateSet group="Laravel Debugbar">
-  <template name="dbi" value="\Debugbar::info($MSG$);&#10;$END$" description="\Debugbar::info('message');" toReformat="false" toShortenFQNames="true">
+  <template name="dbi" value="\Debugbar::info($MSG$);&#10;$END$" description="\Debugbar::info('message');" toReformat="true" toShortenFQNames="true">
     <variable name="MSG" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
       <option name="HTML" value="true" />
@@ -15,7 +15,7 @@
       <option name="PHP" value="true" />
     </context>
   </template>
-  <template name="dbn" value="\Debugbar::notice($MSG$);&#10;$END$" description="\Debugbar::notice" toReformat="false" toShortenFQNames="true">
+  <template name="dbn" value="\Debugbar::notice($MSG$);&#10;$END$" description="\Debugbar::notice" toReformat="true" toShortenFQNames="true">
     <variable name="MSG" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
       <option name="HTML" value="true" />
@@ -29,7 +29,7 @@
       <option name="PHP" value="true" />
     </context>
   </template>
-  <template name="dbw" value="\Debugbar::warning($MSG$);&#10;$END$" description="\Debugbar::warning" toReformat="false" toShortenFQNames="true">
+  <template name="dbw" value="\Debugbar::warning($MSG$);&#10;$END$" description="\Debugbar::warning" toReformat="true" toShortenFQNames="true">
     <variable name="MSG" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
       <option name="HTML" value="true" />

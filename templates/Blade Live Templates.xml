@@ -1,7 +1,7 @@
 <templateSet group="Blade Live Templates">
-  <template name="iff" value="@if($COND$ $OPERATOR$ $CRS$)&#10;    $END$&#10;@endif" description="@if blade template" toReformat="false" toShortenFQNames="true">
+  <template name="@if" value="@if($COND$ $OPERATOR$ $CRS$)&#10;    $END$&#10;@endif" description="@if blade template" toReformat="true" toShortenFQNames="true">
     <variable name="COND" expression="phpSuggestVariableName()" defaultValue="" alwaysStopAt="false" />
-    <variable name="OPERATOR" expression="enum(...)" defaultValue="" alwaysStopAt="false" />
+    <variable name="OPERATOR" expression="enum(...)" defaultValue="==" alwaysStopAt="true" />
     <variable name="CRS" expression="phpSuggestVariableName()" defaultValue="" alwaysStopAt="false" />
     <context>
       <option name="Bash" value="false" />
