@@ -64,7 +64,6 @@
     <option name="NAMESPACE_BRACE_STYLE" value="2" />
   </PHPCodeStyleSettings>
   <XML>
-    <option name="XML_SPACE_AROUND_EQUALITY_IN_ATTRIBUTE" value="true" />
     <option name="XML_SPACE_INSIDE_EMPTY_TAG" value="true" />
     <option name="XML_LEGACY_SETTINGS_IMPORTED" value="true" />
   </XML>

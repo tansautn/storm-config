@@ -6,6 +6,7 @@
       <mapping pattern=".env.develop" type="PLAIN_TEXT" />
       <mapping ext="php___jb_tmp___" type="PLAIN_TEXT" />
       <mapping ext="plist" type="PLAIN_TEXT" />
+      <mapping ext="properties" type="PLAIN_TEXT" />
       <mapping pattern="managed-schema" type="XML" />
     </extensionMap>
   </component>
