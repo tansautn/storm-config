@@ -30,7 +30,7 @@
           <option name="port" value="22" />
         </fileTransfer>
       </webServer>
-      <webServer id="8179394c-5186-4622-b883-dd5b7b40578c" name="US MAGE | Linode" url="https://zuko.pw/">
+      <webServer id="8179394c-5186-4622-b883-dd5b7b40578c" name="US MAGE | Linode" url="https://jp.zuko.pw/">
         <fileTransfer host="zuko.pw" port="22" privateKey="D:\Z-Data\Dev\rsa-phpstorm-no-pwd.key" rootFolder="/var/www/" accessType="SFTP" keyPair="true">
           <advancedOptions>
             <advancedOptions dataProtectionLevel="Private" />
