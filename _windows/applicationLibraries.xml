@@ -4,7 +4,15 @@
       <CLASSES />
       <SOURCES />
     </library>
+    <library name="@types/bootstrap.v3.datetimepicker" type="javaScript">
+      <CLASSES />
+      <SOURCES />
+    </library>
     <library name="@types/jquery" type="javaScript">
+      <CLASSES />
+      <SOURCES />
+    </library>
+    <library name="@types/moment-timezone" type="javaScript">
       <CLASSES />
       <SOURCES />
     </library>
