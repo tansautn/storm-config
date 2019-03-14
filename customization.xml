@@ -1,5 +1,11 @@
 <application>
   <component name="com.intellij.ide.ui.customization.CustomActionsSchema">
+    <group value="Git.ResolveConflicts" is_action="true" action_type="1" position="1">
+      <path value="root" />
+      <path value="Main Toolbar" />
+      <path value="MainToolBarSettings" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
     <group value="Git.CompareWithBranch" is_action="true" action_type="1" position="4">
       <path value="root" />
       <path value="Main Toolbar" />
