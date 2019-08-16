@@ -120,5 +120,16 @@
       </CLASSES>
       <SOURCES />
     </library>
+    <library name="Winwheel" type="javaScript">
+      <properties>
+        <sourceFilesUrls>
+          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_raw.githubusercontent.com_zarocknz_javascript-winwheel_master_Winwheel.js" />
+        </sourceFilesUrls>
+      </properties>
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_raw.githubusercontent.com_zarocknz_javascript-winwheel_master_Winwheel.js" />
+      </CLASSES>
+      <SOURCES />
+    </library>
   </component>
 </application>
