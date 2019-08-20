@@ -3,6 +3,7 @@
     <extensionMap>
       <mapping pattern="git" type="Bash" />
       <mapping pattern="artisan" type="PHP" />
+      <mapping pattern=".gitattributes" type="PLAIN_TEXT" />
       <mapping pattern=".env.develop" type="PLAIN_TEXT" />
       <mapping ext="php___jb_tmp___" type="PLAIN_TEXT" />
       <mapping ext="plist" type="PLAIN_TEXT" />
