@@ -6,7 +6,7 @@
       </SftpAdvancedOptions>
     </sftpAdvancedGlobalOptions>
     <option name="servers">
-      <webServer id="f99abc34-ec8f-4faa-b3fd-6bb99cd2d43c" name="ADBREAK" url="http://adbreak.orderpro.me">
+      <webServer id="f99abc34-ec8f-4faa-b3fd-6bb99cd2d43c" name="ADBREAK" url="http://orderpro.me">
         <fileTransfer host="adbreak.orderpro.me" port="22" rootFolder="/home/runcloud" accessType="SFTP">
           <advancedOptions>
             <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
