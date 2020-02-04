@@ -103,6 +103,7 @@
   <action id="SaveAll">
     <keyboard-shortcut first-keystroke="ctrl alt s" />
   </action>
+  <action id="ServiceView.ShowServices" />
   <action id="ShowBookmarks">
     <keyboard-shortcut first-keystroke="f11" />
   </action>
