@@ -1,5 +1,6 @@
 <application>
   <component name="ProjectLabelApplicationPreferences">
-    <option name="fontName" value="Copperplate Gothic Light" />
+    <option name="fontSize" value="11" />
+    <option name="fontName" value="GinW00-Rough" />
   </component>
 </application>
