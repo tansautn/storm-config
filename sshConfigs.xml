@@ -43,7 +43,9 @@
       <sshConfig host="jp.zuko.pw" id="345f2484-3fae-4aa4-9726-7219910cf8e1" keyPath="D:\Z-Data\Dev\rsa-phpstorm-no-pwd.key" port="22" customName="US ROOT | Linode" nameFormat="CUSTOM" />
       <sshConfig host="download.magebay.com" id="5be55c8f-1a7c-4f44-a328-9b0a254733fc" keyPath="C:\Users\Zuko\.ssh\rsa-phpstorm-no-pwd.key" port="22" customName="PDP-Release-Patch" nameFormat="CUSTOM" />
       <sshConfig host="jp.zuko.pw" id="43192769-dc13-4dff-b110-0dc996b1308f" keyPath="D:\Z-Data\Dev\rsa-phpstorm-no-pwd.key" port="22" customName="US ROOT | Linode" nameFormat="CUSTOM" />
-      <sshConfig host="zuko.pro" id="af6149c7-b4b7-40c1-b6a9-8f8419ec938c" keyPath="E:\Z-Data\Dev\rsa-phpstorm-no-pwd.key" port="22" customName="TW | ROOT" nameFormat="CUSTOM" username="root" />
+      <sshConfig host="download.magebay.com" id="a130aa17-a2fa-451d-b21e-dac37af8c2ed" keyPath="C:\Users\Zuko\.ssh\rsa-phpstorm-no-pwd.key" port="22" customName="PDP-Release-Patch" nameFormat="CUSTOM" />
+      <sshConfig host="jp.zuko.pw" id="f7de9026-30bb-4f43-b741-57ce28eb4554" keyPath="D:\Z-Data\Dev\rsa-phpstorm-no-pwd.key" port="22" customName="US ROOT | Linode" nameFormat="CUSTOM" />
+      <sshConfig host="zuko.pro" id="087d81fc-2a04-4a37-b702-f6bbe427baf4" keyPath="E:\Z-Data\Dev\rsa-phpstorm-no-pwd.key" port="22" customName="TW | ROOT" nameFormat="CUSTOM" username="root" />
     </configs>
   </component>
 </application>
