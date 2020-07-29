@@ -1,9 +1,6 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
-      <mapping pattern="post*" type="Bash" />
-      <mapping pattern="pre*" type="Bash" />
-      <mapping pattern="git" type="Bash" />
       <mapping pattern="artisan" type="PHP" />
       <mapping pattern=".gitattributes" type="PLAIN_TEXT" />
       <mapping pattern=".wp-config.php.swp" type="PLAIN_TEXT" />
@@ -14,6 +11,9 @@
       <mapping ext="plist" type="PLAIN_TEXT" />
       <mapping ext="properties" type="PLAIN_TEXT" />
       <mapping pattern="managed-schema" type="XML" />
+      <mapping pattern="git" type="Bash" />
+      <mapping pattern="post*" type="Bash" />
+      <mapping pattern="pre*" type="Bash" />
     </extensionMap>
   </component>
 </application>
