@@ -13,72 +13,72 @@
       <path value="VCS Actions" />
       <option name="myInitialPosition" value="-1" />
     </group>
-    <group value="PublishGroup.Upload" is_action="true" action_type="1" position="15">
+    <group value="PublishGroup.SyncLocalVsRemoteWith" is_action="true" action_type="1" position="15">
       <path value="root" />
       <path value="Main Toolbar" />
       <option name="myInitialPosition" value="-1" />
     </group>
-    <group value="PublishGroup.Download" is_action="true" action_type="1" position="16">
+    <group value="PublishGroup.Upload" is_action="true" action_type="1" position="16">
       <path value="root" />
       <path value="Main Toolbar" />
       <option name="myInitialPosition" value="-1" />
     </group>
-    <group value="WebDeployment.BrowseServers" is_action="true" action_type="1" position="17">
+    <group value="PublishGroup.Download" is_action="true" action_type="1" position="17">
       <path value="root" />
       <path value="Main Toolbar" />
       <option name="myInitialPosition" value="-1" />
     </group>
-    <group value="PublishGroup.UploadTo" is_action="true" action_type="1" position="18">
+    <group value="WebDeployment.BrowseServers" is_action="true" action_type="1" position="18">
       <path value="root" />
       <path value="Main Toolbar" />
       <option name="myInitialPosition" value="-1" />
     </group>
-    <group seperator="true" action_type="1" position="19">
+    <group value="PublishGroup.UploadTo" is_action="true" action_type="1" position="19">
       <path value="root" />
       <path value="Main Toolbar" />
       <option name="myInitialPosition" value="-1" />
     </group>
-    <group value="WebDeployment.Options" is_action="true" action_type="1" position="20">
+    <group seperator="true" action_type="1" position="20">
       <path value="root" />
       <path value="Main Toolbar" />
       <option name="myInitialPosition" value="-1" />
     </group>
-    <group value="WebDeployment.Configuration" is_action="true" action_type="1" position="21">
+    <group value="WebDeployment.Options" is_action="true" action_type="1" position="21">
       <path value="root" />
       <path value="Main Toolbar" />
       <option name="myInitialPosition" value="-1" />
     </group>
-    <group value="WebDeployment.ToggleAutoUpload" is_action="true" action_type="1" position="22">
+    <group value="WebDeployment.Configuration" is_action="true" action_type="1" position="22">
       <path value="root" />
       <path value="Main Toolbar" />
       <option name="myInitialPosition" value="-1" />
     </group>
-    <group value="com.jetbrains.plugins.remotesdk.console.RunSshConsoleAction" is_action="true" action_type="1" position="23">
+    <group value="WebDeployment.ToggleAutoUpload" is_action="true" action_type="1" position="23">
       <path value="root" />
       <path value="Main Toolbar" />
       <option name="myInitialPosition" value="-1" />
     </group>
-    <group seperator="true" action_type="1" position="24">
+    <group value="com.jetbrains.plugins.remotesdk.console.RunSshConsoleAction" is_action="true" action_type="1" position="24">
       <path value="root" />
       <path value="Main Toolbar" />
       <option name="myInitialPosition" value="-1" />
     </group>
-    <group value="SaveFileAsTemplate" is_action="true" action_type="1" position="25">
+    <group seperator="true" action_type="1" position="25">
       <path value="root" />
       <path value="Main Toolbar" />
       <option name="myInitialPosition" value="-1" />
     </group>
-    <group value="SaveAsTemplate" is_action="true" action_type="1" position="26">
+    <group value="SaveFileAsTemplate" is_action="true" action_type="1" position="26">
       <path value="root" />
       <path value="Main Toolbar" />
       <option name="myInitialPosition" value="-1" />
     </group>
-    <group value="SaveProjectAsTemplateAction" is_action="true" action_type="1" position="27">
+    <group value="SaveAsTemplate" is_action="true" action_type="1" position="27">
       <path value="root" />
       <path value="Main Toolbar" />
       <option name="myInitialPosition" value="-1" />
     </group>
-    <group seperator="true" action_type="1" position="28">
+    <group seperator="true" action_type="1" position="29">
       <path value="root" />
       <path value="Main Toolbar" />
       <option name="myInitialPosition" value="-1" />
