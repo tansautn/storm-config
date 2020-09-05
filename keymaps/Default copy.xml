@@ -7,6 +7,7 @@
   <action id="AutoIndentLines">
     <keyboard-shortcut first-keystroke="ctrl i" />
   </action>
+  <action id="ChangesView.Move" />
   <action id="CloneElement" />
   <action id="CloseAllEditors">
     <keyboard-shortcut first-keystroke="shift ctrl w" />
@@ -103,6 +104,7 @@
   <action id="SaveAll">
     <keyboard-shortcut first-keystroke="ctrl alt s" />
   </action>
+  <action id="ServiceView.ShowServices" />
   <action id="ShowBookmarks">
     <keyboard-shortcut first-keystroke="f11" />
   </action>
@@ -132,8 +134,10 @@
     <keyboard-shortcut first-keystroke="shift f11" />
   </action>
   <action id="ToggleBookmarkWithMnemonic" />
+  <action id="ToggleFindInSelection" />
   <action id="TypeHierarchy" />
   <action id="TypeHierarchyBase.BaseOnThisType" />
   <action id="Vcs.EditSource" />
+  <action id="Vcs.MoveChangedLinesToChangelist" />
   <action id="XDebugger.JumpToSource" />
 </keymap>

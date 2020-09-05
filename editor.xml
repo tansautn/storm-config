@@ -1,4 +1,12 @@
 <application>
+  <component name="CodeFoldingSettings">
+    <option name="COLLAPSE_DOC_COMMENTS" value="true" />
+    <option name="COLLAPSE_CUSTOM_FOLDING_REGIONS" value="true" />
+  </component>
+  <component name="DaemonCodeAnalyzerSettings">
+    <option name="ERROR_STRIPE_MARK_MIN_HEIGHT" value="3" />
+    <option name="SHOW_METHOD_SEPARATORS" value="true" />
+  </component>
   <component name="EditorSettings">
     <option name="USE_SOFT_WRAPS" value="MAIN_EDITOR:CONSOLE" />
   </component>
@@ -21,6 +29,9 @@
       <item index="7" class="java.lang.String" itemvalue="WARNING" />
       <item index="8" class="java.lang.String" itemvalue="ERROR" />
     </list>
+  </component>
+  <component name="PhpCodeFoldingSettings">
+    <option name="COLLAPSE_HERE_DOCS" value="true" />
   </component>
   <component name="TodoConfiguration">
     <pattern pattern="\b\s*todo\s*\b.*" />
