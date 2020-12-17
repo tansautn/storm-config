@@ -6,20 +6,20 @@
     </value>
   </option>
   <option name="LINE_SEPARATOR" value="&#10;" />
-  <option name="RIGHT_MARGIN" value="180" />
-  <option name="HTML_KEEP_WHITESPACES" value="true" />
-  <option name="HTML_ALIGN_TEXT" value="true" />
+  <option name="RIGHT_MARGIN" value="160" />
   <option name="FORMATTER_TAGS_ENABLED" value="true" />
   <option name="FORMATTER_TAGS_ACCEPT_REGEXP" value="true" />
-  <option name="SOFT_MARGINS" value="180" />
+  <option name="SOFT_MARGINS" value="160" />
   <CssCodeStyleSettings>
     <option name="HEX_COLOR_LOWER_CASE" value="true" />
     <option name="KEEP_SINGLE_LINE_BLOCKS" value="true" />
   </CssCodeStyleSettings>
   <HTMLCodeStyleSettings>
+    <option name="HTML_UNIFORM_INDENT" value="true" />
     <option name="HTML_KEEP_WHITESPACES" value="true" />
-    <option name="HTML_ALIGN_TEXT" value="true" />
+    <option name="HTML_TEXT_WRAP" value="0" />
     <option name="HTML_SPACE_INSIDE_EMPTY_TAG" value="true" />
+    <option name="HTML_ENFORCE_QUOTES" value="true" />
   </HTMLCodeStyleSettings>
   <JSCodeStyleSettings version="0">
     <option name="FORCE_SEMICOLON_STYLE" value="true" />
