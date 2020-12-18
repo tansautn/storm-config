@@ -199,8 +199,8 @@
         <entry key="*.csv">
           <value>
             <plugin>
-              <option name="myPluginId" value="com.andrey4623.rainbowcsv" />
-              <option name="myPluginName" value="Rainbow CSV" />
+              <option name="myPluginId" value="net.seesharpsoft.intellij.plugins.csv" />
+              <option name="myPluginName" value="CSV Plugin" />
             </plugin>
           </value>
         </entry>
@@ -279,6 +279,14 @@
             <plugin>
               <option name="myPluginId" value="mobi.hsz.idea.gitignore" />
               <option name="myPluginName" value=".ignore" />
+            </plugin>
+          </value>
+        </entry>
+        <entry key="*.doclua">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="Lua" />
+              <option name="myPluginName" value="Lua" />
             </plugin>
           </value>
         </entry>
@@ -802,6 +810,14 @@
             </plugin>
           </value>
         </entry>
+        <entry key="*.lua">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="Lua" />
+              <option name="myPluginName" value="Lua" />
+            </plugin>
+          </value>
+        </entry>
         <entry key="*.mdb">
           <value>
             <plugin>
@@ -860,6 +876,14 @@
               <option name="myPluginId" value="com.intellij" />
               <option name="myPluginName" value="IDEA CORE" />
               <option name="myBundled" value="true" />
+            </plugin>
+          </value>
+        </entry>
+        <entry key="*.nginx">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="ideanginx9" />
+              <option name="myPluginName" value="nginx Support" />
             </plugin>
           </value>
         </entry>
@@ -1495,6 +1519,14 @@
             </plugin>
           </value>
         </entry>
+        <entry key="*.wlua">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="Lua" />
+              <option name="myPluginName" value="Lua" />
+            </plugin>
+          </value>
+        </entry>
         <entry key="*.wsdl">
           <value>
             <plugin>
@@ -1934,6 +1966,11 @@
             <FeaturePluginsList>
               <option name="featureMap">
                 <map>
+                  <entry key="#com.sylvanaar.idea.Lua.run.LuaConfigurationType">
+                    <value>
+                      <FeaturePluginData displayName="Lua Script" pluginName="Lua" pluginId="Lua" />
+                    </value>
+                  </entry>
                   <entry key="BatchConfigurationType">
                     <value>
                       <FeaturePluginData displayName="Batch" pluginName="Batch Scripts Support" pluginId="Batch Scripts Support" />
@@ -2099,6 +2136,11 @@
                       <FeaturePluginData displayName="Mocha" pluginName="Node.js" pluginId="NodeJS" />
                     </value>
                   </entry>
+                  <entry key="nginx.configuration.type">
+                    <value>
+                      <FeaturePluginData displayName="nginx server" pluginName="nginx Support" pluginId="ideanginx9" />
+                    </value>
+                  </entry>
                 </map>
               </option>
             </FeaturePluginsList>
@@ -2106,7 +2148,17 @@
         </entry>
         <entry key="com.intellij.facetType">
           <value>
-            <FeaturePluginsList />
+            <FeaturePluginsList>
+              <option name="featureMap">
+                <map>
+                  <entry key="Lua">
+                    <value>
+                      <FeaturePluginData displayName="Lua" pluginName="Lua" pluginId="Lua" />
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </FeaturePluginsList>
           </value>
         </entry>
       </map>
