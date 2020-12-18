@@ -21,7 +21,7 @@
         </fileTransfer>
       </webServer>
       <webServer id="a1dc74e7-1d16-4280-bbe7-d31cf425b2e9" name="TW-ZUKO" url="https://zuko.pro/">
-        <fileTransfer rootFolder="/var/www/" accessType="SFTP" host="zuko.pro" port="22" sshConfigId="518f2101-a061-4131-a1a7-b593ed9a192e" sshConfig="TW-ZUKO" keyPair="true">
+        <fileTransfer rootFolder="/var/www/html/" accessType="SFTP" host="zuko.pro" port="22" sshConfigId="518f2101-a061-4131-a1a7-b593ed9a192e" sshConfig="TW-ZUKO" keyPair="true">
           <advancedOptions>
             <advancedOptions dataProtectionLevel="Private" />
           </advancedOptions>
