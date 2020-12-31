@@ -1,8 +1,10 @@
 <application>
   <component name="LogHighlightingSettings">
     <highlightingPatterns>
-      <LogHighlightingPattern pattern="INFO" italic="true" stripe="true" />
-      <LogHighlightingPattern pattern="WARNING" fg="-49742" stripe="true" />
+      <LogHighlightingPattern pattern="(INFO|DEBUG)" italic="true" />
+      <LogHighlightingPattern pattern="WARNING" fg="-28650" stripe="true" />
+      <LogHighlightingPattern pattern="\[ERROR\]" action="HIGHLIGHT_LINE" fg="-50359" bold="true" stripe="true" />
+      <LogHighlightingPattern pattern="CRITICAL" action="HIGHLIGHT_LINE" fg="-50359" bold="true" stripe="true" />
     </highlightingPatterns>
     <parsingPatterns>
       <LogParsingPattern name="Monolog One Line" pattern="([0-9-. ]+)\[(\w+)\] \&gt; (.+)" timePattern="y-M-d H-m-s.S" linePattern="^" timeId="0" severityId="1" categoryId="1" />
