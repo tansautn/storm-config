@@ -1,8 +1,8 @@
 <application>
   <component name="LogHighlightingSettings">
     <highlightingPatterns>
-      <LogHighlightingPattern pattern="(INFO|DEBUG)" italic="true" />
-      <LogHighlightingPattern pattern="WARNING" fg="-28650" stripe="true" />
+      <LogHighlightingPattern pattern="(INFO|DEBUG)" fg="-8519700" italic="true" />
+      <LogHighlightingPattern pattern="WARNING|NOTICE" fg="-28650" stripe="true" />
       <LogHighlightingPattern pattern="\[ERROR\]" action="HIGHLIGHT_LINE" fg="-50359" bold="true" stripe="true" />
       <LogHighlightingPattern pattern="CRITICAL" action="HIGHLIGHT_LINE" fg="-50359" bold="true" stripe="true" />
     </highlightingPatterns>
