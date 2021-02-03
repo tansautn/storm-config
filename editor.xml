@@ -17,6 +17,9 @@
   <component name="EditorSettings">
     <option name="USE_SOFT_WRAPS" value="MAIN_EDITOR:CONSOLE" />
   </component>
+  <component name="InlayHintsSettings">
+    <option name="lastViewedProviderKeyId" value="parameter.hints.old" />
+  </component>
   <component name="InspectionProfileManager">
     <info color="525229">
       <option name="BACKGROUND" value="3b1341" />
