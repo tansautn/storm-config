@@ -1,5 +1,6 @@
 <application>
   <component name="LudditeLabsAutodocApp">
+    <option name="canCollectStatistics" value="false" />
     <option name="statisticsLastUploadTimestamp" value="1608249600000" />
   </component>
 </application>
