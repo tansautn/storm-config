@@ -3,8 +3,8 @@
     <extensionMap>
       <mapping pattern="artisan" type="PHP" />
       <mapping pattern=".gitattributes" type="PLAIN_TEXT" />
-      <mapping pattern=".env.develop" type="PLAIN_TEXT" />
       <mapping pattern="LICENSE" type="PLAIN_TEXT" />
+      <mapping pattern=".env.develop" type="PLAIN_TEXT" />
       <mapping pattern=".wp-config.php.swp" type="PLAIN_TEXT" />
       <mapping ext="plist" type="PLAIN_TEXT" />
       <mapping ext="properties" type="PLAIN_TEXT" />
@@ -12,14 +12,17 @@
       <mapping ext="mo" type="PLAIN_TEXT" />
       <mapping pattern=" post-receive" type="Shell Script" />
       <mapping pattern="managed-schema" type="XML" />
+      <removed_mapping ext="bash" approved="true" type="Shell Script" />
       <removed_mapping ext="bat" approved="true" type="Batch" />
       <removed_mapping ext="chm" approved="true" type="Native" />
       <removed_mapping ext="cmd" approved="true" type="Batch" />
       <removed_mapping ext="cql" approved="true" type="Cypher" />
-      <removed_mapping ext="csv" approved="true" type="CSV/TSV" />
+      <removed_mapping ext="csv" approved="true" type="CSV file" />
       <removed_mapping ext="ignore" approved="true" type="IgnoreLang file" />
+      <removed_mapping ext="sh" approved="true" type="Shell Script" />
       <removed_mapping ext="sql" approved="true" type="DBN-SQL" />
       <removed_mapping ext="tsv" approved="true" type="CSV/TSV" />
+      <removed_mapping ext="zsh" approved="true" type="Shell Script" />
       <mapping pattern="git" type="Bash" />
       <mapping pattern="post*" type="Bash" />
       <mapping pattern="pre*" type="Bash" />

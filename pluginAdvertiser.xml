@@ -50,9 +50,16 @@
         <entry key="*.bash">
           <value>
             <plugin>
-              <option name="myPluginId" value="com.jetbrains.sh" />
-              <option name="myPluginName" value="Shell Script" />
-              <option name="myBundled" value="true" />
+              <option name="myPluginId" value="pro.bashsupport" />
+              <option name="myPluginName" value="BashSupport Pro" />
+            </plugin>
+          </value>
+        </entry>
+        <entry key="*.bats">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="pro.bashsupport" />
+              <option name="myPluginName" value="BashSupport Pro" />
             </plugin>
           </value>
         </entry>
@@ -218,6 +225,14 @@
             <plugin>
               <option name="myPluginId" value="mobi.hsz.idea.gitignore" />
               <option name="myPluginName" value=".ignore" />
+            </plugin>
+          </value>
+        </entry>
+        <entry key="*.dash">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="pro.bashsupport" />
+              <option name="myPluginName" value="BashSupport Pro" />
             </plugin>
           </value>
         </entry>
@@ -793,6 +808,14 @@
             </plugin>
           </value>
         </entry>
+        <entry key="*.ksh">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="pro.bashsupport" />
+              <option name="myPluginName" value="BashSupport Pro" />
+            </plugin>
+          </value>
+        </entry>
         <entry key="*.less">
           <value>
             <plugin>
@@ -830,18 +853,16 @@
         <entry key="*.markdown">
           <value>
             <plugin>
-              <option name="myPluginId" value="org.intellij.plugins.markdown" />
-              <option name="myPluginName" value="Markdown" />
-              <option name="myBundled" value="true" />
+              <option name="myPluginId" value="com.vladsch.idea.multimarkdown" />
+              <option name="myPluginName" value="Markdown Navigator Enhanced" />
             </plugin>
           </value>
         </entry>
         <entry key="*.md">
           <value>
             <plugin>
-              <option name="myPluginId" value="org.intellij.plugins.markdown" />
-              <option name="myPluginName" value="Markdown" />
-              <option name="myBundled" value="true" />
+              <option name="myPluginId" value="com.vladsch.idea.multimarkdown" />
+              <option name="myPluginName" value="Markdown Navigator Enhanced" />
             </plugin>
           </value>
         </entry>
@@ -868,6 +889,22 @@
             <plugin>
               <option name="myPluginId" value="name.kropp.intellij.makefile" />
               <option name="myPluginName" value="Makefile support" />
+            </plugin>
+          </value>
+        </entry>
+        <entry key="*.mkd">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="com.vladsch.idea.multimarkdown" />
+              <option name="myPluginName" value="Markdown Navigator Enhanced" />
+            </plugin>
+          </value>
+        </entry>
+        <entry key="*.mksh">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="pro.bashsupport" />
+              <option name="myPluginName" value="BashSupport Pro" />
             </plugin>
           </value>
         </entry>
@@ -1351,9 +1388,8 @@
         <entry key="*.sh">
           <value>
             <plugin>
-              <option name="myPluginId" value="com.jetbrains.sh" />
-              <option name="myPluginName" value="Shell Script" />
-              <option name="myBundled" value="true" />
+              <option name="myPluginId" value="pro.bashsupport" />
+              <option name="myPluginName" value="BashSupport Pro" />
             </plugin>
           </value>
         </entry>
@@ -1788,9 +1824,8 @@
         <entry key="*.zsh">
           <value>
             <plugin>
-              <option name="myPluginId" value="com.jetbrains.sh" />
-              <option name="myPluginName" value="Shell Script" />
-              <option name="myBundled" value="true" />
+              <option name="myPluginId" value="pro.bashsupport" />
+              <option name="myPluginName" value="BashSupport Pro" />
             </plugin>
           </value>
         </entry>
@@ -1809,6 +1844,38 @@
               <option name="myPluginId" value="com.intellij" />
               <option name="myPluginName" value="IDEA CORE" />
               <option name="myBundled" value="true" />
+            </plugin>
+          </value>
+        </entry>
+        <entry key=".bash_aliases">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="pro.bashsupport" />
+              <option name="myPluginName" value="BashSupport Pro" />
+            </plugin>
+          </value>
+        </entry>
+        <entry key=".bash_logout">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="pro.bashsupport" />
+              <option name="myPluginName" value="BashSupport Pro" />
+            </plugin>
+          </value>
+        </entry>
+        <entry key=".bash_profile">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="pro.bashsupport" />
+              <option name="myPluginName" value="BashSupport Pro" />
+            </plugin>
+          </value>
+        </entry>
+        <entry key=".bashrc">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="pro.bashsupport" />
+              <option name="myPluginName" value="BashSupport Pro" />
             </plugin>
           </value>
         </entry>
@@ -1924,6 +1991,14 @@
               <option name="myPluginId" value="com.intellij" />
               <option name="myPluginName" value="IDEA CORE" />
               <option name="myBundled" value="true" />
+            </plugin>
+          </value>
+        </entry>
+        <entry key=".profile">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="pro.bashsupport" />
+              <option name="myPluginName" value="BashSupport Pro" />
             </plugin>
           </value>
         </entry>
@@ -2103,6 +2178,16 @@
                       <FeaturePluginData displayName="Lua Script" pluginName="Lua" pluginId="Lua" />
                     </value>
                   </entry>
+                  <entry key="BashConfigurationType">
+                    <value>
+                      <FeaturePluginData displayName="Legacy BashSupport" pluginName="BashSupport Pro" pluginId="pro.bashsupport" />
+                    </value>
+                  </entry>
+                  <entry key="BashProRunConfiguration">
+                    <value>
+                      <FeaturePluginData displayName="BashSupport Pro" pluginName="BashSupport Pro" pluginId="pro.bashsupport" />
+                    </value>
+                  </entry>
                   <entry key="BatchConfigurationType">
                     <value>
                       <FeaturePluginData displayName="Batch" pluginName="Batch Scripts Support" pluginId="Batch Scripts Support" />
@@ -2250,7 +2335,7 @@
                   </entry>
                   <entry key="ShConfigurationType">
                     <value>
-                      <FeaturePluginData displayName="Shell Script" pluginName="Shell Script" pluginId="com.jetbrains.sh" />
+                      <FeaturePluginData displayName="Shell Script (by BashSupport Pro)" pluginName="BashSupport Pro" pluginId="pro.bashsupport" />
                     </value>
                   </entry>
                   <entry key="SwaggerCodegen">
@@ -2271,6 +2356,11 @@
                   <entry key="XSLT">
                     <value>
                       <FeaturePluginData displayName="XSLT" pluginName="XPathView + XSLT" pluginId="XPathView" />
+                    </value>
+                  </entry>
+                  <entry key="bashpro.bats-core">
+                    <value>
+                      <FeaturePluginData displayName="bats-core" pluginName="BashSupport Pro" pluginId="pro.bashsupport" />
                     </value>
                   </entry>
                   <entry key="js.build_tools.grunt">
