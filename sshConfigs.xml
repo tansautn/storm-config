@@ -1,7 +1,7 @@
 <application>
   <component name="SshConfigs">
     <configs>
-      <sshConfig authType="PASSWORD" host="adbreak.orderpro.me" id="f3fe8d19-c0ad-468f-816b-9ee1d89be201" port="22" customName="ADBREAK" nameFormat="CUSTOM" username="runcloud">
+      <sshConfig host="172.104.190.60" id="f3fe8d19-c0ad-468f-816b-9ee1d89be201" keyPath="$USER_HOME$/.ssh/id_rsa" port="22" customName="ADBREAK" nameFormat="CUSTOM" username="runcloud">
         <option name="customName" value="ADBREAK" />
       </sshConfig>
       <sshConfig host="download.magebay.com" id="df74767b-e9f6-4e0d-9119-0c3649974205" keyPath="C:\Users\Zuko\.ssh\rsa-phpstorm-no-pwd.key" port="22" customName="PDP-Release-Patch" nameFormat="CUSTOM">

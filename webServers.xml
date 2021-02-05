@@ -7,7 +7,7 @@
     </sftpAdvancedGlobalOptions>
     <option name="servers">
       <webServer id="f99abc34-ec8f-4faa-b3fd-6bb99cd2d43c" name="ADBREAK" url="http://orderpro.me">
-        <fileTransfer rootFolder="/home/runcloud" accessType="SFTP" host="adbreak.orderpro.me" port="22" sshConfigId="f3fe8d19-c0ad-468f-816b-9ee1d89be201" sshConfig="ADBREAK">
+        <fileTransfer rootFolder="/home/runcloud" accessType="SFTP" host="172.104.190.60" port="22" sshConfigId="f3fe8d19-c0ad-468f-816b-9ee1d89be201" sshConfig="ADBREAK" keyPair="true">
           <advancedOptions>
             <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
           </advancedOptions>
