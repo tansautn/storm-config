@@ -7,7 +7,7 @@
     </sftpAdvancedGlobalOptions>
     <option name="servers">
       <webServer id="f99abc34-ec8f-4faa-b3fd-6bb99cd2d43c" name="ADBREAK" url="http://orderpro.me">
-        <fileTransfer rootFolder="/home/runcloud" accessType="SFTP" host="adbreak.orderpro.me" port="22" sshConfigId="f3fe8d19-c0ad-468f-816b-9ee1d89be201" sshConfig="ADBREAK">
+        <fileTransfer rootFolder="/home/runcloud" accessType="SFTP" host="172.104.190.60" port="22" sshConfigId="f3fe8d19-c0ad-468f-816b-9ee1d89be201" sshConfig="ADBREAK" keyPair="true">
           <advancedOptions>
             <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
           </advancedOptions>
@@ -21,7 +21,7 @@
         </fileTransfer>
       </webServer>
       <webServer id="a1dc74e7-1d16-4280-bbe7-d31cf425b2e9" name="TW-ZUKO" url="https://zuko.pro/">
-        <fileTransfer rootFolder="/var/www/" accessType="SFTP" host="zuko.pro" port="22" sshConfigId="518f2101-a061-4131-a1a7-b593ed9a192e" sshConfig="TW-ZUKO" keyPair="true">
+        <fileTransfer rootFolder="/var/www/html/" accessType="SFTP" host="zuko.pro" port="22" sshConfigId="518f2101-a061-4131-a1a7-b593ed9a192e" sshConfig="TW-ZUKO" keyPair="true">
           <advancedOptions>
             <advancedOptions dataProtectionLevel="Private" />
           </advancedOptions>

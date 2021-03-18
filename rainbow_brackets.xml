@@ -1,13 +1,11 @@
 <application>
   <component name="RainbowSettings">
+    <option name="applyColorsOfRoundForAllBrackets" value="true" />
+    <option name="cycleCountOnAllBrackets" value="true" />
     <option name="doNOTRainbowifyBracketsWithoutContent" value="true" />
+    <option name="doNOTRainbowifyTemplateString" value="true" />
     <option name="doNOTRainbowifyTheFirstLevel" value="true" />
-    <option name="enableRainbowAngleBrackets" value="false" />
-    <option name="enableRainbowRoundBrackets" value="false" />
-    <option name="enableRainbowSquareBrackets" value="false" />
-    <option name="enableRainbowSquigglyBrackets" value="false" />
-    <option name="rainbowEnabled" value="false" />
-    <option name="showRainbowIndentGuides" value="false" />
-    <option name="version" value="6.5" />
+    <option name="useColorGenerator" value="true" />
+    <option name="version" value="6.17" />
   </component>
 </application>
