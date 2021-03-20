@@ -12,10 +12,6 @@
       <mapping ext="properties" type="PLAIN_TEXT" />
       <mapping ext="php___jb_tmp___" type="PLAIN_TEXT" />
       <mapping ext="mo" type="PLAIN_TEXT" />
-      <mapping pattern=" post-receive" type="Shell Script" />
-      <removed_mapping ext="sh" approved="true" type="Shell Script" />
-      <removed_mapping ext="bash" approved="true" type="Shell Script" />
-      <removed_mapping ext="zsh" approved="true" type="Shell Script" />
       <mapping pattern="managed-schema" type="XML" />
       <removed_mapping ext="bat" approved="true" type="Batch" />
       <removed_mapping ext="sh" approved="true" type="Shell Script" />
@@ -28,6 +24,7 @@
       <removed_mapping ext="zsh" approved="true" type="Shell Script" />
       <removed_mapping ext="cql" approved="true" type="Cypher" />
       <removed_mapping ext="sql" approved="true" type="DBN-SQL" />
+      <mapping pattern=" post-receive" type="Shell Script" />
       <mapping pattern="git" type="Bash" />
       <mapping pattern="post*" type="Bash" />
       <mapping pattern="pre*" type="Bash" />
