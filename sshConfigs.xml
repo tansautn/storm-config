@@ -1,19 +1,19 @@
 <application>
   <component name="SshConfigs">
     <configs>
-      <sshConfig host="172.104.190.60" id="f3fe8d19-c0ad-468f-816b-9ee1d89be201" keyPath="$USER_HOME$/.ssh/id_rsa" port="22" customName="ADBREAK" nameFormat="CUSTOM" username="runcloud">
+      <sshConfig connectionConfig="{&quot;serverAliveInterval&quot;:300}" host="172.104.190.60" id="f3fe8d19-c0ad-468f-816b-9ee1d89be201" keyPath="$USER_HOME$/.ssh/id_rsa" port="22" customName="ADBREAK" nameFormat="CUSTOM" username="runcloud">
         <option name="customName" value="ADBREAK" />
       </sshConfig>
-      <sshConfig host="download.magebay.com" id="df74767b-e9f6-4e0d-9119-0c3649974205" keyPath="C:\Users\Zuko\.ssh\rsa-phpstorm-no-pwd.key" port="22" customName="PDP-Release-Patch" nameFormat="CUSTOM">
+      <sshConfig connectionConfig="{&quot;serverAliveInterval&quot;:300}" host="download.magebay.com" id="df74767b-e9f6-4e0d-9119-0c3649974205" keyPath="C:\Users\Zuko\.ssh\rsa-phpstorm-no-pwd.key" port="22" customName="PDP-Release-Patch" nameFormat="CUSTOM">
         <option name="customName" value="PDP-Release-Patch" />
       </sshConfig>
-      <sshConfig host="zuko.pro" id="518f2101-a061-4131-a1a7-b593ed9a192e" keyPath="C:\Users\Zuko\.ssh\rsa-phpstorm-no-pwd.key" port="22" customName="TW-ZUKO" nameFormat="CUSTOM" username="root">
+      <sshConfig connectionConfig="{&quot;serverAliveInterval&quot;:300}" host="zuko.pro" id="518f2101-a061-4131-a1a7-b593ed9a192e" keyPath="C:\Users\Zuko\.ssh\rsa-phpstorm-no-pwd.key" port="22" customName="TW-ZUKO" nameFormat="CUSTOM" username="root">
         <option name="customName" value="TW-ZUKO" />
       </sshConfig>
-      <sshConfig host="jp.zuko.pw" id="1d2c9796-fe3e-48c8-a278-a6fb1e561099" keyPath="D:\Z-Data\Dev\rsa-phpstorm-no-pwd.key" port="22" customName="US ROOT | Linode" nameFormat="CUSTOM">
+      <sshConfig connectionConfig="{&quot;serverAliveInterval&quot;:300}" host="jp.zuko.pw" id="1d2c9796-fe3e-48c8-a278-a6fb1e561099" keyPath="D:\Z-Data\Dev\rsa-phpstorm-no-pwd.key" port="22" customName="US ROOT | Linode" nameFormat="CUSTOM">
         <option name="customName" value="US ROOT | Linode" />
       </sshConfig>
-      <sshConfig host="zuko.pw" id="c5281819-c95b-4113-88e9-f1a5181b397e" keyPath="D:\Z-Data\Dev\rsa-phpstorm-no-pwd.key" port="22" customName="US MAGE | Linode" nameFormat="CUSTOM" username="magesv">
+      <sshConfig connectionConfig="{&quot;serverAliveInterval&quot;:300}" host="zuko.pw" id="c5281819-c95b-4113-88e9-f1a5181b397e" keyPath="D:\Z-Data\Dev\rsa-phpstorm-no-pwd.key" port="22" customName="US MAGE | Linode" nameFormat="CUSTOM" username="magesv">
         <option name="customName" value="US MAGE | Linode" />
       </sshConfig>
       <sshConfig host="zuko.pro" id="5a4dd081-49a7-4a02-9040-33908b515719" keyPath="E:\Z-Data\Dev\rsa-phpstorm-no-pwd.key" port="22" customName="TW | ROOT" nameFormat="CUSTOM" username="root">
