@@ -99,7 +99,7 @@
                   </entry>
                   <entry key="MAKEFILE_TARGET_RUN_CONFIGURATION">
                     <value>
-                      <FeaturePluginData displayName="Makefile" pluginName="Makefile support" pluginId="name.kropp.intellij.makefile" />
+                      <FeaturePluginData displayName="Makefile Target" pluginName="Makefile Language" pluginId="name.kropp.intellij.makefile" />
                     </value>
                   </entry>
                   <entry key="NodeJSConfigurationType">
@@ -200,6 +200,11 @@
                   <entry key="bashpro.bats-core">
                     <value>
                       <FeaturePluginData displayName="bats-core" pluginName="BashSupport Pro" pluginId="pro.bashsupport" />
+                    </value>
+                  </entry>
+                  <entry key="docker-deploy">
+                    <value>
+                      <FeaturePluginData displayName="Docker" pluginName="IDEA CORE" pluginId="com.intellij" bundled="true" />
                     </value>
                   </entry>
                   <entry key="js.build_tools.grunt">
