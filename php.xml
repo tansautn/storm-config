@@ -1,5 +1,5 @@
 <application>
-  <component name="PhpAutoImport" auto_import_file_scope="true" />
+  <component name="PhpAutoImport" auto_import_file_scope="true" import_on_paste="ALL" />
   <component name="PhpInterpreters">
     <interpreters>
       <interpreter id="462eabcb-f463-441d-811c-e6d143e13058" name="PHP 5.6" home="E:\Z-Data\XAMPP\php\php.exe" debugger_id="php.debugger.XDebug" />
