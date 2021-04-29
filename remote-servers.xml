@@ -6,7 +6,7 @@
         <option name="pathMappings">
           <list>
             <DockerPathMappingImpl>
-              <option name="localPath" value="E:\Github\learn-docker\phpcli" />
+              <option name="localPath" value="/data/docker/phpcli" />
               <option name="virtualMachinePath" value="/var/www/html/spytools" />
             </DockerPathMappingImpl>
           </list>

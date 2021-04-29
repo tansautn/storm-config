@@ -286,6 +286,9 @@
       <sshConfig connectionConfig="{&quot;serverAliveInterval&quot;:300}" host="jp.zuko.pw" id="1d2c9796-fe3e-48c8-a278-a6fb1e561099" keyPath="D:\Z-Data\Dev\rsa-phpstorm-no-pwd.key" port="22" customName="US ROOT | Linode" nameFormat="CUSTOM">
         <option name="customName" value="US ROOT | Linode" />
       </sshConfig>
+      <sshConfig connectionConfig="{&quot;serverAliveInterval&quot;:300}" host="7.prx.muzjk.xyz" id="9601f35d-26fd-45d9-b6df-8eb4a523b13e" keyPath="$USER_HOME$/.ssh/id_rsa" port="22" customName="root - ovh dedi" nameFormat="CUSTOM" username="root">
+        <option name="customName" value="root - ovh dedi" />
+      </sshConfig>
     </configs>
   </component>
 </application>

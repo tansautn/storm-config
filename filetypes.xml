@@ -1,6 +1,7 @@
 <application>
   <component name="FileTypeManager" version="18">
     <extensionMap>
+      <mapping pattern=".dockerenv" type=".env file" />
       <mapping ext="csv" type="CSV file" />
       <removed_mapping ext="csv" type="MyNative" />
       <mapping pattern="artisan" type="PHP" />
