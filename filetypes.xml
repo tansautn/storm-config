@@ -1,9 +1,6 @@
 <application>
   <component name="FileTypeManager" version="18">
     <extensionMap>
-      <mapping pattern=".dockerenv" type=".env file" />
-      <mapping ext="csv" type="CSV file" />
-      <removed_mapping ext="csv" type="MyNative" />
       <mapping pattern="artisan" type="PHP" />
       <mapping pattern=".gitattributes" type="PLAIN_TEXT" />
       <mapping pattern="LICENSE" type="PLAIN_TEXT" />
@@ -21,6 +18,7 @@
       <removed_mapping ext="ignore" approved="true" type="IgnoreLang file" />
       <removed_mapping ext="xls" approved="true" type="Native" />
       <removed_mapping ext="xlsx" approved="true" type="Native" />
+      <mapping pattern=".dockerenv" type=".env file" />
       <mapping pattern="git" type="Bash" />
       <mapping pattern="post*" type="Bash" />
       <mapping pattern="pre*" type="Bash" />
