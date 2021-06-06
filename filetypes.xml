@@ -1,8 +1,9 @@
 <application>
   <component name="FileTypeManager" version="18">
     <extensionMap>
-      <removed_mapping ext="csv" type="CSV file" />
-      <mapping ext="csv" type="MyNative" />
+      <removed_mapping pattern=".env.*" type=".env file" />
+      <mapping ext="csv" type="CSV file" />
+      <removed_mapping ext="csv" type="MyNative" />
       <mapping pattern="artisan" type="PHP" />
       <mapping pattern=".gitattributes" type="PLAIN_TEXT" />
       <mapping pattern="LICENSE" type="PLAIN_TEXT" />
