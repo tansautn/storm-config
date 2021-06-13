@@ -1,9 +1,12 @@
 <application>
   <component name="AppStorage">
-    <option name="newTranslationDialogWidth" value="596" />
+    <option name="newTranslationDialogWidth" value="594" />
     <option name="newTranslationDialogX" value="558" />
     <option name="newTranslationDialogY" value="405" />
     <histories>
+      <item value="https://www.creative-tim.com product paper-dashboard-2" />
+      <item value="https:www.creative-tim.com product paper-dashboard-2" />
+      <item value="https:www.creative-tim.comproductpaper-dashboard-2" />
       <item value="Forbid" />
       <item value="matcher" />
       <item value="endforeach" />
@@ -20,6 +23,14 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1622999560329" />
+    <option name="lastTrimTime" value="1623552217871" />
+  </component>
+  <component name="Settings">
+    <option name="googleTranslateSettings">
+      <google-translate>
+        <option name="primaryLanguage" value="VIETNAMESE" />
+        <option name="useTranslateGoogleCom" value="true" />
+      </google-translate>
+    </option>
   </component>
 </application>
