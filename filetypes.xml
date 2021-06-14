@@ -1,10 +1,11 @@
 <application>
   <component name="FileTypeManager" version="18">
     <extensionMap>
-      <mapping ext="csv" type="CSV file" />
+      <mapping pattern=".env.*" type=".env file" />
+      <removed_mapping ext="csv" type="CSV file" />
       <mapping pattern="composer.json.*" type="JSON" />
       <mapping pattern="composer.lock.*" type="JSON" />
-      <removed_mapping ext="csv" type="MyNative" />
+      <mapping ext="csv" type="MyNative" />
       <mapping pattern="artisan" type="PHP" />
       <mapping pattern="carbon" type="PHP" />
       <mapping pattern=".gitattributes" type="PLAIN_TEXT" />
@@ -19,8 +20,8 @@
       <mapping pattern="managed-schema" type="XML" />
       <mapping ext="icls" type="XML" />
       <removed_mapping ext="chm" approved="true" type="Native" />
-      <removed_mapping ext="csv" type="CSV file" />
       <removed_mapping ext="csv" approved="true" type="CSV/TSV" />
+      <removed_mapping ext="xls" approved="true" type="Native" />
       <removed_mapping ext="xlsx" approved="true" type="Native" />
       <mapping pattern="git" type="Bash" />
       <mapping pattern="post*" type="Bash" />
