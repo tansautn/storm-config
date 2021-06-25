@@ -207,8 +207,8 @@
         <entry key="*.csv">
           <value>
             <plugin>
-              <option name="myPluginId" value="com.chesterccw.excelreader" />
-              <option name="myPluginName" value="ExcelReader" />
+              <option name="myPluginId" value="com.andrey4623.rainbowcsv" />
+              <option name="myPluginName" value="Rainbow CSV" />
             </plugin>
           </value>
         </entry>
