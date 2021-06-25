@@ -18,6 +18,7 @@
       <mapping ext="icls" type="XML" />
       <removed_mapping ext="csv" approved="true" type="CSV/TSV" />
       <removed_mapping ext="ignore" approved="true" type="IgnoreLang file" />
+      <removed_mapping ext="xls" approved="true" type="Native" />
       <removed_mapping ext="xlsx" approved="true" type="Native" />
       <removed_mapping pattern=".env.*" approved="true" type=".env file" />
       <mapping pattern="git" type="Bash" />
