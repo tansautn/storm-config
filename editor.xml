@@ -5,9 +5,7 @@
   </component>
   <component name="CodeInsightSettings">
     <option name="AUTO_POPUP_JAVADOC_INFO" value="true" />
-    <option name="JAVADOC_INFO_DELAY" value="400" />
     <option name="SHOW_FULL_SIGNATURES_IN_PARAMETER_INFO" value="true" />
-    <option name="HIGHLIGHT_SCOPE" value="true" />
   </component>
   <component name="DaemonCodeAnalyzerSettings">
     <option name="ERROR_STRIPE_MARK_MIN_HEIGHT" value="3" />
@@ -18,8 +16,6 @@
   </component>
   <component name="EditorSettings">
     <option name="USE_SOFT_WRAPS" value="MAIN_EDITOR:CONSOLE" />
-    <option name="TOOLTIPS_DELAY_MS" value="250" />
-    <option name="ENABLE_RENDERED_DOC" value="true" />
   </component>
   <component name="InlayHintsSettings">
     <option name="lastViewedProviderKeyId" value="parameter.hints.old" />
@@ -43,10 +39,6 @@
       <item index="7" class="java.lang.String" itemvalue="WARNING" />
       <item index="8" class="java.lang.String" itemvalue="ERROR" />
     </list>
-  </component>
-  <component name="JSCodeFoldingSettings">
-    <option name="collapseXmlLiterals" value="true" />
-    <option name="COLLAPSE_XML_LITERALS" value="true" />
   </component>
   <component name="PhpCodeFoldingSettings">
     <option name="COLLAPSE_HERE_DOCS" value="true" />
