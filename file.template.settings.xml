@@ -1,0 +1,9 @@
+<application>
+  <component name="ExportableFileTemplateSettings">
+    <default_templates>
+      <template name="WordPress Theme Template File.php" reformat="true" live-template-enabled="true" />
+      <template name="XML File.xml" reformat="true" live-template-enabled="true" />
+      <template name="Zend View༏ext༏.blade.php" reformat="true" live-template-enabled="true" />
+    </default_templates>
+  </component>
+</application>

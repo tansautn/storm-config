@@ -1,5 +1,5 @@
 <application>
-  <component name="PhpAutoImport" auto_import_file_scope="true" />
+  <component name="PhpAutoImport" auto_import_file_scope="true" import_on_paste="ALL" />
   <component name="PhpInterpreters">
     <interpreters>
       <interpreter id="462eabcb-f463-441d-811c-e6d143e13058" name="PHP 5.6" home="E:\Z-Data\XAMPP\php\php.exe" debugger_id="php.debugger.XDebug" />
@@ -9,16 +9,17 @@
       <interpreter id="47381f7b-c4b4-4188-b6f2-8df68e2ef547" name="PHP 7.3 .PRO" home="sshConfig://DATA" debugger_id="php.debugger.XDebug">
         <remote_data INTERPRETER_PATH="/usr/bin/php" HELPERS_PATH="/root/.phpstorm_helpers" INITIALIZED="false" VALID="true" RUN_AS_ROOT_VIA_SUDO="false" SSH_CONFIG_ID="518f2101-a061-4131-a1a7-b593ed9a192e" SSH_CONFIG_NAME="TW-ZUKO" SSH_CREDENTIALS_ID="sshConfig://TW-ZUKO" />
       </interpreter>
+      <interpreter id="524b48fb-ff99-4d7e-aa3f-81754d9e65a7" name="PHP LINK - GLJX" home="E:\code-stacks\xampp\php\php.exe" debugger_id="php.debugger.XDebug" />
     </interpreters>
   </component>
   <component name="PhpInterpretersPhpInfoCache">
     <phpInfoCache>
-      <interpreter name="PHP 7.4.9 - WORK">
-        <phpinfo binary_type="PHP" php_cgi="E:\xampp\php\php-cgi.exe" php_cli="E:\xampp\php\php.exe" path_separator=";" version="7.4.9">
+      <interpreter name="PHP LINK - GLJX">
+        <phpinfo binary_type="PHP" php_cgi="E:\code-stacks\xampp\php\php-cgi.exe" php_cli="E:\code-stacks\xampp\php\php.exe" path_separator=";" version="7.3.10">
           <additional_php_ini />
-          <configuration_file>E:\xampp\php\php.ini</configuration_file>
+          <configuration_file>E:\code-stacks\xampp\php\php.ini</configuration_file>
           <configuration_options>
-            <configuration_option name="include_path" value="E:\xampp\php\PEAR" />
+            <configuration_option name="include_path" value=".;C:\php\pear" />
           </configuration_options>
           <debuggers />
           <loaded_extensions>
@@ -29,86 +30,19 @@
             <extension name="SPL" />
             <extension name="SimpleXML" />
             <extension name="bcmath" />
-            <extension name="bz2" />
             <extension name="calendar" />
             <extension name="ctype" />
-            <extension name="curl" />
             <extension name="date" />
             <extension name="dom" />
-            <extension name="exif" />
-            <extension name="fileinfo" />
             <extension name="filter" />
-            <extension name="ftp" />
-            <extension name="gd" />
-            <extension name="gettext" />
             <extension name="hash" />
             <extension name="iconv" />
+            <extension name="intl" />
             <extension name="json" />
             <extension name="libxml" />
-            <extension name="mbstring" />
-            <extension name="mysqli" />
             <extension name="mysqlnd" />
-            <extension name="openssl" />
             <extension name="pcre" />
-            <extension name="pdo_mysql" />
-            <extension name="pdo_sqlite" />
             <extension name="readline" />
-            <extension name="session" />
-            <extension name="standard" />
-            <extension name="tokenizer" />
-            <extension name="xml" />
-            <extension name="xmlreader" />
-            <extension name="xmlwriter" />
-            <extension name="zip" />
-            <extension name="zlib" />
-          </loaded_extensions>
-        </phpinfo>
-      </interpreter>
-      <interpreter name="PHP 5.6">
-        <phpinfo binary_type="PHP" php_cgi="E:\Z-Data\XAMPP\php\php-cgi.exe" php_cli="E:\Z-Data\XAMPP\php\php.exe" path_separator=";" version="5.6.23">
-          <additional_php_ini />
-          <configuration_file>E:\Z-Data\XAMPP\php\php.ini</configuration_file>
-          <configuration_options>
-            <configuration_option name="include_path" value="E:\Z-Data\XAMPP\php\PEAR" />
-          </configuration_options>
-          <debuggers />
-          <loaded_extensions>
-            <extension name="Core" />
-            <extension name="PDO" />
-            <extension name="Phar" />
-            <extension name="Reflection" />
-            <extension name="SPL" />
-            <extension name="SimpleXML" />
-            <extension name="bcmath" />
-            <extension name="bz2" />
-            <extension name="calendar" />
-            <extension name="ctype" />
-            <extension name="curl" />
-            <extension name="date" />
-            <extension name="dom" />
-            <extension name="ereg" />
-            <extension name="exif" />
-            <extension name="fileinfo" />
-            <extension name="filter" />
-            <extension name="ftp" />
-            <extension name="gd" />
-            <extension name="gettext" />
-            <extension name="hash" />
-            <extension name="iconv" />
-            <extension name="imagick" />
-            <extension name="json" />
-            <extension name="libxml" />
-            <extension name="mbstring" />
-            <extension name="mcrypt" />
-            <extension name="mhash" />
-            <extension name="mysql" />
-            <extension name="mysqli" />
-            <extension name="mysqlnd" />
-            <extension name="odbc" />
-            <extension name="openssl" />
-            <extension name="pcre" />
-            <extension name="pdo_mysql" />
-            <extension name="pdo_sqlite" />
             <extension name="session" />
             <extension name="standard" />
             <extension name="tokenizer" />
