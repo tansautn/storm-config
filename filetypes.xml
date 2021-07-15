@@ -3,9 +3,9 @@
     <extensionMap>
       <mapping pattern=".dockerenv" type=".env file" />
       <removed_mapping pattern=".env.*" approved="true" type=".env file" />
-      <removed_mapping ext="csv" type="CSV/TSV" />
+      <removed_mapping ext="csv" type="CSV file" />
+      <mapping ext="csv" type="CSV/TSV" />
       <removed_mapping ext="ignore" approved="true" type="IgnoreLang file" />
-      <mapping ext="csv" type="MyNative" />
       <mapping pattern="artisan" type="PHP" />
       <mapping pattern=".env.develop" type="PLAIN_TEXT" />
       <mapping pattern=".wp-config.php.swp" type="PLAIN_TEXT" />
