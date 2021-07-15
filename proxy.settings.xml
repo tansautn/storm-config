@@ -1,8 +1,0 @@
-<application>
-  <component name="HttpConfigurable">
-    <option name="PROXY_TYPE_IS_SOCKS" value="true" />
-    <option name="PROXY_HOST" value="zuko.pro" />
-    <option name="PROXY_PORT" value="33668" />
-    <option name="PROXY_EXCEPTIONS" value="localhost, 192.168.*, *.jetbrains.*, *jetbrains*" />
-  </component>
-</application>

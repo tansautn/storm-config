@@ -1,6 +1,0 @@
-<application>
-  <component name="NotificationConfiguration">
-    <notification groupId="associate.files" displayType="NONE" />
-    <notification groupId="File type recognized" displayType="NONE" />
-  </component>
-</application>
