@@ -1,0 +1,6 @@
+<application>
+  <component name="ExternalResourceManagerImpl">
+    <resource url="urn:magento:framework:App/etc/routes.xsd" location="E:/xampp/htdocs/pdpm2/vendor/magento/framework/App/etc/routes.xsd" />
+    <resource url="urn:magento:framework:Module/etc/module.xsd" location="E:/xampp/htdocs/pdpm2/vendor/magento/framework/Module/etc/module.xsd" />
+  </component>
+</application>
