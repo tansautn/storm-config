@@ -6,20 +6,44 @@
     </value>
   </option>
   <option name="LINE_SEPARATOR" value="&#10;" />
-  <option name="RIGHT_MARGIN" value="180" />
-  <option name="HTML_KEEP_WHITESPACES" value="true" />
-  <option name="HTML_ALIGN_TEXT" value="true" />
+  <option name="RIGHT_MARGIN" value="160" />
   <option name="FORMATTER_TAGS_ENABLED" value="true" />
   <option name="FORMATTER_TAGS_ACCEPT_REGEXP" value="true" />
-  <option name="SOFT_MARGINS" value="180" />
+  <option name="SOFT_MARGINS" value="160" />
   <CssCodeStyleSettings>
     <option name="HEX_COLOR_LOWER_CASE" value="true" />
     <option name="KEEP_SINGLE_LINE_BLOCKS" value="true" />
   </CssCodeStyleSettings>
+  <DBN-PSQL>
+    <case-options enabled="true">
+      <option name="KEYWORD_CASE" value="lower" />
+      <option name="FUNCTION_CASE" value="lower" />
+      <option name="PARAMETER_CASE" value="lower" />
+      <option name="DATATYPE_CASE" value="lower" />
+      <option name="OBJECT_CASE" value="preserve" />
+    </case-options>
+    <formatting-settings enabled="false" />
+  </DBN-PSQL>
+  <DBN-SQL>
+    <case-options enabled="true">
+      <option name="KEYWORD_CASE" value="lower" />
+      <option name="FUNCTION_CASE" value="lower" />
+      <option name="PARAMETER_CASE" value="lower" />
+      <option name="DATATYPE_CASE" value="lower" />
+      <option name="OBJECT_CASE" value="preserve" />
+    </case-options>
+    <formatting-settings enabled="false">
+      <option name="STATEMENT_SPACING" value="one_line" />
+      <option name="CLAUSE_CHOP_DOWN" value="chop_down_if_statement_long" />
+      <option name="ITERATION_ELEMENTS_WRAPPING" value="chop_down_if_not_single" />
+    </formatting-settings>
+  </DBN-SQL>
   <HTMLCodeStyleSettings>
+    <option name="HTML_UNIFORM_INDENT" value="true" />
     <option name="HTML_KEEP_WHITESPACES" value="true" />
-    <option name="HTML_ALIGN_TEXT" value="true" />
+    <option name="HTML_TEXT_WRAP" value="0" />
     <option name="HTML_SPACE_INSIDE_EMPTY_TAG" value="true" />
+    <option name="HTML_ENFORCE_QUOTES" value="true" />
   </HTMLCodeStyleSettings>
   <JSCodeStyleSettings version="0">
     <option name="FORCE_SEMICOLON_STYLE" value="true" />
@@ -46,7 +70,22 @@
     <option name="ALIGN_PHPDOC_PARAM_NAMES" value="true" />
     <option name="COMMA_AFTER_LAST_ARRAY_ELEMENT" value="true" />
     <option name="PHPDOC_BLANK_LINE_BEFORE_TAGS" value="true" />
+    <option name="PHPDOC_BLANK_LINES_AROUND_PARAMETERS" value="true" />
     <option name="PHPDOC_WRAP_LONG_LINES" value="true" />
+    <option name="LINK_WEIGHT" value="8" />
+    <option name="THROWS_WEIGHT" value="6" />
+    <option name="PARAM_WEIGHT" value="4" />
+    <option name="RETURN_WEIGHT" value="5" />
+    <option name="VERSION_WEIGHT" value="12" />
+    <option name="METHOD_WEIGHT" value="3" />
+    <option name="PACKAGE_WEIGHT" value="11" />
+    <option name="PROPERTY_WEIGHT" value="2" />
+    <option name="PROPERTY_READ_WEIGHT" value="0" />
+    <option name="PROPERTY_WRITE_WEIGHT" value="1" />
+    <option name="SEE_WEIGHT" value="7" />
+    <option name="SINCE_WEIGHT" value="13" />
+    <option name="SUBPACKAGE_WEIGHT" value="10" />
+    <option name="TODO_WEIGHT" value="9" />
     <option name="LOWER_CASE_BOOLEAN_CONST" value="true" />
     <option name="LOWER_CASE_NULL_CONST" value="true" />
     <option name="ELSE_IF_STYLE" value="COMBINE" />
@@ -71,7 +110,9 @@
   </editorconfig>
   <codeStyleSettings language="Blade">
     <indentOptions>
-      <option name="CONTINUATION_INDENT_SIZE" value="4" />
+      <option name="INDENT_SIZE" value="2" />
+      <option name="CONTINUATION_INDENT_SIZE" value="2" />
+      <option name="TAB_SIZE" value="2" />
     </indentOptions>
   </codeStyleSettings>
   <codeStyleSettings language="CSS">
@@ -92,7 +133,8 @@
   <codeStyleSettings language="JSON">
     <option name="KEEP_BLANK_LINES_IN_CODE" value="1" />
     <indentOptions>
-      <option name="INDENT_SIZE" value="4" />
+      <option name="CONTINUATION_INDENT_SIZE" value="4" />
+      <option name="TAB_SIZE" value="2" />
     </indentOptions>
   </codeStyleSettings>
   <codeStyleSettings language="JavaScript">
@@ -139,6 +181,8 @@
   </codeStyleSettings>
   <codeStyleSettings language="PHP">
     <option name="RIGHT_MARGIN" value="200" />
+    <option name="KEEP_LINE_BREAKS" value="false" />
+    <option name="KEEP_BLANK_LINES_IN_CODE" value="0" />
     <option name="KEEP_BLANK_LINES_BEFORE_RBRACE" value="1" />
     <option name="BLANK_LINES_AFTER_PACKAGE" value="2" />
     <option name="BLANK_LINES_AROUND_CLASS" value="2" />
@@ -180,6 +224,74 @@
           <order>KEEP</order>
         </group>
       </groups>
+      <rules>
+        <section>
+          <rule>
+            <match>
+              <CONST>true</CONST>
+            </match>
+          </rule>
+        </section>
+        <section>
+          <rule>
+            <match>
+              <AND>
+                <FIELD>true</FIELD>
+                <modifiers />
+              </AND>
+            </match>
+          </rule>
+        </section>
+        <section>
+          <rule>
+            <match>
+              <CONSTRUCTOR>true</CONSTRUCTOR>
+            </match>
+          </rule>
+        </section>
+        <section>
+          <rule>
+            <match>
+              <AND>
+                <ABSTRACT>true</ABSTRACT>
+                <METHOD>true</METHOD>
+                <modifiers />
+              </AND>
+            </match>
+          </rule>
+        </section>
+        <section>
+          <rule>
+            <match>
+              <AND>
+                <METHOD>true</METHOD>
+                <modifiers />
+              </AND>
+            </match>
+          </rule>
+        </section>
+        <section>
+          <rule>
+            <match>
+              <TRAIT>true</TRAIT>
+            </match>
+          </rule>
+        </section>
+        <section>
+          <rule>
+            <match>
+              <INTERFACE>true</INTERFACE>
+            </match>
+          </rule>
+        </section>
+        <section>
+          <rule>
+            <match>
+              <CLASS>true</CLASS>
+            </match>
+          </rule>
+        </section>
+      </rules>
     </arrangement>
   </codeStyleSettings>
   <codeStyleSettings language="Twig">

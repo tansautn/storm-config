@@ -7,6 +7,7 @@
   <action id="AutoIndentLines">
     <keyboard-shortcut first-keystroke="ctrl i" />
   </action>
+  <action id="ChangesView.Move" />
   <action id="CloneElement" />
   <action id="CloseAllEditors">
     <keyboard-shortcut first-keystroke="shift ctrl w" />
@@ -137,5 +138,6 @@
   <action id="TypeHierarchy" />
   <action id="TypeHierarchyBase.BaseOnThisType" />
   <action id="Vcs.EditSource" />
+  <action id="Vcs.MoveChangedLinesToChangelist" />
   <action id="XDebugger.JumpToSource" />
 </keymap>

@@ -1,11 +1,5 @@
 <application>
   <component name="PresentationAssistant">
     <option name="alternativeKeymap" />
-    <option name="fontSize" value="16" />
-    <option name="mainKeymap">
-      <KeymapDescription>
-        <option name="name" value="Default copy" />
-      </KeymapDescription>
-    </option>
   </component>
 </application>

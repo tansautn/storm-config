@@ -1,0 +1,11 @@
+<templateSet group="Work Every Where">
+  <template name="zcmtblock" value="$BLOCKSTART$-----------------------------------------------------------------&#10;———   $TYPE$ $NAME$&#10;-----------------------------------------------------------------$BLOCKEND$&#10;$END$&#10;" description="Insert Comment Block" toReformat="true" toShortenFQNames="true">
+    <variable name="BLOCKSTART" expression="blockCommentStart()" defaultValue="" alwaysStopAt="false" />
+    <variable name="TYPE" expression="enum(&quot;Begin&quot;, &quot;End&quot;, &quot;&quot;)" defaultValue="" alwaysStopAt="false" />
+    <variable name="NAME" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="BLOCKEND" expression="blockCommentEnd()" defaultValue="" alwaysStopAt="false" />
+    <context>
+      <option name="OTHER" value="true" />
+    </context>
+  </template>
+</templateSet>

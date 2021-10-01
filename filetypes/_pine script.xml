@@ -1,0 +1,21 @@
+<filetype binary="false" description=".1 Tradingview Pine Script" name=".pine script">
+  <highlighting>
+    <options>
+      <option name="LINE_COMMENT" value="//" />
+      <option name="COMMENT_START" value="/*" />
+      <option name="COMMENT_END" value="*/" />
+      <option name="HEX_PREFIX" value="" />
+      <option name="NUM_POSTFIXES" value="" />
+      <option name="HAS_PARENS" value="true" />
+      <option name="HAS_STRING_ESCAPES" value="true" />
+    </options>
+    <keywords keywords="and;bool;by;else;else if;fill;float;for;from;if;iff;int;na;not;or;strategy;string;study;to;var;void" ignore_case="false" />
+    <keywords2 keywords="(;);:;=;=&gt;;?;input" />
+    <keywords3 keywords="color;hline;label;line;plot" />
+    <keywords4 keywords="abs;acos;asin;atan;ceil;cos;dayofmonth;dayofweek;exp;floor;heikinashi;hour;kagi,;linebreak;log;log10;max;min;minute;month;na;nz;pow;renko;round;second;sign;sin,;sqrt;tan;tickerid;time;timestamp;tostring;weekofyear;year" />
+  </highlighting>
+  <extensionMap>
+    <mapping pattern="*.pine.js" />
+    <mapping ext="pine" />
+  </extensionMap>
+</filetype>
