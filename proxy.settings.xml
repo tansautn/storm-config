@@ -1,7 +1,5 @@
 <application>
   <component name="HttpConfigurable">
-    <option name="PROXY_HOST" value="127.0.0.1" />
-    <option name="PROXY_PORT" value="8866" />
-    <option name="PROXY_EXCEPTIONS" value="localhost, 192.168.*" />
+    <option name="PROXY_TYPE_IS_SOCKS" value="true" />
   </component>
 </application>

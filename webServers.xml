@@ -1,55 +1,8 @@
 <application>
   <component name="WebServers">
-    <sftpAdvancedGlobalOptions>
-      <SftpAdvancedOptions hostKeyCheckingLevel="NO">
-        <option name="hostKeyCheckingLevel" value="NO" />
-      </SftpAdvancedOptions>
-    </sftpAdvancedGlobalOptions>
     <option name="servers">
-      <webServer id="f99abc34-ec8f-4faa-b3fd-6bb99cd2d43c" name="ADBREAK" url="http://orderpro.me">
-        <fileTransfer rootFolder="/home/runcloud" accessType="SFTP" host="172.104.190.60" port="22" sshConfigId="f3fe8d19-c0ad-468f-816b-9ee1d89be201" sshConfig="ADBREAK" keyPair="true">
-          <advancedOptions>
-            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
-          </advancedOptions>
-        </fileTransfer>
-      </webServer>
-      <webServer id="12a6aa30-1be6-4014-9966-53beedb93f87" name="PDP-Release-Patch" url="http://download.magebay.com">
-        <fileTransfer rootFolder="/var/www" accessType="SFTP" host="download.magebay.com" port="22" sshConfigId="1379ad49-824e-4fc3-b1e5-c81af2d4f3ab" sshConfig="PDP-Release-Patch" keyPair="true">
-          <advancedOptions>
-            <advancedOptions dataProtectionLevel="Private" />
-          </advancedOptions>
-        </fileTransfer>
-      </webServer>
-      <webServer id="a1dc74e7-1d16-4280-bbe7-d31cf425b2e9" name="TW-ZUKO" url="https://zuko.pro/">
-        <fileTransfer rootFolder="/var/www/html/" accessType="SFTP" host="zuko.pro" port="22" sshConfigId="518f2101-a061-4131-a1a7-b593ed9a192e" sshConfig="TW-ZUKO" keyPair="true">
-          <advancedOptions>
-            <advancedOptions dataProtectionLevel="Private" />
-          </advancedOptions>
-        </fileTransfer>
-      </webServer>
-      <webServer id="62891832-d572-4313-9c85-04632f7b8cf9" name="US ROOT | Linode" url="https://77services.uk/">
-        <fileTransfer accessType="SFTP" host="jp.zuko.pw" port="22" sshConfigId="08a2c229-3b71-4a3b-8e7e-288128caf965" sshConfig="US ROOT | Linode" keyPair="true">
-          <advancedOptions>
-            <advancedOptions dataProtectionLevel="Private" />
-          </advancedOptions>
-        </fileTransfer>
-      </webServer>
-      <webServer id="8179394c-5186-4622-b883-dd5b7b40578c" name="US MAGE | Linode" url="https://zuko.pw/">
-        <fileTransfer rootFolder="/var/www/" accessType="SFTP" host="zuko.pw" port="22" sshConfigId="c5281819-c95b-4113-88e9-f1a5181b397e" sshConfig="US MAGE | Linode" keyPair="true">
-          <advancedOptions>
-            <advancedOptions dataProtectionLevel="Private" />
-          </advancedOptions>
-        </fileTransfer>
-      </webServer>
-      <webServer id="de0f6ed1-066b-4cf2-be0c-7271319eb02d" name="TW | ROOT" url="https://zuko.pro">
-        <fileTransfer rootFolder="/www/" accessType="SFTP" host="zuko.pro" port="22" sshConfigId="518f2101-a061-4131-a1a7-b593ed9a192e" sshConfig="TW-ZUKO" keyPair="true">
-          <advancedOptions>
-            <advancedOptions dataProtectionLevel="Private" />
-          </advancedOptions>
-        </fileTransfer>
-      </webServer>
-      <webServer id="fcb2046f-43fe-4471-a2b9-cb2e77030eb5" name="OVH | DEDI" url="http://7.prx.muzjk.xyz/">
-        <fileTransfer accessType="SFTP" host="7.prx.muzjk.xyz" port="22" sshConfigId="9601f35d-26fd-45d9-b6df-8eb4a523b13e" sshConfig="root - ovh dedi" keyPair="true">
+      <webServer id="6c1b8806-5b89-4bd2-ad63-e550e6122d24" name="TW-ROOT" url="http://zuko.pro">
+        <fileTransfer rootFolder="/var/www/html" accessType="SFTP" host="zuko.pro" port="22" sshConfigId="f1a6afd8-e13c-4a88-9f14-b636eea89d52" sshConfig="TW-ROOT" keyPair="true">
           <advancedOptions>
             <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
           </advancedOptions>
