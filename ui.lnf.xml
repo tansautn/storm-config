@@ -39,5 +39,13 @@
   <component name="UISettings">
     <option name="SCROLL_TAB_LAYOUT_IN_EDITOR" value="false" />
     <option name="SHOW_MAIN_TOOLBAR" value="true" />
+    <option name="compactTreeIndents" value="true" />
+    <option name="LEFT_HORIZONTAL_SPLIT" value="true" />
+    <option name="RIGHT_HORIZONTAL_SPLIT" value="true" />
+    <option name="SHOW_INPLACE_COMMENTS" value="true" />
+    <option name="SHOW_TOOL_WINDOW_NUMBERS" value="true" />
+    <option name="showTreeIndentGuides" value="true" />
+    <option name="CONTRAST_SCROLLBARS" value="true" />
+    <option name="WIDESCREEN_SUPPORT" value="true" />
   </component>
 </application>
