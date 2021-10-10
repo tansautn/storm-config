@@ -11,6 +11,10 @@
     <option name="ERROR_STRIPE_MARK_MIN_HEIGHT" value="3" />
     <option name="SHOW_METHOD_SEPARATORS" value="true" />
   </component>
+  <component name="DefaultFont">
+    <option name="FONT_SIZE" value="14" />
+    <option name="FONT_SCALE" value="1.0833334" />
+  </component>
   <component name="InlayHintsSettings">
     <option name="lastViewedProviderKeyId" value="parameter.hints.old" />
   </component>
