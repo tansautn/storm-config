@@ -6,9 +6,7 @@
       <interpreter id="2b6eb892-6404-4318-a431-85aaaebdd08f" name="PHP  5.6 Home" home="D:\XAMPP\php\php5.exe" debugger_id="php.debugger.XDebug" />
       <interpreter id="71264100-ac21-45b6-984d-ed6962b38e80" name="PHP 7.2 - GL552JX" home="D:\Z-Data\Dev\XAMPP7\php\php.exe" debugger_id="php.debugger.XDebug" />
       <interpreter id="5de74c5c-67b6-4108-96b4-ceaa441afe4d" name="PHP 7.4.9 - WORK" home="E:\xampp\php\php.exe" debugger_id="php.debugger.XDebug" />
-      <interpreter id="47381f7b-c4b4-4188-b6f2-8df68e2ef547" name="PHP 7.3 .PRO" home="sshConfig://DATA" debugger_id="php.debugger.XDebug">
-        <remote_data INTERPRETER_PATH="/usr/bin/php" HELPERS_PATH="/root/.phpstorm_helpers" INITIALIZED="false" VALID="true" RUN_AS_ROOT_VIA_SUDO="false" SSH_CONFIG_ID="518f2101-a061-4131-a1a7-b593ed9a192e" SSH_CONFIG_NAME="TW-ZUKO" SSH_CREDENTIALS_ID="sshConfig://TW-ZUKO" />
-      </interpreter>
+      <interpreter id="47381f7b-c4b4-4188-b6f2-8df68e2ef547" name="PHP 7.3 .PRO" home="sshConfig://DATA" debugger_id="php.debugger.XDebug" />
       <interpreter id="524b48fb-ff99-4d7e-aa3f-81754d9e65a7" name="PHP LINK - GLJX" home="E:\code-stacks\xampp\php\php.exe" debugger_id="php.debugger.XDebug" />
     </interpreters>
   </component>
