@@ -12,7 +12,6 @@
       <mapping ext="mo" type="PLAIN_TEXT" />
       <mapping ext="php___jb_tmp___" type="PLAIN_TEXT" />
       <mapping ext="plist" type="PLAIN_TEXT" />
-      <mapping ext="properties" type="PLAIN_TEXT" />
       <mapping pattern=" post-receive" type="Shell Script" />
       <mapping pattern="managed-schema" type="XML" />
       <mapping ext="icls" type="XML" />
