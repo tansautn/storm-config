@@ -96,7 +96,7 @@
       <sshConfig host="jp.zuko.pw" id="b6a1d23f-89ea-4cad-8dbb-9e4a55847573" keyPath="D:\Z-Data\Dev\rsa-phpstorm-no-pwd.key" port="22" customName="US ROOT | Linode" nameFormat="CUSTOM" />
       <sshConfig host="jp.zuko.pw" id="1d2c9796-fe3e-48c8-a278-a6fb1e561099" keyPath="D:\Z-Data\Dev\rsa-phpstorm-no-pwd.key" port="22" customName="US ROOT | Linode" nameFormat="CUSTOM" />
       <sshConfig host="7.prx.muzjk.xyz" id="9601f35d-26fd-45d9-b6df-8eb4a523b13e" keyPath="$USER_HOME$/.ssh/id_rsa" port="22" customName="root - ovh dedi" nameFormat="CUSTOM" username="root" />
-      <sshConfig host="zuko.pro" id="f1a6afd8-e13c-4a88-9f14-b636eea89d52" keyPath="E:\Z-Data\Dev\rsa-phpstorm-no-pwd.key" port="22" customName="TW-ROOT" nameFormat="CUSTOM" username="root" />
+      <sshConfig host="zuko.pro" id="f1a6afd8-e13c-4a88-9f14-b636eea89d52" keyPath="E:\Z-Data\Dev\rsa-phpstorm-no-pwd_old.key" port="22" customName="TW-ROOT" nameFormat="CUSTOM" username="root" />
       <sshConfig host="zuko.pro" id="944dc149-381b-42ab-ac63-71f3cba9e0e0" keyPath="C:\Users\Zuko\.ssh\id_rsa" port="22" customName="TW-ROOT" nameFormat="CUSTOM" />
       <sshConfig host="zuko.pro" id="8f27bf8b-5ce1-45a4-96bb-f85413fdb502" keyPath="C:\Users\Zuko\.ssh\id_rsa" port="22" customName="TW-ROOT" nameFormat="CUSTOM" />
       <sshConfig host="zuko.pro" id="221279fb-b08e-4509-b471-2d5fb6b00502" keyPath="C:\Users\Zuko\.ssh\id_rsa" port="22" customName="TW-ROOT" nameFormat="CUSTOM" />
