@@ -99,6 +99,7 @@
       <sshConfig host="zuko.pro" id="f1a6afd8-e13c-4a88-9f14-b636eea89d52" keyPath="E:\Z-Data\Dev\rsa-phpstorm-no-pwd.key" port="22" customName="TW-ROOT" nameFormat="CUSTOM" username="root" />
       <sshConfig host="zuko.pro" id="944dc149-381b-42ab-ac63-71f3cba9e0e0" keyPath="C:\Users\Zuko\.ssh\id_rsa" port="22" customName="TW-ROOT" nameFormat="CUSTOM" />
       <sshConfig host="zuko.pro" id="8f27bf8b-5ce1-45a4-96bb-f85413fdb502" keyPath="C:\Users\Zuko\.ssh\id_rsa" port="22" customName="TW-ROOT" nameFormat="CUSTOM" />
+      <sshConfig host="zuko.pro" id="221279fb-b08e-4509-b471-2d5fb6b00502" keyPath="C:\Users\Zuko\.ssh\id_rsa" port="22" customName="TW-ROOT" nameFormat="CUSTOM" />
     </configs>
   </component>
 </application>
