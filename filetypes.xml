@@ -4,16 +4,15 @@
       <mapping pattern=".dockerenv" type=".env file" />
       <removed_mapping pattern=".env.*" approved="true" type=".env file" />
       <removed_mapping ext="ignore" approved="true" type="IgnoreLang file" />
-      <removed_mapping ext="xlsx" approved="true" type="Native" />
-      <removed_mapping ext="xls" approved="true" type="Native" />
       <mapping pattern="artisan" type="PHP" />
+      <mapping pattern=".env.develop" type="PLAIN_TEXT" />
       <mapping pattern=".wp-config.php.swp" type="PLAIN_TEXT" />
       <mapping pattern=".gitattributes" type="PLAIN_TEXT" />
-      <mapping pattern=".env.develop" type="PLAIN_TEXT" />
       <mapping pattern="LICENSE" type="PLAIN_TEXT" />
       <mapping ext="mo" type="PLAIN_TEXT" />
-      <mapping ext="plist" type="PLAIN_TEXT" />
       <mapping ext="php___jb_tmp___" type="PLAIN_TEXT" />
+      <mapping ext="plist" type="PLAIN_TEXT" />
+      <mapping pattern=" post-receive" type="Shell Script" />
       <mapping pattern="managed-schema" type="XML" />
       <mapping ext="icls" type="XML" />
       <removed_mapping ext="xlsx" approved="true" type="Native" />
@@ -21,7 +20,6 @@
       <removed_mapping ext="ignore" approved="true" type="IgnoreLang file" />
       <removed_mapping pattern=".env.*" approved="true" type=".env file" />
       <removed_mapping ext="xls" approved="true" type="Native" />
-      <mapping pattern=" post-receive" type="Shell Script" />
       <mapping pattern="git" type="Bash" />
       <mapping pattern="post*" type="Bash" />
       <mapping pattern="pre*" type="Bash" />
