@@ -24,6 +24,9 @@
     <keyboard-shortcut first-keystroke="alt insert" />
     <keyboard-shortcut first-keystroke="ctrl n" />
   </action>
+  <action id="PublishGroup.SyncLocalVsRemoteWith">
+    <keyboard-shortcut first-keystroke="shift ctrl alt y" />
+  </action>
   <action id="QuickJavaDoc">
     <mouse-shortcut keystroke="alt button2" />
   </action>
