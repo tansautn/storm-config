@@ -30,4 +30,7 @@
   <action id="QuickJavaDoc">
     <mouse-shortcut keystroke="alt button2" />
   </action>
+  <action id="RevealIn">
+    <keyboard-shortcut first-keystroke="shift ctrl alt e" />
+  </action>
 </keymap>
