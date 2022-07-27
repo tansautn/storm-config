@@ -42,6 +42,10 @@
   <action id="Run">
     <keyboard-shortcut first-keystroke="ctrl f5" />
   </action>
+  <action id="ShowUmlDiagram" />
+  <action id="StringManipulation.ToSnakeCaseOrCamelCase">
+    <keyboard-shortcut first-keystroke="shift ctrl alt u" />
+  </action>
   <action id="TypeHierarchy" />
   <action id="TypeHierarchyBase.BaseOnThisType" />
   <action id="Vcs.UpdateProject" />
