@@ -42,8 +42,8 @@
       <path value="MainToolBarSettings" />
       <option name="myInitialPosition" value="-1" />
     </group>
-    <action id="WebDeployment.Options" icon="D:/Z-Data/Onedrive/Pictures/icons/phpstorm/deployment_options.png" />
-    <action id="WebDeployment.Configuration" icon="D:/Z-Data/Onedrive/Pictures/icons/phpstorm/deployment_config.png" />
-    <action id="WebDeployment.ToggleAutoUpload" icon="D:/Z-Data/Onedrive/Pictures/icons/phpstorm/deployment_autoupload.png" />
+    <action id="WebDeployment.Options" icon="D:/Onedrive/Pictures/icons/phpstorm/deployment_options.png" />
+    <action id="WebDeployment.Configuration" icon="D:/Onedrive/Pictures/icons/phpstorm/deployment_config.png" />
+    <action id="WebDeployment.ToggleAutoUpload" icon="D:/Onedrive/Pictures/icons/phpstorm/deployment_autoupload.png" />
   </component>
 </application>

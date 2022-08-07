@@ -1,11 +1,11 @@
 <application>
   <component name="SshConfigs">
     <configs>
-      <sshConfig host="zuko.pro" id="518f2101-a061-4131-a1a7-b593ed9a192e" keyPath="C:\Users\Zuko\.ssh\rsa-phpstorm-no-pwd.key" port="22" customName="TW-ZUKO" nameFormat="CUSTOM" username="root">
-        <option name="customName" value="TW-ZUKO" />
-      </sshConfig>
       <sshConfig authType="PASSWORD" host="p.zuko.pro" id="5a4dd081-49a7-4a02-9040-33908b515719" port="22" customName="TW | ROOT" nameFormat="CUSTOM" username="root">
         <option name="customName" value="TW | ROOT" />
+      </sshConfig>
+      <sshConfig authType="PASSWORD" host="128.199.211.59" id="3c948d5c-5b7d-4cd7-afea-e87a18f341fe" port="22" customName="sizechart | 128.199.211.59" nameFormat="CUSTOM" username="sizechart">
+        <option name="customName" value="sizechart | 128.199.211.59" />
       </sshConfig>
     </configs>
   </component>
