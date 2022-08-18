@@ -7,6 +7,9 @@
       <sshConfig authType="PASSWORD" host="128.199.211.59" id="3c948d5c-5b7d-4cd7-afea-e87a18f341fe" port="22" customName="sizechart | 128.199.211.59" nameFormat="CUSTOM" username="sizechart">
         <option name="customName" value="sizechart | 128.199.211.59" />
       </sshConfig>
+      <sshConfig host="34.80.251.182" id="d899ee8c-00d5-475d-be54-8b1ec080342e" keyPath="D:\Z-Data\id_rsa.txt" port="22" customName="GC" nameFormat="CUSTOM" username="root">
+        <option name="customName" value="GC" />
+      </sshConfig>
     </configs>
   </component>
 </application>
