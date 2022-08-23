@@ -8,6 +8,13 @@
           </advancedOptions>
         </fileTransfer>
       </webServer>
+      <webServer id="fa9fed1c-4f69-4442-8915-9b8fee8cb535" name="gc" url="http://34.80.251.182">
+        <fileTransfer rootFolder="/var/www/" accessType="SFTP" host="35.221.211.78" port="22" sshConfigId="fe91d47e-01e5-4749-9e95-f3a1918f0102" sshConfig="GC ubuntu 8G" keyPair="true">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
     </option>
   </component>
 </application>

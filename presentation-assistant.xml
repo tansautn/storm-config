@@ -1,5 +1,6 @@
 <application>
   <component name="PresentationAssistant">
     <option name="alternativeKeymap" />
+    <option name="hideDelay" value="2500" />
   </component>
 </application>
