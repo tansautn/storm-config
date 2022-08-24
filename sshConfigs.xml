@@ -1,7 +1,7 @@
 <application>
   <component name="SshConfigs">
     <configs>
-      <sshConfig authType="PASSWORD" host="p.zuko.pro" id="5a4dd081-49a7-4a02-9040-33908b515719" port="22" customName="TW | ROOT" nameFormat="CUSTOM" username="root">
+      <sshConfig authType="PASSWORD" connectionConfig="{&quot;serverAliveInterval&quot;:300}" host="p.zuko.pro" id="5a4dd081-49a7-4a02-9040-33908b515719" port="22" customName="TW | ROOT" nameFormat="CUSTOM" username="root">
         <option name="customName" value="TW | ROOT" />
       </sshConfig>
       <sshConfig authType="PASSWORD" host="128.199.211.59" id="3c948d5c-5b7d-4cd7-afea-e87a18f341fe" port="22" customName="sizechart | 128.199.211.59" nameFormat="CUSTOM" username="sizechart">
@@ -10,7 +10,7 @@
       <sshConfig host="34.80.251.182" id="d899ee8c-00d5-475d-be54-8b1ec080342e" keyPath="D:\Z-Data\id_rsa.txt" port="22" customName="GC" nameFormat="CUSTOM" username="root">
         <option name="customName" value="GC" />
       </sshConfig>
-      <sshConfig host="35.221.211.78" id="fe91d47e-01e5-4749-9e95-f3a1918f0102" keyPath="D:\Z-Data\id_rsa.txt" port="22" customName="GC ubuntu 8G" nameFormat="CUSTOM" username="root">
+      <sshConfig connectionConfig="{&quot;serverAliveInterval&quot;:300}" host="35.221.211.78" id="fe91d47e-01e5-4749-9e95-f3a1918f0102" keyPath="D:\Z-Data\id_rsa.txt" port="22" customName="GC ubuntu 8G" nameFormat="CUSTOM" username="root">
         <option name="customName" value="GC ubuntu 8G" />
       </sshConfig>
     </configs>
