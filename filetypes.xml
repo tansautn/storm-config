@@ -1,10 +1,9 @@
 <application>
   <component name="FileTypeManager" version="18">
     <extensionMap>
-      <mapping pattern=".env.*" type=".env file" />
       <mapping pattern="ps_accounts-2022-09-12" type="AUTO_DETECTED" />
-      <mapping ext="csv" type="CSV/TSV" />
       <mapping pattern="minify_html" type="PHP" />
+      <mapping pattern="ets_hook" type="PHP" />
       <mapping ext="tpl---" type="PLAIN_TEXT" />
       <removed_mapping ext="ignore" approved="true" type="IgnoreLang file" />
       <removed_mapping ext="xls" approved="true" type="Native" />
