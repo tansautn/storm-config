@@ -1,0 +1,7 @@
+<application>
+  <component name="HttpConfigurable">
+    <option name="PROXY_TYPE_IS_SOCKS" value="true" />
+    <option name="PROXY_HOST" value="35.221.211.78" />
+    <option name="PROXY_PORT" value="33008" />
+  </component>
+</application>
