@@ -48,4 +48,9 @@
       <option name="PHP" value="true" />
     </context>
   </template>
+  <template name="docctx" value="/**&#10; * @property-read \Context|\ContextCore $context&#10; */" description="add comment doc context" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="PHP" value="true" />
+    </context>
+  </template>
 </templateSet>
