@@ -18,6 +18,7 @@
     <keyboard-shortcut first-keystroke="ctrl divide" />
     <keyboard-shortcut first-keystroke="ctrl q" />
   </action>
+  <action id="CopyPathHelper_Copy" />
   <action id="EditorDeleteLine" />
   <action id="EditorSelectWord" />
   <action id="FileChooser.NewFolder">
