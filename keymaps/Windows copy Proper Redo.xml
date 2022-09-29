@@ -48,6 +48,9 @@
   <action id="QuickJavaDoc">
     <mouse-shortcut keystroke="alt button2" />
   </action>
+  <action id="RemoteHostView.EditRemoteFile">
+    <keyboard-shortcut first-keystroke="shift ctrl alt o" />
+  </action>
   <action id="RevealIn">
     <keyboard-shortcut first-keystroke="shift ctrl alt e" />
   </action>
@@ -55,6 +58,9 @@
     <keyboard-shortcut first-keystroke="ctrl f5" />
   </action>
   <action id="SaveAll" />
+  <action id="SelectInRemoteHost">
+    <keyboard-shortcut first-keystroke="shift alt q" />
+  </action>
   <action id="ShowUmlDiagram" />
   <action id="SmartSelect" />
   <action id="StringManipulation.ToSnakeCaseOrCamelCase">
@@ -65,7 +71,6 @@
   <action id="TypeHierarchyBase.BaseOnThisType" />
   <action id="Vcs.UpdateProject" />
   <action id="WD.UploadCurrentRemoteFileAction">
-    <keyboard-shortcut first-keystroke="shift alt q" />
     <keyboard-shortcut first-keystroke="ctrl s" />
   </action>
 </keymap>
