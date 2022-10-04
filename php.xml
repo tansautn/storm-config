@@ -4,4 +4,7 @@
       <interpreter id="c9d5465a-8c13-4b08-94ee-a90211d6df8d" name="PHP 7.4" home="" debugger_id="php.debugger.XDebug" />
     </interpreters>
   </component>
+  <component name="PhpSmartKeysConfiguration">
+    <option name="smartFunctionParametersCompletion" value="true" />
+  </component>
 </application>
