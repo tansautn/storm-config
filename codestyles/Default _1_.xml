@@ -12,6 +12,7 @@
   <option name="SOFT_MARGINS" value="160" />
   <CssCodeStyleSettings>
     <option name="HEX_COLOR_LOWER_CASE" value="true" />
+    <option name="VALUE_ALIGNMENT" value="1" />
     <option name="KEEP_SINGLE_LINE_BLOCKS" value="true" />
   </CssCodeStyleSettings>
   <DBN-PSQL>
