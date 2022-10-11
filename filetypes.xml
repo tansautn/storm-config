@@ -6,6 +6,7 @@
       <mapping pattern="ets_hook" type="PHP" />
       <mapping ext="cache" type="PLAIN_TEXT" />
       <mapping ext="tpl---" type="PLAIN_TEXT" />
+      <mapping ext="imax" type="PLAIN_TEXT" />
       <removed_mapping ext="ignore" approved="true" type="IgnoreLang file" />
       <removed_mapping ext="xls" approved="true" type="Native" />
       <removed_mapping ext="xlsx" approved="true" type="Native" />
