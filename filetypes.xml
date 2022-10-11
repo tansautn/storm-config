@@ -2,6 +2,7 @@
   <component name="FileTypeManager" version="18">
     <extensionMap>
       <mapping pattern="ps_accounts-2022-09-12" type="AUTO_DETECTED" />
+      <mapping pattern="631a118211ba9" type="AUTO_DETECTED" />
       <mapping pattern="minify_html" type="PHP" />
       <mapping pattern="ets_hook" type="PHP" />
       <mapping ext="cache" type="PLAIN_TEXT" />
