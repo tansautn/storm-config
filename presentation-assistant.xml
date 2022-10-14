@@ -2,5 +2,10 @@
   <component name="PresentationAssistant">
     <option name="alternativeKeymap" />
     <option name="hideDelay" value="2500" />
+    <option name="mainKeymap">
+      <KeymapDescription>
+        <option name="name" value="Windows copy Proper Redo" />
+      </KeymapDescription>
+    </option>
   </component>
 </application>
