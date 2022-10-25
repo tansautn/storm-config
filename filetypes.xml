@@ -6,6 +6,7 @@
       <mapping pattern="minify_html" type="PHP" />
       <mapping pattern="ets_hook" type="PHP" />
       <mapping ext="cache" type="PLAIN_TEXT" />
+      <mapping ext="old" type="PLAIN_TEXT" />
       <mapping ext="tpl---" type="PLAIN_TEXT" />
       <mapping ext="py" type="PLAIN_TEXT" />
       <mapping ext="imax" type="PLAIN_TEXT" />
