@@ -1,16 +1,18 @@
 <application>
   <component name="LogHighlightingSettings">
     <highlightingPatterns>
-      <LogHighlightingPattern pattern="(INFO|DEBUG)" fg="-8519700" italic="true" />
-      <LogHighlightingPattern pattern="WARNING|NOTICE" fg="-28650" stripe="true" />
-      <LogHighlightingPattern pattern="\[ERROR\]" action="HIGHLIGHT_LINE" fg="-50359" bold="true" stripe="true" />
-      <LogHighlightingPattern pattern="CRITICAL" action="HIGHLIGHT_LINE" fg="-50359" bold="true" stripe="true" />
+      <LogHighlightingPattern pattern="(INFO|DEBUG(?![^\[]))" fg="-8519700" italic="true" uuid="332ba33a-d467-4a03-9b9d-f6a6204c3774" />
+      <LogHighlightingPattern pattern="WARNING|NOTICE" fg="-28650" stripe="true" uuid="d55f0f89-254c-48d7-a66d-377ca299c774" />
+      <LogHighlightingPattern pattern="\[ERROR\]" action="HIGHLIGHT_LINE" fg="-50359" bold="true" stripe="true" uuid="e8e5416f-c817-41b3-b4b6-ac3665825018" />
+      <LogHighlightingPattern pattern="CRITICAL" action="HIGHLIGHT_LINE" fg="-50359" bold="true" stripe="true" uuid="86aeaa45-d3b0-4c2f-9509-eafac03c0759" />
     </highlightingPatterns>
     <parsingPatterns>
-      <LogParsingPattern name="Monolog One Line" pattern="([0-9-. ]+)\[(\w+)\] \&gt; (.+)" timePattern="y-M-d H-m-s.S" linePattern="^" timeId="0" severityId="1" categoryId="1" />
+      <LogParsingPattern name="Monolog One Line" pattern="([0-9-. ]+)\[(\w+)\] \&gt; (.+)" timePattern="y-M-d H-m-s.S" linePattern="^" timeId="0" severityId="1" categoryId="1" uuid="32397bcf-4bc9-4052-a6b4-513740466825" />
+      <LogParsingPattern name="All" pattern="^(.*?)(\s(.*?))?(\s(.*?))?(\s(.*?))?(\s(.*?))?(\s(.*?))?(\s(.*?))?$" uuid="db0779ce-9fd3-11ec-b909-0242ac120002" />
+      <LogParsingPattern name="Zuko log" pattern="([^\[]+)\[([0-9-.: ]+)\](\w+)" timePattern="y-M-d H:m:s" linePattern="^" timeId="1" severityId="0" categoryId="0" uuid="a8ddff42-5cc8-4479-8057-23115c12a69d" />
     </parsingPatterns>
-    <settingsVersion>4</settingsVersion>
-    <lastAddedDefaultFormat>3</lastAddedDefaultFormat>
+    <settingsVersion>6</settingsVersion>
+    <lastAddedDefaultFormat>b5772998-bf1e-4d9d-ab41-da0b86451163,8a0e8992-94cb-4f4c-8be2-42b03609626b,e9fa2755-8390-42f5-a41e-a909c58c8cf9,db0779ce-9fd3-11ec-b909-0242ac120002</lastAddedDefaultFormat>
     <readonlySizeThreshold>64</readonlySizeThreshold>
   </component>
 </application>

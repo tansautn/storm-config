@@ -48,4 +48,14 @@
       <option name="PHP" value="true" />
     </context>
   </template>
+  <template name="docctx" value="/**&#10; * @property-read \Context|\ContextCore $context&#10; */" description="add comment doc context" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="PHP" value="true" />
+    </context>
+  </template>
+  <template name="logfunc" value="public function log($value) {&#10;    $file = _PS_ROOT_DIR_ . '/var/zuko.log';&#10;    if(is_array($value) || is_object($value)){&#10;        $value = var_export($value, true);&#10;    }&#10;    if(($i = array_search($value, [false, true, null], true)) !== false){&#10;        $cast = ['false', 'true', 'null'];&#10;        $value = $cast[$i];&#10;    }&#10;    file_put_contents($file, $value . PHP_EOL, FILE_APPEND);&#10;}" description="insert log function blog" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="PHP" value="true" />
+    </context>
+  </template>
 </templateSet>
