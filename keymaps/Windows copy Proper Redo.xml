@@ -27,6 +27,9 @@
   </action>
   <action id="EditorDeleteLine" />
   <action id="EditorSelectWord" />
+  <action id="EditorToggleUseSoftWraps">
+    <keyboard-shortcut first-keystroke="shift ctrl alt s" />
+  </action>
   <action id="FileChooser.NewFolder">
     <keyboard-shortcut first-keystroke="alt insert" />
   </action>
