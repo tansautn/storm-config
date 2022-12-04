@@ -1,0 +1,13 @@
+<application>
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="d4b09507-9c7a-476d-89c7-3f4c7e2272d0" name="TW | ROOT">
+        <fileTransfer rootFolder="/www" accessType="SFTP" host="p.zuko.pro" port="22" sshConfigId="5a4dd081-49a7-4a02-9040-33908b515719" sshConfig="TW | ROOT">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</application>
