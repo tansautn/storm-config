@@ -181,7 +181,7 @@
     </indentOptions>
   </codeStyleSettings>
   <codeStyleSettings language="PHP">
-    <option name="RIGHT_MARGIN" value="200" />
+    <option name="RIGHT_MARGIN" value="160" />
     <option name="KEEP_LINE_BREAKS" value="false" />
     <option name="KEEP_BLANK_LINES_IN_CODE" value="0" />
     <option name="KEEP_BLANK_LINES_BEFORE_RBRACE" value="1" />
@@ -198,6 +198,7 @@
     <option name="ALIGN_MULTILINE_ARRAY_INITIALIZER_EXPRESSION" value="true" />
     <option name="ALIGN_GROUP_FIELD_DECLARATIONS" value="true" />
     <option name="SPACE_AFTER_SEMICOLON" value="false" />
+    <option name="CALL_PARAMETERS_WRAP" value="1" />
     <option name="METHOD_PARAMETERS_WRAP" value="5" />
     <option name="METHOD_CALL_CHAIN_WRAP" value="5" />
     <option name="BINARY_OPERATION_WRAP" value="5" />
