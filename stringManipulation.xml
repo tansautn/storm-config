@@ -3,7 +3,7 @@
     <option name="doNotAddSelection" value="true" />
     <option name="lastAction">
       <UniversalActionModel>
-        <option name="actionClassName" value="osmedile.intellij.stringmanip.filter.TrimAllSpacesAction" />
+        <option name="actionClassName" value="osmedile.intellij.stringmanip.styles.switching.ToSnakeCaseOrCamelCaseAction" />
       </UniversalActionModel>
     </option>
     <option name="version" value="2" />
