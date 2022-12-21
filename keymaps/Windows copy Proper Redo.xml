@@ -45,9 +45,13 @@
     <keyboard-shortcut first-keystroke="alt insert" />
     <keyboard-shortcut first-keystroke="ctrl n" />
   </action>
+  <action id="PinActiveTab">
+    <keyboard-shortcut first-keystroke="ctrl back_quote" />
+  </action>
   <action id="PublishGroup.SyncLocalVsRemoteWith">
     <keyboard-shortcut first-keystroke="shift ctrl alt y" />
   </action>
+  <action id="QuickChangeScheme" />
   <action id="QuickJavaDoc">
     <mouse-shortcut keystroke="alt button2" />
   </action>
