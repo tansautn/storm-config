@@ -3,5 +3,7 @@
     <option name="PROXY_TYPE_IS_SOCKS" value="true" />
     <option name="PROXY_HOST" value="p.zuko.pro" />
     <option name="PROXY_PORT" value="5008" />
+    <option name="PROXY_AUTHENTICATION" value="true" />
+    <option name="KEEP_PROXY_PASSWORD" value="true" />
   </component>
 </application>
