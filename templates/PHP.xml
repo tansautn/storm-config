@@ -58,7 +58,7 @@
       <option name="PHP" value="true" />
     </context>
   </template>
-  <template name="sdev" value="if(Tools::isSubmit('dev')){&#10;    $END$&#10;}&#10;" description="Tools isSubmit Dev Block" toReformat="true" toShortenFQNames="true">
+  <template name="sdev" value="if(\Tools::isSubmit('dev')){&#10;    $END$&#10;}&#10;" description="Tools isSubmit Dev Block" toReformat="true" toShortenFQNames="true">
     <context>
       <option name="PHP" value="true" />
     </context>
