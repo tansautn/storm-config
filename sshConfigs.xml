@@ -13,6 +13,9 @@
       <sshConfig host="35.221.211.78" id="4109a151-7225-4f74-9636-fb16ba5e66cd" keyPath="D:\Z-Data\id_rsa.txt" port="22" customName="GC ubuntu 8G | web" nameFormat="CUSTOM" username="web">
         <option name="customName" value="GC ubuntu 8G | web" />
       </sshConfig>
+      <sshConfig connectionConfig="{&quot;serverAliveInterval&quot;:300}" host="p.zuko.pro" id="dc18532c-ad36-4edb-b27b-8f9d28baded5" keyPath="F:\OneDrive\Z-Data\id_rsa.txt" port="22" customName="TW | Web" nameFormat="CUSTOM" username="web">
+        <option name="customName" value="TW | Web" />
+      </sshConfig>
     </configs>
   </component>
 </application>
