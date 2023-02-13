@@ -16,6 +16,9 @@
       <sshConfig connectionConfig="{&quot;serverAliveInterval&quot;:300}" host="p.zuko.pro" id="dc18532c-ad36-4edb-b27b-8f9d28baded5" keyPath="F:\OneDrive\Z-Data\id_rsa.txt" port="22" customName="TW | Web" nameFormat="CUSTOM" username="web">
         <option name="customName" value="TW | Web" />
       </sshConfig>
+      <sshConfig host="p.zuko.pro" id="b83f11c7-e550-4010-a820-532616f4aecc" keyPath="D:\Z-Data\id_rsa.txt" port="22" customName="TW | Web" nameFormat="CUSTOM" username="web">
+        <option name="customName" value="TW | Web" />
+      </sshConfig>
     </configs>
   </component>
 </application>

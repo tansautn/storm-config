@@ -3,11 +3,18 @@
     <extensionMap>
       <mapping pattern="ps_accounts-2022-09-12" type="AUTO_DETECTED" />
       <mapping pattern="631a118211ba9" type="AUTO_DETECTED" />
+      <mapping pattern="error_log" type="AUTO_DETECTED" />
+      <mapping pattern="OverrideUtil" type="PHP" />
       <mapping pattern="minify_html" type="PHP" />
+      <mapping pattern=".php_cs" type="PHP" />
       <mapping pattern="ets_hook" type="PHP" />
       <mapping ext="cache" type="PLAIN_TEXT" />
+      <mapping ext="old" type="PLAIN_TEXT" />
       <mapping ext="tpl---" type="PLAIN_TEXT" />
+      <mapping ext="py" type="PLAIN_TEXT" />
       <mapping ext="imax" type="PLAIN_TEXT" />
+      <mapping ext="1" type="PLAIN_TEXT" />
+      <mapping ext="tpl_org" type="Smarty" />
       <removed_mapping ext="ignore" approved="true" type="IgnoreLang file" />
       <removed_mapping ext="xls" approved="true" type="Native" />
       <removed_mapping ext="xlsx" approved="true" type="Native" />
