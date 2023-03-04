@@ -1,7 +1,7 @@
 <application>
   <component name="SshConfigs">
     <configs>
-      <sshConfig authType="PASSWORD" connectionConfig="{&quot;serverAliveInterval&quot;:300}" host="p.zuko.pro" id="5a4dd081-49a7-4a02-9040-33908b515719" port="22" customName="TW | ROOT" nameFormat="CUSTOM" username="root">
+      <sshConfig authType="PASSWORD" host="p.zuko.pro" id="5a4dd081-49a7-4a02-9040-33908b515719" port="22" customName="TW | ROOT" nameFormat="CUSTOM" username="root">
         <option name="customName" value="TW | ROOT" />
       </sshConfig>
       <sshConfig authType="PASSWORD" host="128.199.211.59" id="3c948d5c-5b7d-4cd7-afea-e87a18f341fe" port="22" customName="sizechart | 128.199.211.59" nameFormat="CUSTOM" username="sizechart">
@@ -13,10 +13,10 @@
       <sshConfig host="35.221.211.78" id="4109a151-7225-4f74-9636-fb16ba5e66cd" keyPath="D:\Z-Data\id_rsa.txt" port="22" customName="GC ubuntu 8G | web" nameFormat="CUSTOM" username="web">
         <option name="customName" value="GC ubuntu 8G | web" />
       </sshConfig>
-      <sshConfig connectionConfig="{&quot;serverAliveInterval&quot;:300}" host="p.zuko.pro" id="dc18532c-ad36-4edb-b27b-8f9d28baded5" keyPath="F:\OneDrive\Z-Data\id_rsa.txt" port="22" customName="TW | Web" nameFormat="CUSTOM" username="web">
+      <sshConfig host="p.zuko.pro" id="dc18532c-ad36-4edb-b27b-8f9d28baded5" keyPath="F:\OneDrive\Z-Data\id_rsa.txt" port="22" customName="TW | Web" nameFormat="CUSTOM" username="web">
         <option name="customName" value="TW | Web" />
       </sshConfig>
-      <sshConfig host="p.zuko.pro" id="b83f11c7-e550-4010-a820-532616f4aecc" keyPath="D:\Z-Data\id_rsa.txt" port="22" customName="TW | Web" nameFormat="CUSTOM" username="web">
+      <sshConfig host="p.zuko.pro" id="b83f11c7-e550-4010-a820-532616f4aecc" keyPath="$USER_HOME$/.ssh/id_rsa" port="22" customName="TW | Web" nameFormat="CUSTOM" username="web">
         <option name="customName" value="TW | Web" />
       </sshConfig>
     </configs>
