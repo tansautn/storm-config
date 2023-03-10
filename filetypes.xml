@@ -3,6 +3,7 @@
     <extensionMap>
       <mapping pattern="ps_accounts-2022-09-12" type="AUTO_DETECTED" />
       <mapping pattern="631a118211ba9" type="AUTO_DETECTED" />
+      <mapping pattern="LFTK+-zubuMaGks2uG9a" type="AUTO_DETECTED" />
       <mapping pattern="error_log" type="AUTO_DETECTED" />
       <mapping pattern="OverrideUtil" type="PHP" />
       <mapping pattern="minify_html" type="PHP" />
