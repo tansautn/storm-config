@@ -1,16 +1,13 @@
 <application>
   <component name="SshConfigs">
     <configs>
-      <sshConfig authType="PASSWORD" host="p.zuko.pro" id="5a4dd081-49a7-4a02-9040-33908b515719" port="22" customName="TW | ROOT" nameFormat="CUSTOM" username="root">
+      <sshConfig host="p.zuko.pro" id="5a4dd081-49a7-4a02-9040-33908b515719" keyPath="D:\Z-Data\rsa-zuko-cdma-pri-openssh.key" port="22" customName="TW | ROOT" nameFormat="CUSTOM" username="root">
         <option name="customName" value="TW | ROOT" />
       </sshConfig>
       <sshConfig authType="PASSWORD" host="128.199.211.59" id="3c948d5c-5b7d-4cd7-afea-e87a18f341fe" port="22" customName="sizechart | 128.199.211.59" nameFormat="CUSTOM" username="sizechart">
         <option name="customName" value="sizechart | 128.199.211.59" />
       </sshConfig>
-      <sshConfig host="p.zuko.pro" id="dc18532c-ad36-4edb-b27b-8f9d28baded5" keyPath="D:\Onedrive\Z-Data\id_rsa.txt" port="22" customName="TW | Web" nameFormat="CUSTOM" username="web">
-        <option name="customName" value="TW | Web" />
-      </sshConfig>
-      <sshConfig host="p.zuko.pro" id="b83f11c7-e550-4010-a820-532616f4aecc" keyPath="$USER_HOME$/.ssh/id_rsa" port="22" customName="TW | Web" nameFormat="CUSTOM" username="web">
+      <sshConfig host="p.zuko.pro" id="dc18532c-ad36-4edb-b27b-8f9d28baded5" keyPath="D:\Onedrive\Z-Data\rsa-zuko-cdma-pri-openssh.key" port="22" customName="TW | Web" nameFormat="CUSTOM" username="web">
         <option name="customName" value="TW | Web" />
       </sshConfig>
     </configs>
