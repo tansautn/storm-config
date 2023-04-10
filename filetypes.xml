@@ -9,6 +9,7 @@
       <mapping pattern="minify_html" type="PHP" />
       <mapping pattern=".php_cs" type="PHP" />
       <mapping pattern="ets_hook" type="PHP" />
+      <mapping ext="meta" type="PLAIN_TEXT" />
       <mapping ext="cache" type="PLAIN_TEXT" />
       <mapping ext="old" type="PLAIN_TEXT" />
       <mapping ext="tpl---" type="PLAIN_TEXT" />
