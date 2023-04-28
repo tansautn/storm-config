@@ -43,7 +43,7 @@
       <option name="PHP" value="true" />
     </context>
   </template>
-  <template name="ded" value="dump($END$);&#10;exit();" description="dump then exit" toReformat="true" toShortenFQNames="true">
+  <template name="ded" value="die(dump($END$));" description="dump then exit" toReformat="true" toShortenFQNames="true">
     <context>
       <option name="PHP" value="true" />
     </context>
