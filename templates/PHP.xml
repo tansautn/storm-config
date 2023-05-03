@@ -43,12 +43,12 @@
       <option name="PHP" value="true" />
     </context>
   </template>
-  <template name="ded" value="dump($END$);&#10;exit();" description="dump then exit" toReformat="true" toShortenFQNames="true">
+  <template name="ded" value="die(dump($END$));" description="dump then exit" toReformat="true" toShortenFQNames="true">
     <context>
       <option name="PHP" value="true" />
     </context>
   </template>
-  <template name="docctx" value="/**&#10; * @property-read \Context|\ContextCore $context&#10; */" description="add comment doc context" toReformat="false" toShortenFQNames="true">
+  <template name="docctx" value="/**&#10; * @property-read \Context|\ContextCore $context&#10; * @mixin \ModuleCore&#10; */" description="add comment doc context" toReformat="false" toShortenFQNames="true">
     <context>
       <option name="PHP" value="true" />
     </context>
@@ -63,7 +63,7 @@
       <option name="PHP" value="true" />
     </context>
   </template>
-  <template name="sdr" value="if (in_array(\Tools::getRemoteAddr(), ['139.177.184.146'])) {&#10;    $END$&#10;}" description="Tools getRemoteAddr Dev Block" toReformat="true" toShortenFQNames="true">
+  <template name="sdr" value="if (in_array(\Tools::getRemoteAddr(), ['139.177.184.146', '117.1.123.168'])) {&#10;    $END$&#10;}" description="Tools getRemoteAddr Dev Block" toReformat="true" toShortenFQNames="true">
     <context>
       <option name="PHP" value="true" />
     </context>
