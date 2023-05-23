@@ -63,7 +63,7 @@
       <option name="PHP" value="true" />
     </context>
   </template>
-  <template name="sdr" value="if (in_array(\Tools::getRemoteAddr(), ['172.104.183.10', '27.71.122.138'])) {&#10;    $END$&#10;}" description="Tools getRemoteAddr Dev Block" toReformat="true" toShortenFQNames="true">
+  <template name="sdr" value="if (in_array(\Tools::getRemoteAddr(), ['172.104.183.10', '117.0.56.119'])) {&#10;    $END$&#10;}" description="Tools getRemoteAddr Dev Block" toReformat="true" toShortenFQNames="true">
     <context>
       <option name="PHP" value="true" />
     </context>
