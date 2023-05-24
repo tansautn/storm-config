@@ -6,7 +6,7 @@
           <value>
             <plugin>
               <option name="myPluginId" value="com.badahori.creatures.plugins.intellij.agenteering" />
-              <option name="myPluginName" value="Creatures CAOS and Agenteering" />
+              <option name="myPluginName" value="com.badahori.creatures.plugins.intellij.agenteering" />
             </plugin>
           </value>
         </entry>
@@ -14,7 +14,7 @@
           <value>
             <plugin>
               <option name="myPluginId" value="com.badahori.creatures.plugins.intellij.agenteering" />
-              <option name="myPluginName" value="Creatures CAOS and Agenteering" />
+              <option name="myPluginName" value="com.badahori.creatures.plugins.intellij.agenteering" />
             </plugin>
           </value>
         </entry>
@@ -67,7 +67,7 @@
           <value>
             <plugin>
               <option name="myPluginId" value="com.badahori.creatures.plugins.intellij.agenteering" />
-              <option name="myPluginName" value="Creatures CAOS and Agenteering" />
+              <option name="myPluginName" value="com.badahori.creatures.plugins.intellij.agenteering" />
             </plugin>
           </value>
         </entry>
@@ -102,7 +102,7 @@
           <value>
             <plugin>
               <option name="myPluginId" value="com.badahori.creatures.plugins.intellij.agenteering" />
-              <option name="myPluginName" value="Creatures CAOS and Agenteering" />
+              <option name="myPluginName" value="com.badahori.creatures.plugins.intellij.agenteering" />
             </plugin>
           </value>
         </entry>
@@ -135,7 +135,23 @@
           <value>
             <plugin>
               <option name="myPluginId" value="com.badahori.creatures.plugins.intellij.agenteering" />
+              <option name="myPluginName" value="com.badahori.creatures.plugins.intellij.agenteering" />
+            </plugin>
+          </value>
+        </entry>
+        <entry key="*.caosdef">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="com.badahori.creatures.plugins.intellij.agenteering" />
               <option name="myPluginName" value="Creatures CAOS and Agenteering" />
+            </plugin>
+          </value>
+        </entry>
+        <entry key="*.catalogue">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="com.badahori.creatures.plugins.intellij.agenteering" />
+              <option name="myPluginName" value="com.badahori.creatures.plugins.intellij.agenteering" />
             </plugin>
           </value>
         </entry>
@@ -195,7 +211,7 @@
           <value>
             <plugin>
               <option name="myPluginId" value="com.badahori.creatures.plugins.intellij.agenteering" />
-              <option name="myPluginName" value="Creatures CAOS and Agenteering" />
+              <option name="myPluginName" value="com.badahori.creatures.plugins.intellij.agenteering" />
             </plugin>
           </value>
         </entry>
@@ -223,6 +239,14 @@
               <option name="myPluginId" value="com.jetbrains.php" />
               <option name="myPluginName" value="PHP" />
               <option name="myBundled" value="true" />
+            </plugin>
+          </value>
+        </entry>
+        <entry key="*.cos">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="com.badahori.creatures.plugins.intellij.agenteering" />
+              <option name="myPluginName" value="Creatures CAOS and Agenteering" />
             </plugin>
           </value>
         </entry>
@@ -1098,6 +1122,14 @@
             </plugin>
           </value>
         </entry>
+        <entry key="*.photo album">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="com.badahori.creatures.plugins.intellij.agenteering" />
+              <option name="myPluginName" value="com.badahori.creatures.plugins.intellij.agenteering" />
+            </plugin>
+          </value>
+        </entry>
         <entry key="*.php">
           <value>
             <plugin>
@@ -1210,7 +1242,7 @@
           <value>
             <plugin>
               <option name="myPluginId" value="com.badahori.creatures.plugins.intellij.agenteering" />
-              <option name="myPluginName" value="Creatures CAOS and Agenteering" />
+              <option name="myPluginName" value="com.badahori.creatures.plugins.intellij.agenteering" />
             </plugin>
           </value>
         </entry>
@@ -1289,7 +1321,7 @@
           <value>
             <plugin>
               <option name="myPluginId" value="com.badahori.creatures.plugins.intellij.agenteering" />
-              <option name="myPluginName" value="Creatures CAOS and Agenteering" />
+              <option name="myPluginName" value="com.badahori.creatures.plugins.intellij.agenteering" />
             </plugin>
           </value>
         </entry>
@@ -1360,7 +1392,7 @@
           <value>
             <plugin>
               <option name="myPluginId" value="com.badahori.creatures.plugins.intellij.agenteering" />
-              <option name="myPluginName" value="Creatures CAOS and Agenteering" />
+              <option name="myPluginName" value="com.badahori.creatures.plugins.intellij.agenteering" />
             </plugin>
           </value>
         </entry>
