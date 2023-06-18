@@ -13,6 +13,17 @@
       </CLASSES>
       <SOURCES />
     </library>
+    <library name="hls.js" type="javaScript">
+      <properties>
+        <sourceFilesUrls>
+          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_cdnjs.cloudflare.com_ajax_libs_hls.js_1.4.5_hls.js" />
+        </sourceFilesUrls>
+      </properties>
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_cdnjs.cloudflare.com_ajax_libs_hls.js_1.4.5_hls.js" />
+      </CLASSES>
+      <SOURCES />
+    </library>
     <library name="jquery" type="javaScript">
       <properties>
         <sourceFilesUrls>
@@ -36,6 +47,19 @@
       <CLASSES>
         <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_cdnjs.cloudflare.com_ajax_libs_laravel-echo_1.15.1_echo.iife.js" />
         <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_cdnjs.cloudflare.com_ajax_libs_laravel-echo_1.15.1_echo.js" />
+      </CLASSES>
+      <SOURCES />
+    </library>
+    <library name="plyr" type="javaScript">
+      <properties>
+        <sourceFilesUrls>
+          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_cdnjs.cloudflare.com_ajax_libs_plyr_3.7.8_plyr.css" />
+          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_cdnjs.cloudflare.com_ajax_libs_plyr_3.7.8_plyr.polyfilled.js" />
+        </sourceFilesUrls>
+      </properties>
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_cdnjs.cloudflare.com_ajax_libs_plyr_3.7.8_plyr.css" />
+        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_cdnjs.cloudflare.com_ajax_libs_plyr_3.7.8_plyr.polyfilled.js" />
       </CLASSES>
       <SOURCES />
     </library>
