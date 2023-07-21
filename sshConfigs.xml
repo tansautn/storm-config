@@ -7,7 +7,7 @@
       <sshConfig authType="PASSWORD" host="128.199.211.59" id="3c948d5c-5b7d-4cd7-afea-e87a18f341fe" port="22" customName="sizechart | 128.199.211.59" nameFormat="CUSTOM" username="sizechart">
         <option name="customName" value="sizechart | 128.199.211.59" />
       </sshConfig>
-      <sshConfig host="zuko.us.to" id="dc18532c-ad36-4edb-b27b-8f9d28baded5" keyPath="D:\Onedrive\Z-Data\rsa-zuko-cdmx-openssh.key" port="6022" customName="TW | Web" nameFormat="CUSTOM" username="web">
+      <sshConfig connectionConfig="{&quot;serverAliveInterval&quot;:300}" host="zuko.us.to" id="dc18532c-ad36-4edb-b27b-8f9d28baded5" keyPath="D:\Onedrive\Z-Data\rsa-zuko-cdmx-openssh.key" port="6022" customName="TW | Web" nameFormat="CUSTOM" username="web">
         <option name="customName" value="TW | Web" />
       </sshConfig>
       <sshConfig host="zuko.us.to" id="8495cb92-df16-4b71-9e05-2c67f07fffae" keyPath="D:\Z-Data\rsa-zuko-cdmx-openssh.key" port="6022" customName="TW | Web 2" nameFormat="CUSTOM" username="web">
