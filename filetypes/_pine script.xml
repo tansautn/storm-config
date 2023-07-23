@@ -1,4 +1,4 @@
-<filetype binary="false" description=".1 Tradingview Pine Script" name=".pine script">
+<filetype binary="false" default_extension="pine" description=".1 Tradingview Pine Script" name=".pine script">
   <highlighting>
     <options>
       <option name="LINE_COMMENT" value="//" />
