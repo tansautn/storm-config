@@ -6,7 +6,6 @@
       <mapping pattern="ps_accounts-2022-09-12" type="AUTO_DETECTED" />
       <mapping pattern="_dont_remove_" type="AUTO_DETECTED" />
       <mapping pattern="631a118211ba9" type="AUTO_DETECTED" />
-      <mapping ext="conf" type="Nginx Configuration Pro" />
       <mapping pattern="minify_html" type="PHP" />
       <mapping pattern="ets_hook" type="PHP" />
       <mapping pattern="OverrideUtil" type="PHP" />
@@ -19,8 +18,8 @@
       <mapping ext="imax" type="PLAIN_TEXT" />
       <mapping ext="tpl---" type="PLAIN_TEXT" />
       <mapping ext="tpl_org" type="Smarty" />
-      <removed_mapping ext="conf" type="SmartyConfig" />
       <removed_mapping ext="bash" approved="true" type="Shell Script" />
+      <removed_mapping ext="conf" type="SmartyConfig" />
       <removed_mapping ext="dockerignore" approved="true" type="DockerIgnore file" />
       <removed_mapping ext="ignore" approved="true" type="IgnoreLang file" />
       <removed_mapping ext="sh" approved="true" type="Shell Script" />
