@@ -1,7 +1,8 @@
 <application>
   <component name="RainbowSettings">
     <option name="doNOTRainbowifyBigFiles" value="false" />
-    <option name="numberOfColors" value="8" />
+    <option name="doNOTRainbowifyTheFirstLevel" value="true" />
+    <option name="numberOfColors" value="6" />
     <option name="version" value="6.26" />
   </component>
 </application>
