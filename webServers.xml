@@ -2,7 +2,7 @@
   <component name="WebServers">
     <option name="servers">
       <webServer id="a6b90ba0-c401-4f2a-8dbe-8329dd8a1f44" name="SG | Linode" url="https://zuko.pro/">
-        <fileTransfer rootFolder="/www/" accessType="SFTP" host="zuko.us.to" port="6022" sshConfigId="dc18532c-ad36-4edb-b27b-8f9d28baded5" sshConfig="TW | Web" keyPair="true">
+        <fileTransfer rootFolder="/www/" accessType="SFTP" host="zuko.us.to" port="6022" sshConfigId="dc18532c-ad36-4edb-b27b-8f9d28baded5" sshConfig="web@zuko.us.to:6022 key" keyPair="true">
           <advancedOptions>
             <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
           </advancedOptions>
