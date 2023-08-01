@@ -1,9 +1,0 @@
-<application>
-  <component name="GraziConfig">
-    <option name="userEnabledRules">
-      <set>
-        <option value="LanguageTool.EN.EN_SPECIFIC_CASE" />
-      </set>
-    </option>
-  </component>
-</application>

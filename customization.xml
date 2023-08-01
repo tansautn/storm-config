@@ -42,7 +42,6 @@
       <path value="MainToolBarSettings" />
       <option name="myInitialPosition" value="-1" />
     </group>
-    <action id="com.jetbrains.plugins.remotesdk.console.RunSshConsoleAction" icon="C:/Users/Zuko/Pictures/icons/phpstorm/ssh.png" />
     <action id="WebDeployment.Options" icon="D:/Onedrive/Pictures/icons/phpstorm/deployment_options.png" />
     <action id="WebDeployment.Configuration" icon="D:/Onedrive/Pictures/icons/phpstorm/deployment_config.png" />
     <action id="WebDeployment.ToggleAutoUpload" icon="D:/Onedrive/Pictures/icons/phpstorm/deployment_autoupload.png" />

@@ -10,13 +10,13 @@
       <mapping pattern="ets_hook" type="PHP" />
       <mapping pattern="OverrideUtil" type="PHP" />
       <mapping pattern=".php_cs" type="PHP" />
-      <mapping ext="meta" type="PLAIN_TEXT" />
+      <mapping ext="py" type="PLAIN_TEXT" />
       <mapping ext="cache" type="PLAIN_TEXT" />
       <mapping ext="old" type="PLAIN_TEXT" />
-      <mapping ext="tpl---" type="PLAIN_TEXT" />
-      <mapping ext="py" type="PLAIN_TEXT" />
-      <mapping ext="imax" type="PLAIN_TEXT" />
       <mapping ext="1" type="PLAIN_TEXT" />
+      <mapping ext="meta" type="PLAIN_TEXT" />
+      <mapping ext="imax" type="PLAIN_TEXT" />
+      <mapping ext="tpl---" type="PLAIN_TEXT" />
       <mapping ext="tpl_org" type="Smarty" />
       <removed_mapping ext="bash" approved="true" type="Shell Script" />
       <removed_mapping ext="conf" approved="true" type="SmartyConfig" />
