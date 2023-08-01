@@ -76,6 +76,7 @@
   <action id="StringManipulation.ToSnakeCaseOrCamelCase">
     <keyboard-shortcut first-keystroke="shift ctrl alt u" />
   </action>
+  <action id="SwitcherRecentEditedChangedToggleCheckBox" />
   <action id="TableResult.GrowSelection" />
   <action id="TypeHierarchy" />
   <action id="TypeHierarchyBase.BaseOnThisType" />
