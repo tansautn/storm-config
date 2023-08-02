@@ -78,6 +78,7 @@
   </action>
   <action id="SwitcherRecentEditedChangedToggleCheckBox" />
   <action id="TableResult.GrowSelection" />
+  <action id="TextSearchAction" />
   <action id="TypeHierarchy" />
   <action id="TypeHierarchyBase.BaseOnThisType" />
   <action id="Vcs.UpdateProject" />
