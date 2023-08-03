@@ -3,5 +3,6 @@
     <option name="version" value="2.1.1" />
     <option name="theme" value="smooth" />
     <option name="colorScheme" value="1_Official" />
+    <option name="restrictMaximumHeight" value="true" />
   </component>
 </application>

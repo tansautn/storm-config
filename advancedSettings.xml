@@ -6,6 +6,7 @@
         <entry key="editor.skip.copy.and.cut.for.empty.selection" value="true" />
         <entry key="se.text.search" value="true" />
         <entry key="searcheverywhere.ml.sort.files" value="true" />
+        <entry key="show.diff.as.editor.tab" value="false" />
       </map>
     </option>
   </component>
