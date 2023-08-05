@@ -1,9 +1,13 @@
 <application>
   <component name="StringManipulationState">
     <option name="doNotAddSelection" value="true" />
-    <option name="lastAction">
+    <option name="lastActionModel">
       <UniversalActionModel>
-        <option name="actionClassName" value="osmedile.intellij.stringmanip.styles.switching.ToPascalCaseOrCamelCaseAction" />
+        <option name="actionClassName" value="osmedile.intellij.stringmanip.swap.SwapWordsAction" />
+        <option name="description" value="Swap Words - camelCase, kebab-case, snake_case..." />
+        <option name="modelClass" value="osmedile.intellij.stringmanip.swap.SwapWordsExecutor" />
+        <option name="modelData" value="&lt;SwapWordsExecutor /&gt;" />
+        <option name="textWithMnemonic" value="Swap Words" />
       </UniversalActionModel>
     </option>
     <option name="version" value="2" />
