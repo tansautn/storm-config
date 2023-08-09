@@ -1,0 +1,5 @@
+<application>
+  <component name="SqlEditorTabsSettings" ALWAYS_QUALIFY_TAB_NAMES="true">
+    <option name="alwaysQualifyTabNames" value="true" />
+  </component>
+</application>
