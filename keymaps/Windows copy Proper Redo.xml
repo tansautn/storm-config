@@ -41,6 +41,15 @@
   </action>
   <action id="GotoChangedFile" />
   <action id="GotoClass" />
+  <action id="GotoDeclaration">
+    <mouse-shortcut keystroke="control button1" />
+  </action>
+  <action id="GotoImplementation">
+    <mouse-shortcut keystroke="control button2" />
+  </action>
+  <action id="GotoTypeDeclaration">
+    <mouse-shortcut keystroke="shift control button1" />
+  </action>
   <action id="LocalHistory.ShowHistory">
     <keyboard-shortcut first-keystroke="ctrl h" />
   </action>
