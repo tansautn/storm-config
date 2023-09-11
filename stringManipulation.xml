@@ -3,9 +3,9 @@
     <option name="doNotAddSelection" value="true" />
     <option name="lastActionModel">
       <UniversalActionModel>
-        <option name="actionClassName" value="osmedile.intellij.stringmanip.styles.ToPascalCaseAction" />
-        <option name="description" value="To PascalCase" />
-        <option name="textWithMnemonic" value="To PascalCase" />
+        <option name="actionClassName" value="osmedile.intellij.stringmanip.styles.ToKebabCaseAction" />
+        <option name="description" value="To kebab-case" />
+        <option name="textWithMnemonic" value="To kebab-case" />
       </UniversalActionModel>
     </option>
     <option name="version" value="2" />
