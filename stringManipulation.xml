@@ -3,9 +3,9 @@
     <option name="doNotAddSelection" value="true" />
     <option name="lastActionModel">
       <UniversalActionModel>
-        <option name="actionClassName" value="osmedile.intellij.stringmanip.styles.ToKebabCaseAction" />
-        <option name="description" value="To kebab-case" />
-        <option name="textWithMnemonic" value="To kebab-case" />
+        <option name="actionClassName" value="osmedile.intellij.stringmanip.increment.CreateSequenceAction" />
+        <option name="description" value="Keep first number, replace all other by incrementing. Carets without a selection will add a number." />
+        <option name="textWithMnemonic" value="Create Sequence" />
       </UniversalActionModel>
     </option>
     <option name="version" value="2" />
