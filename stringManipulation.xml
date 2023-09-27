@@ -3,9 +3,9 @@
     <option name="doNotAddSelection" value="true" />
     <option name="lastActionModel">
       <UniversalActionModel>
-        <option name="actionClassName" value="osmedile.intellij.stringmanip.increment.CreateSequenceAction" />
-        <option name="description" value="Keep first number, replace all other by incrementing. Carets without a selection will add a number." />
-        <option name="textWithMnemonic" value="Create Sequence" />
+        <option name="actionClassName" value="osmedile.intellij.stringmanip.replace.DuplicateAndReplaceAction" />
+        <option name="description" value="Configure with 'String Manipulation' tool window" />
+        <option name="textWithMnemonic" value="Duplicate and Multi Replace" />
       </UniversalActionModel>
     </option>
     <option name="version" value="2" />
