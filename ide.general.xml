@@ -9,6 +9,7 @@
   </component>
   <component name="Registry">
     <entry key="win.editor.thumb.darcula.fill.min" value="102" />
+    <entry key="ide.experimental.ui" value="true" />
     <entry key="win.editor.thumb.darcula.alpha.base" value="0" />
     <entry key="win.editor.thumb.default.fill.max" value="150" />
     <entry key="debugger.watches.in.variables" value="false" />
@@ -17,7 +18,7 @@
     <entry key="win.editor.thumb.default.alpha.base" value="0" />
     <entry key="win.editor.thumb.default.alpha.delta" value="102" />
     <entry key="ide.balloon.shadow.size" value="0" />
-    <entry key="ide.experimental.ui" value="true" />
+    <entry key="ide.experimental.ui.inter.font" value="false" />
     <entry key="idea.plugins.compatible.build" value="" />
   </component>
   <component name="StatusBar">
