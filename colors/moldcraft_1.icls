@@ -1,7 +1,9 @@
 <scheme name="moldcraft" version="142" parent_scheme="Default">
+  <option name="FONT_SCALE" value="1.0" />
   <option name="LINE_SPACING" value="1.0" />
-  <option name="EDITOR_FONT_SIZE" value="14" />
+  <option name="EDITOR_FONT_SIZE" value="12" />
   <option name="EDITOR_FONT_NAME" value="Source Code Pro" />
+  <option name="EDITOR_LIGATURES" value="true" />
   <colors>
     <option name="ADDED_LINES_COLOR" value="" />
     <option name="ANNOTATIONS_COLOR" value="" />
@@ -362,7 +364,7 @@
         <option name="FONT_TYPE" value="1" />
       </value>
     </option>
-    <option name="PHP_VAR" baseAttributes="DEFAULT_LOCAL_VARIABLE" />
+    <option name="PHP_VAR" baseAttributes="" />
     <option name="SASS_VARIABLE">
       <value>
         <option name="FOREGROUND" value="800080" />
