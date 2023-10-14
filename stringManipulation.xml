@@ -1,11 +1,9 @@
 <application>
   <component name="StringManipulationState">
     <option name="doNotAddSelection" value="true" />
-    <option name="lastActionModel">
+    <option name="lastAction">
       <UniversalActionModel>
-        <option name="actionClassName" value="osmedile.intellij.stringmanip.replace.DuplicateAndReplaceAction" />
-        <option name="description" value="Configure with 'String Manipulation' tool window" />
-        <option name="textWithMnemonic" value="Duplicate and Multi Replace" />
+        <option name="actionClassName" value="osmedile.intellij.stringmanip.increment.CreateSequenceAction" />
       </UniversalActionModel>
     </option>
     <option name="version" value="2" />
