@@ -37,4 +37,10 @@
       <option name="JAVA_SCRIPT" value="true" />
     </context>
   </template>
+  <template name="suj" value="$method$ = (function (_super) {&#10;    return function () {&#10;      console.log('$method$ orginal called with -- ', arguments[0]);&#10;      $END$&#10;      return _super.apply(this, arguments);&#10;    };&#10;  })($method$);" description="Super method js" toReformat="true" toShortenFQNames="true">
+    <variable name="method" expression="jsSuggestVariableName()" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_SCRIPT" value="true" />
+    </context>
+  </template>
 </templateSet>
