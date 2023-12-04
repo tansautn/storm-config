@@ -29,12 +29,48 @@
       <option name="PHP Comment" value="true" />
     </context>
   </template>
-  <template name="lzdi" value="public function $NAME$(){&#10;    if(!$this-&gt;$PROPERTY$ instanceof $INSTANCE$){&#10;        $this-&gt;$PROPERTY$ = app()-&gt;make($INSTANCE$::class);&#10;    }&#10;    &#10;    return $this-&gt;$PROPERTY$;&#10;}" description="Lazy dependency injection" toReformat="true" toShortenFQNames="true">
-    <variable name="NAME" expression="phpSuggestFunctionParameter()" defaultValue="getDependency()" alwaysStopAt="true" />
+  <template name="lzdi" value="    if(!$this-&gt;$PROPERTY$ instanceof $INSTANCE$){&#10;        $this-&gt;$PROPERTY$ = app()-&gt;make($INSTANCE$::class);&#10;    }&#10;    &#10;    return $this-&gt;$PROPERTY$;&#10;" description="Lazy dependency injection" toReformat="true" toShortenFQNames="true">
     <variable name="PROPERTY" expression="phpVar" defaultValue="dependency" alwaysStopAt="true" />
     <variable name="INSTANCE" expression="phpClassName()" defaultValue="" alwaysStopAt="true" />
     <context>
-      <option name="PHP Class Member" value="true" />
+      <option name="PHP" value="true" />
+    </context>
+  </template>
+  <template name="fori" value="for($INDEX$ = 0; $INDEX$ &lt; $LIMIT$; $INDEX$++) {&#10;  $END$&#10;}" description="Create for loop" toReformat="false" toShortenFQNames="true">
+    <variable name="INDEX" expression="phpVar" defaultValue="$i" alwaysStopAt="true" />
+    <variable name="LIMIT" expression="phpVar" defaultValue="$limit" alwaysStopAt="true" />
+    <context>
+      <option name="PHP" value="true" />
+    </context>
+  </template>
+  <template name="ded" value="die(dump($END$));" description="dump then exit" toReformat="true" toShortenFQNames="true">
+    <context>
+      <option name="PHP" value="true" />
+    </context>
+  </template>
+  <template name="docctx" value="/**&#10; * @property-read \Context|\ContextCore $context&#10; * @mixin \ModuleCore&#10; */" description="add comment doc context" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="PHP" value="true" />
+    </context>
+  </template>
+  <template name="logfunc" value="public function log($value) {&#10;    $file = _PS_ROOT_DIR_ . '/var/zuko.log';&#10;    if(is_array($value) || is_object($value)){&#10;        $value = var_export($value, true);&#10;    }&#10;    if(($i = array_search($value, [false, true, null], true)) !== false){&#10;        $cast = ['false', 'true', 'null'];&#10;        $value = $cast[$i];&#10;    }&#10;    file_put_contents($file, $value . PHP_EOL, FILE_APPEND);&#10;}" description="insert log function blog" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="PHP" value="true" />
+    </context>
+  </template>
+  <template name="sdev" value="if(\Tools::isSubmit('dev')){&#10;    $END$&#10;}&#10;" description="Tools isSubmit Dev Block" toReformat="true" toShortenFQNames="true">
+    <context>
+      <option name="PHP" value="true" />
+    </context>
+  </template>
+  <template name="sde" value="if (in_array(\Tools::getRemoteAddr(), ['172.104.183.10', '171.224.118.176'])) {&#10;    $END$&#10;}" description="Tools getRemoteAddr Dev Block" toReformat="true" toShortenFQNames="true">
+    <context>
+      <option name="PHP" value="true" />
+    </context>
+  </template>
+  <template name="sdr" value="if (isset($_SERVER['HTTP_X_ZUKO_DEBUG']) &amp;&amp; $_SERVER['HTTP_X_ZUKO_DEBUG']) {&#10;    $END$&#10;}" description="Tools getRemoteAddr Dev Block" toReformat="true" toShortenFQNames="true">
+    <context>
+      <option name="PHP" value="true" />
     </context>
   </template>
 </templateSet>
