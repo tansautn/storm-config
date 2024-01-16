@@ -25,6 +25,7 @@
         <entry key="CwmWireStatsWidgetFactory" value="false" />
         <entry key="Memory" value="true" />
         <entry key="PowerSaveMode" value="true" />
+        <entry key="php.language.level.widget" value="false" />
       </map>
     </option>
   </component>
