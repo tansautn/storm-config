@@ -2,14 +2,14 @@
   <component name="WebServers">
     <option name="servers">
       <webServer id="e74e27ce-8788-4b50-8d6e-829c146e1d0e" name="SG | Linode | 1.7.8.10" url="https://ps1787.zuko.pro/">
-        <fileTransfer rootFolder="/www/" accessType="SFTP" host="zuko.us.to" port="6022" sshConfigId="dc18532c-ad36-4edb-b27b-8f9d28baded5" sshConfig="TW | Web" keyPair="true">
+        <fileTransfer rootFolder="/www/" accessType="SFTP" host="p.zuko.pro" port="6022" sshConfigId="dc18532c-ad36-4edb-b27b-8f9d28baded5" sshConfig="TW | Web" keyPair="true">
           <advancedOptions>
             <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
           </advancedOptions>
         </fileTransfer>
       </webServer>
       <webServer id="a6b90ba0-c401-4f2a-8dbe-8329dd8a1f44" name="SG | Linode" url="https://zuko.pro/">
-        <fileTransfer rootFolder="/www/" accessType="SFTP" host="zuko.us.to" port="6022" sshConfigId="dc18532c-ad36-4edb-b27b-8f9d28baded5" sshConfig="TW | Web" keyPair="true">
+        <fileTransfer rootFolder="/www/" accessType="SFTP" host="p.zuko.pro" port="6022" sshConfigId="dc18532c-ad36-4edb-b27b-8f9d28baded5" sshConfig="TW | Web" keyPair="true">
           <advancedOptions>
             <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
           </advancedOptions>

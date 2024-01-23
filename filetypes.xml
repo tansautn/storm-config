@@ -13,6 +13,7 @@
       <mapping pattern="ets_hook" type="PHP" />
       <mapping ext="meta" type="PLAIN_TEXT" />
       <mapping ext="cache" type="PLAIN_TEXT" />
+      <mapping ext="var" type="PLAIN_TEXT" />
       <mapping ext="old" type="PLAIN_TEXT" />
       <mapping ext="tpl---" type="PLAIN_TEXT" />
       <mapping ext="py" type="PLAIN_TEXT" />
