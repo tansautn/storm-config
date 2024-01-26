@@ -7,6 +7,7 @@
       <mapping pattern="_dont_remove_" type="AUTO_DETECTED" />
       <mapping pattern="error_log" type="AUTO_DETECTED" />
       <mapping ext="webp" type="Image" />
+      <mapping pattern="Tools14" type="PHP" />
       <mapping pattern="OverrideUtil" type="PHP" />
       <mapping pattern="minify_html" type="PHP" />
       <mapping pattern=".php_cs" type="PHP" />
