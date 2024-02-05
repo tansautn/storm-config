@@ -22,6 +22,13 @@
           </advancedOptions>
         </fileTransfer>
       </webServer>
+      <webServer id="fe76d68a-ac7a-46d4-8c4f-efa9c33fc689" name="SG | Linode | 8.1.2" url="https://ps1787.zuko.pro/">
+        <fileTransfer rootFolder="/www/" accessType="SFTP" host="p.zuko.pro" port="6022" sshConfigId="8495cb92-df16-4b71-9e05-2c67f07fffae" sshConfig="TW | Web 2" keyPair="true">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
     </option>
   </component>
 </application>
