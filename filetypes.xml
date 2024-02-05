@@ -9,6 +9,7 @@
       <mapping ext="webp" type="Image" />
       <mapping pattern="Tools14" type="PHP" />
       <mapping pattern="OverrideUtil" type="PHP" />
+      <mapping pattern="temp" type="PHP" />
       <mapping pattern="minify_html" type="PHP" />
       <mapping pattern=".php_cs" type="PHP" />
       <mapping pattern="ets_hook" type="PHP" />
