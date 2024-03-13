@@ -3,7 +3,14 @@
     <original-file-types />
   </component>
   <component name="DBNavigator.Application.PluginConflictManager">
+    <plugin-conflict-prompted value="false" />
     <file-types-claimed value="true" />
+  </component>
+  <component name="DBNavigator.Application.PluginStatusManager">
+    <plugin-statuses>
+      <status project="D:/Z-Data/git/phiphong" dbn="PASSIVE" sql="PASSIVE" />
+      <status project="DEFAULT" dbn="PASSIVE" sql="PASSIVE" />
+    </plugin-statuses>
   </component>
   <component name="DBNavigator.Application.Settings">
     <diagnostics>
@@ -15,7 +22,7 @@
       <database-lag enabled="false" connectivity="2000" querying="2000" fetching="500" />
       <miscellaneous dialog-sizing-reset="false" bulk-actions-enabled="false" background-disposer-disabled="false" timeout-handling-disabled="false" />
     </diagnostics>
-    <show-plugin-conflict-dialog value="false" />
+    <client-id value="1DF9DBEDC9304630BA9E622887095F1E" />
   </component>
   <component name="DBNavigator.DefaultProject.Settings">
     <connections />
