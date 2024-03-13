@@ -1,0 +1,6 @@
+<application>
+  <component name="WikilinkConfiguration">
+    <wikilinkStartToken>[[</wikilinkStartToken>
+    <wikilinkEndToken>]]</wikilinkEndToken>
+  </component>
+</application>

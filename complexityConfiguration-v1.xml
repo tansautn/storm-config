@@ -1,0 +1,10 @@
+<application>
+  <component name="ComplexityConfiguration">
+    <complexityCalculationEnabled>true</complexityCalculationEnabled>
+    <highComplexityThreshold>15</highComplexityThreshold>
+    <mediumComplexityThreshold>9</mediumComplexityThreshold>
+    <inlayHintPosition>TOP</inlayHintPosition>
+    <iconInHintEnabled>true</iconInHintEnabled>
+    <textInHintEnabled>true</textInHintEnabled>
+  </component>
+</application>
