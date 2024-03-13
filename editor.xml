@@ -21,5 +21,10 @@
   <component name="TodoConfiguration">
     <pattern pattern="\btodo\b.*" />
     <pattern pattern="\bfixme\b.*" />
+    <pattern icon="important" useCustomColors="true" pattern="\bdelme\b">
+      <option name="FOREGROUND" value="eb0000" />
+      <option name="FONT_TYPE" value="3" />
+      <option name="ERROR_STRIPE_COLOR" value="977ab" />
+    </pattern>
   </component>
 </application>
