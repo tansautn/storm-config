@@ -1,5 +1,8 @@
 <application>
   <component name="FindSettings">
+    <option name="customScope" value="Directory '…\config'" />
+    <option name="defaultScopeName" value="Directory '…\config'" />
+    <option name="SEARCH_SCOPE" value="Directory '…\config'" />
     <mask>*.css</mask>
     <mask>*.html</mask>
     <mask>*.xml</mask>
