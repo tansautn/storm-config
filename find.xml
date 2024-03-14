@@ -1,8 +1,8 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="Directory '…\config'" />
-    <option name="defaultScopeName" value="Directory '…\config'" />
-    <option name="SEARCH_SCOPE" value="Directory '…\config'" />
+    <option name="customScope" value="Directory '…\routes'" />
+    <option name="defaultScopeName" value="Directory '…\routes'" />
+    <option name="SEARCH_SCOPE" value="Directory '…\routes'" />
     <mask>*.css</mask>
     <mask>*.html</mask>
     <mask>*.xml</mask>
