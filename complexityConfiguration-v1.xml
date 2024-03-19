@@ -1,6 +1,6 @@
 <application>
   <component name="ComplexityConfiguration">
-    <complexityCalculationEnabled>true</complexityCalculationEnabled>
+    <complexityCalculationEnabled>false</complexityCalculationEnabled>
     <highComplexityThreshold>15</highComplexityThreshold>
     <mediumComplexityThreshold>9</mediumComplexityThreshold>
     <inlayHintPosition>TOP</inlayHintPosition>
