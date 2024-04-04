@@ -15,7 +15,6 @@
   <action id="CloseContent">
     <keyboard-shortcut first-keystroke="ctrl f4" />
     <keyboard-shortcut first-keystroke="ctrl w" />
-    <keyboard-shortcut first-keystroke="escape" />
   </action>
   <action id="CodeInspection.OnEditor" />
   <action id="CommentByBlockComment">
