@@ -58,16 +58,6 @@
       <option name="PHP" value="true" />
     </context>
   </template>
-  <template name="sdev" value="if(\Tools::isSubmit('dev')){&#10;    $END$&#10;}&#10;" description="Tools isSubmit Dev Block" toReformat="true" toShortenFQNames="true">
-    <context>
-      <option name="PHP" value="true" />
-    </context>
-  </template>
-  <template name="sde" value="if (in_array(\Tools::getRemoteAddr(), ['172.104.183.10', '171.224.118.176'])) {&#10;    $END$&#10;}" description="Tools getRemoteAddr Dev Block" toReformat="true" toShortenFQNames="true">
-    <context>
-      <option name="PHP" value="true" />
-    </context>
-  </template>
   <template name="sdr" value="if (isset($_SERVER['HTTP_X_ZUKO_DEBUG']) &amp;&amp; $_SERVER['HTTP_X_ZUKO_DEBUG']) {&#10;    $END$&#10;}" description="Tools getRemoteAddr Dev Block" toReformat="true" toShortenFQNames="true">
     <context>
       <option name="PHP" value="true" />

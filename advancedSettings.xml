@@ -2,14 +2,26 @@
   <component name="AdvancedSettings">
     <option name="settings">
       <map>
+        <entry key="bigger.font.in.project.view" value="true" />
         <entry key="debugger.max.recent.expressions" value="500" />
+        <entry key="docker.connect.automatically" value="false" />
         <entry key="documentation.components.enable.highlighting.of.links" value="true" />
         <entry key="documentation.components.enable.inline.code.highlighting" value="true" />
+        <entry key="editor.maximize.in.splits.on.double.click" value="true" />
         <entry key="editor.skip.copy.and.cut.for.empty.selection" value="true" />
+        <entry key="editor.skip.selecting.line.after.copy.empty.selection" value="true" />
         <entry key="git.use.schannel.on.windows" value="true" />
+        <entry key="ide.always.show.tool.window.header.icons" value="true" />
+        <entry key="ide.max.recent.projects" value="12" />
+        <entry key="ide.remember.last.search.scope" value="true" />
+        <entry key="ide.usages.page.size" value="150" />
+        <entry key="localHistory.daysToKeep" value="15" />
+        <entry key="php.max.chain.resolve.depth" value="180" />
         <entry key="se.text.search" value="true" />
         <entry key="searcheverywhere.ml.sort.files" value="true" />
         <entry key="show.diff.as.editor.tab" value="false" />
+        <entry key="vcs.non.modal.commit.toggle.ui" value="true" />
+        <entry key="vcs.push.all.with.commits" value="true" />
       </map>
     </option>
   </component>
