@@ -9,6 +9,7 @@
   <component name="DBNavigator.Application.PluginStatusManager">
     <plugin-statuses>
       <status project="D:/Z-Data/git/vnfdi" dbn="PASSIVE" sql="PASSIVE" />
+      <status project="D:/Z-Data/git/fitly" dbn="PASSIVE" sql="PASSIVE" />
       <status project="D:/Z-Data/git/phiphong" dbn="PASSIVE" sql="PASSIVE" />
       <status project="DEFAULT" dbn="PASSIVE" sql="PASSIVE" />
       <status project="D:/Z-Data/git/z-index" dbn="PASSIVE" sql="PASSIVE" />
