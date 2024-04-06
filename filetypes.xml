@@ -2,10 +2,6 @@
   <component name="FileTypeManager" version="18">
     <extensionMap>
       <mapping pattern=".env .dev" type=".env file" />
-      <mapping ext="xlsx" type="MyNativeFile" />
-      <mapping ext="xls" type="MyNativeFile" />
-      <removed_mapping ext="xlsx" type="Native" />
-      <removed_mapping ext="xls" type="Native" />
       <removed_mapping ext="conf" approved="true" type="SmartyConfig" />
       <removed_mapping ext="csv" approved="true" type="CSV/TSV" />
       <removed_mapping ext="ddl" approved="true" type="SQL" />
@@ -22,6 +18,8 @@
       <removed_mapping ext="trg" approved="true" type="SQL" />
       <removed_mapping ext="tsv" approved="true" type="CSV/TSV" />
       <removed_mapping ext="vw" approved="true" type="SQL" />
+      <removed_mapping ext="xls" approved="true" type="Native" />
+      <removed_mapping ext="xlsx" approved="true" type="Native" />
     </extensionMap>
   </component>
 </application>
