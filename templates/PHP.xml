@@ -12,10 +12,35 @@
       <option name="PHP" value="true" />
     </context>
   </template>
-  <template name="col" value=" defaultstate=&quot;collapsed&quot;" description="defaultstate=&quot;collapsed&quot;" toReformat="false" toShortenFQNames="true">
+  <template name="deberr" value="$errLevel = E_ALL &amp; ~E_DEPRECATED &amp; ~E_WARNING &amp; ~E_NOTICE;&#10;        @ini_set('display_errors', 'on');&#10;        @error_reporting($errLevel);&#10;        set_error_handler(&#10;            static function (&#10;                $errno,&#10;                $errStr,&#10;                $errFile = null,&#10;                $errLine = null,&#10;                $errContext = null&#10;            ){&#10;                echo '&lt;pre&gt;';&#10;                $msg = sprintf('[%d] %s at line %d in %s' . PHP_EOL, $errno, $errStr, $errLine, $errFile);&#10;                echo $msg;&#10;                echo '&lt;pre&gt;';&#10;//                throw new RuntimeException($msg);&#10;            }&#10;        , $errLevel);&#10;        set_exception_handler(static function (\Throwable $e) {&#10;            echo '&lt;h1 id=&quot;zuko-debug&quot;&gt;Caught Exception&lt;/h1&gt;&lt;pre&gt;';&#10;            $msg = sprintf('[%s code #%d] %s at line %d in %s' . PHP_EOL, get_class($e), $e-&gt;getCode(), $e-&gt;getMessage(), $e-&gt;getLine(), $e-&gt;getFile());&#10;            echo $msg . PHP_EOL;&#10;            print_r($e-&gt;getTrace());&#10;            echo '&lt;pre&gt;';&#10;        });&#10;        register_shutdown_function(static function () {&#10;            $err = error_get_last();&#10;            $msg = sprintf('[%d] %s at line %d in %s' . PHP_EOL, $err['type'], $err['message'], $err['line'], $err['file']);&#10;            throw new ErrorException($msg)&#10;        });" description="Insert display error &amp; error_reporting" toReformat="true" toShortenFQNames="true">
     <context>
-      <option name="JAVA_SCRIPT" value="true" />
-      <option name="PHP Comment" value="true" />
+      <option name="ANY_OPENAPI_JSON_FILE" value="false" />
+      <option name="ANY_OPENAPI_YAML_FILE" value="false" />
+      <option name="BashSupport Pro" value="false" />
+      <option name="CPT" value="false" />
+      <option name="CSS" value="false" />
+      <option name="CUCUMBER_FEATURE_FILE" value="false" />
+      <option name="ECMAScript6" value="false" />
+      <option name="GENERAL_JSON_FILE" value="false" />
+      <option name="GENERAL_YAML_FILE" value="false" />
+      <option name="HTML" value="false" />
+      <option name="HTTP_CLIENT_ENVIRONMENT" value="false" />
+      <option name="JAVA_SCRIPT" value="false" />
+      <option name="JSON" value="false" />
+      <option name="MODERN REACT" value="false" />
+      <option name="OTHER" value="true" />
+      <option name="RCB_HIDDEN_CONTEXT" value="false" />
+      <option name="REACT" value="false" />
+      <option name="REQUEST" value="false" />
+      <option name="RUST_FILE" value="false" />
+      <option name="SQL" value="false" />
+      <option name="Twig" value="false" />
+      <option name="TypeScript" value="false" />
+      <option name="Vue" value="false" />
+      <option name="XML" value="false" />
+      <option name="bashpro.bash" value="false" />
+      <option name="bashpro.bats-core" value="false" />
+      <option name="bashpro.zsh" value="false" />
     </context>
   </template>
   <template name="eol" value="echo PHP_EOL;&#10;$END$" description="echo eol" toReformat="true" toShortenFQNames="true">
