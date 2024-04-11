@@ -1,6 +1,6 @@
 <application>
   <component name="LafManager" autodetect="false">
-    <laf class-name="com.intellij.ide.ui.laf.darcula.DarculaLaf" themeId="261e1179-5ebf-42e6-a475-71948ab68aa8" />
+    <laf class-name="com.intellij.ide.ui.laf.darcula.DarculaLaf" />
     <lafs-to-previous-schemes>
       <laf-to-scheme laf="Darcula" scheme="Darcula backup 2021" />
       <laf-to-scheme laf="Dark" scheme="_@user_Darcula" />
