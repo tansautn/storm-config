@@ -8,6 +8,7 @@
         <entry key="documentation.components.enable.highlighting.of.links" value="true" />
         <entry key="documentation.components.enable.inline.code.highlighting" value="true" />
         <entry key="editor.maximize.in.splits.on.double.click" value="true" />
+        <entry key="editor.normalize.splits" value="true" />
         <entry key="editor.skip.copy.and.cut.for.empty.selection" value="true" />
         <entry key="editor.skip.selecting.line.after.copy.empty.selection" value="true" />
         <entry key="git.use.schannel.on.windows" value="true" />

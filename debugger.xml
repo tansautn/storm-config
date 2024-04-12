@@ -1,7 +1,13 @@
 <application>
   <component name="XDebuggerSettings">
-    <data-views />
-    <general />
+    <data-views>
+      <sort-values>true</sort-values>
+    </data-views>
+    <general>
+      <evaluation-dialog-mode>CODE_FRAGMENT</evaluation-dialog-mode>
+      <option name="hideDebuggerOnProcessTermination" value="true" />
+      <scroll-to-center>true</scroll-to-center>
+    </general>
     <debuggers>
       <debugger id="javascript">
         <configuration>

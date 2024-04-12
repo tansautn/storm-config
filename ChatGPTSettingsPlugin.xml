@@ -1,5 +1,12 @@
 <application>
   <component name="com.obiscr.chatgpt.settings.OpenAISettingsState">
+    <option name="enableProxy" value="true" />
+    <option name="proxyType" value="SOCKS" />
+    <option name="proxyHostname" value="p.zuko.pro" />
+    <option name="proxyPort" value="5008" />
+    <option name="enableProxyAuth" value="true" />
+    <option name="proxyUsername" value="fwd-proxy" />
+    <option name="proxyPassword" value="naydaymaidau" />
     <contentStatesNoChatGPT>
       <list>
         <ChatGPTContentState>
@@ -18,5 +25,10 @@
         </ChatGPTContentState>
       </list>
     </contentStatesNoChatGPT>
+    <option name="easyCodeAccessToken" value="eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ0b2tlbl90eXBlIjoiYWNjZXNzIiwiZXhwIjoxNzEyODM5MjMzLCJpYXQiOjE3MTI4MzgzMzMsImp0aSI6IjIxNWE0MThhYjhkMzRkNTM5MjMzODZiOWRmYjg0M2VmIiwidXNlcl9pZCI6NjE0MjgzfQ.bgxBRZNXWn6hMkA4WHJ0m2lwCaks8pHaYhb-15Do_lo" />
+    <option name="easyCodeRefreshToken" value="eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ0b2tlbl90eXBlIjoicmVmcmVzaCIsImV4cCI6MTcxNDA0NzkzMywiaWF0IjoxNzEyODM4MzMzLCJqdGkiOiI0OTc2NjI4ZWI3Y2M0ZWQzYjMyODY3ZTZkMTc3NmNjZSIsInVzZXJfaWQiOjYxNDI4M30.s-FLZqU6Nle8vOYaxIUwJBUSelFGOL0J-I0LT99z-dM" />
+    <option name="easyCodeUserEmail" value="tansautn@gmail.com" />
+    <option name="easyCodeModel" value="gpt-4-1106-preview" />
+    <option name="easyCodeHistoryConversationModel" />
   </component>
 </application>
