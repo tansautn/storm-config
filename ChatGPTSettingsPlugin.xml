@@ -28,7 +28,7 @@
     <option name="easyCodeAccessToken" value="eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ0b2tlbl90eXBlIjoiYWNjZXNzIiwiZXhwIjoxNzEyODM5MjMzLCJpYXQiOjE3MTI4MzgzMzMsImp0aSI6IjIxNWE0MThhYjhkMzRkNTM5MjMzODZiOWRmYjg0M2VmIiwidXNlcl9pZCI6NjE0MjgzfQ.bgxBRZNXWn6hMkA4WHJ0m2lwCaks8pHaYhb-15Do_lo" />
     <option name="easyCodeRefreshToken" value="eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ0b2tlbl90eXBlIjoicmVmcmVzaCIsImV4cCI6MTcxNDA0NzkzMywiaWF0IjoxNzEyODM4MzMzLCJqdGkiOiI0OTc2NjI4ZWI3Y2M0ZWQzYjMyODY3ZTZkMTc3NmNjZSIsInVzZXJfaWQiOjYxNDI4M30.s-FLZqU6Nle8vOYaxIUwJBUSelFGOL0J-I0LT99z-dM" />
     <option name="easyCodeUserEmail" value="tansautn@gmail.com" />
-    <option name="easyCodeModel" value="gpt-4-1106-preview" />
+    <option name="easyCodeModel" value="claude-instant-1" />
     <option name="easyCodeHistoryConversationModel" />
   </component>
 </application>

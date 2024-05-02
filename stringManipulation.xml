@@ -61,6 +61,7 @@
       </list>
     </option>
     <option name="doNotAddSelection" value="true" />
+    <option name="repeatLastActionWithoutDialog" value="true" />
     <option name="version" value="2" />
   </component>
 </application>
