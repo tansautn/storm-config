@@ -18,7 +18,9 @@
         <entry key="ide.usages.page.size" value="150" />
         <entry key="localHistory.daysToKeep" value="15" />
         <entry key="php.max.chain.resolve.depth" value="180" />
+        <entry key="project.view.do.not.autoscroll.to.libraries" value="true" />
         <entry key="se.text.search" value="true" />
+        <entry key="searcheverywhere.ml.sort.all" value="true" />
         <entry key="searcheverywhere.ml.sort.files" value="true" />
         <entry key="show.diff.as.editor.tab" value="false" />
         <entry key="vcs.non.modal.commit.toggle.ui" value="true" />
