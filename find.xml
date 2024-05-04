@@ -1,8 +1,8 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="Directory '…\app\Models'" />
-    <option name="defaultScopeName" value="Directory '…\app\Models'" />
-    <option name="SEARCH_SCOPE" value="Directory '…\app\Models'" />
+    <option name="customScope" value="File '…\app\Models\ProductionUnit.php'" />
+    <option name="defaultScopeName" value="File '…\app\Models\ProductionUnit.php'" />
+    <option name="SEARCH_SCOPE" value="File '…\app\Models\ProductionUnit.php'" />
     <mask>*.css</mask>
     <mask>*.html</mask>
     <mask>*.xml</mask>
