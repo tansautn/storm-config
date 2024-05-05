@@ -47,7 +47,7 @@
     <option name="TOOLTIPS_DELAY_MS" value="250" />
   </component>
   <component name="InlayHintsSettings">
-    <option name="lastViewedProviderKeyId" value="JavaScript.js.type.hints" />
+    <option name="lastViewedProviderKeyId" value="SQL.parameter.hints.old.sql.show.column.names.for.asterisk" />
     <settingsMapElement>
       <SQL.sql.join.cardinality.hints>
         <Settings>
