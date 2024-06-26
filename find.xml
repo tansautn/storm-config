@@ -1,8 +1,8 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="File '…\resources\geodb\phu-tho-villages.json'" />
-    <option name="defaultScopeName" value="File '…\resources\geodb\phu-tho-villages.json'" />
-    <option name="SEARCH_SCOPE" value="File '…\resources\geodb\phu-tho-villages.json'" />
+    <option name="customScope" value="File '…\database\migrations\2024_06_25_165530_create_villages_table.php'" />
+    <option name="defaultScopeName" value="File '…\database\migrations\2024_06_25_165530_create_villages_table.php'" />
+    <option name="SEARCH_SCOPE" value="File '…\database\migrations\2024_06_25_165530_create_villages_table.php'" />
     <mask>*.css</mask>
     <mask>*.html</mask>
     <mask>*.xml</mask>
