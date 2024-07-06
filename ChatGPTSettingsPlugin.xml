@@ -1,16 +1,15 @@
 <application>
   <component name="com.obiscr.chatgpt.settings.OpenAISettingsState">
     <option name="enableProxy" value="true" />
-    <option name="proxyType" value="SOCKS" />
-    <option name="proxyHostname" value="p.zuko.pro" />
-    <option name="proxyPort" value="5008" />
+    <option name="proxyHostname" value="localhost" />
+    <option name="proxyPort" value="8888" />
     <option name="gpt35Model" value="gpt-3.5-turbo" />
     <option name="enableContext" value="true" />
     <option name="enableTokenConsumption" value="true" />
     <option name="enableGPT35StreamResponse" value="true" />
     <option name="enableProxyAuth" value="true" />
-    <option name="proxyUsername" value="fwd-proxy" />
-    <option name="proxyPassword" value="naydaymaidau" />
+    <option name="proxyUsername" value="1" />
+    <option name="proxyPassword" value="1" />
     <contentStatesNoChatGPT>
       <list>
         <ChatGPTContentState>
