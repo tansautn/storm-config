@@ -5,6 +5,7 @@
     <option name="CONSOLE_COMMAND_HISTORY_LIMIT" value="1000" />
     <option name="EDITOR_TAB_LIMIT" value="30" />
     <option name="MARK_MODIFIED_TABS_WITH_ASTERISK" value="true" />
+    <option name="MAX_LOOKUP_WIDTH2" value="741" />
     <option name="OVERRIDE_NONIDEA_LAF_FONTS" value="true" />
     <option name="RECENT_FILES_LIMIT" value="120" />
     <option name="RIGHT_HORIZONTAL_SPLIT" value="true" />
