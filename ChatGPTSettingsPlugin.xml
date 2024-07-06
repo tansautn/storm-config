@@ -28,8 +28,8 @@
         </ChatGPTContentState>
       </list>
     </contentStatesNoChatGPT>
-    <option name="easyCodeAccessToken" value="eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ0b2tlbl90eXBlIjoiYWNjZXNzIiwiZXhwIjoxNzEyODM5MjMzLCJpYXQiOjE3MTI4MzgzMzMsImp0aSI6IjIxNWE0MThhYjhkMzRkNTM5MjMzODZiOWRmYjg0M2VmIiwidXNlcl9pZCI6NjE0MjgzfQ.bgxBRZNXWn6hMkA4WHJ0m2lwCaks8pHaYhb-15Do_lo" />
-    <option name="easyCodeRefreshToken" value="eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ0b2tlbl90eXBlIjoicmVmcmVzaCIsImV4cCI6MTcxNDA0NzkzMywiaWF0IjoxNzEyODM4MzMzLCJqdGkiOiI0OTc2NjI4ZWI3Y2M0ZWQzYjMyODY3ZTZkMTc3NmNjZSIsInVzZXJfaWQiOjYxNDI4M30.s-FLZqU6Nle8vOYaxIUwJBUSelFGOL0J-I0LT99z-dM" />
+    <option name="easyCodeAccessToken" value="eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ0b2tlbl90eXBlIjoiYWNjZXNzIiwiZXhwIjoxNzIwMjY2ODE1LCJpYXQiOjE3MjAyNjU5MTUsImp0aSI6ImFlNDQ2NmU5NTdmMjRhZmZiOGYwY2QwNDUxMThlMWYyIiwidXNlcl9pZCI6NjE0MjgzfQ.mQhB-VFStHcpKbTvRGzjAHkQGKrVcxhwlOj_IyEi3t0" />
+    <option name="easyCodeRefreshToken" value="eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ0b2tlbl90eXBlIjoicmVmcmVzaCIsImV4cCI6MTcyMTQ3NTUxNSwiaWF0IjoxNzIwMjY1OTE1LCJqdGkiOiI0OGQ1NDFhMDM4ZDI0NjM3OTkwMTNhNTc2Nzg2ZmNhMyIsInVzZXJfaWQiOjYxNDI4M30.tJtLUhEX7bYIDgQjQ5dPC_Yif1tEEYtTJOCs6xrOju8" />
     <option name="easyCodeUserEmail" value="tansautn@gmail.com" />
     <option name="easyCodeModel" value="claude-3-opus-20240229" />
     <option name="easyCodeHistoryConversationModel" />

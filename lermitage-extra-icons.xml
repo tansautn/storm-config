@@ -4,6 +4,13 @@
     <option name="uiTypeIconsPreference" value="BASED_ON_ACTIVE_UI_TYPE" />
     <option name="useIDEFilenameIndex2" value="true" />
     <option name="pluginIsConfigurableHintNotifDisplayed" value="true" />
+    <option name="iconviewerShouldRenderSVGHintNotifDisplayed" value="true" />
     <option name="theApril2024PriceIncreaseHintNotifDisplayed" value="true" />
+    <option name="disabledModelIds">
+      <list>
+        <option value="ext_svg" />
+        <option value="ext_svg_alt" />
+      </list>
+    </option>
   </component>
 </application>
