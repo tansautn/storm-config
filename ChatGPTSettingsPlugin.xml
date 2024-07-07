@@ -1,6 +1,5 @@
 <application>
   <component name="com.obiscr.chatgpt.settings.OpenAISettingsState">
-    <option name="enableProxy" value="true" />
     <option name="proxyHostname" value="localhost" />
     <option name="proxyPort" value="8888" />
     <option name="gpt35Model" value="gpt-3.5-turbo" />
@@ -28,10 +27,10 @@
         </ChatGPTContentState>
       </list>
     </contentStatesNoChatGPT>
-    <option name="easyCodeAccessToken" value="eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ0b2tlbl90eXBlIjoiYWNjZXNzIiwiZXhwIjoxNzIwMjc1MDMxLCJpYXQiOjE3MjAyNjU5MTUsImp0aSI6ImE3NTllNTFmYmY5ZTQyMDViZjBiNWNhNDgyN2YwMWRkIiwidXNlcl9pZCI6NjE0MjgzfQ.CHk7qnUSic1kKas6TqWIfuc13msHH7BJ3rxyo8TPVhE" />
-    <option name="easyCodeRefreshToken" value="eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ0b2tlbl90eXBlIjoicmVmcmVzaCIsImV4cCI6MTcyMTQ4MzczMSwiaWF0IjoxNzIwMjc0MTMxLCJqdGkiOiJlZDQyMGVmYmEzNTU0M2ZlODZiZmQ4ZjA0MTJlMTljYiIsInVzZXJfaWQiOjYxNDI4M30.SfS-VF-FE2EDlsuWPFf4Leh1RQ67xIRX-XYMRDZJfHc" />
+    <option name="easyCodeAccessToken" value="eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ0b2tlbl90eXBlIjoiYWNjZXNzIiwiZXhwIjoxNzIwMzUwNzY0LCJpYXQiOjE3MjAyNzQxMzEsImp0aSI6IjVmYWRkM2Y5MDM5MTRlYTZiNDcyMTEwNjMxNjBlMWM2IiwidXNlcl9pZCI6NjE0MjgzfQ.CCku8JU2UR4LBWVA3izLAEzoe1AgD-m9bD1KQ9lpSs4" />
+    <option name="easyCodeRefreshToken" value="eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ0b2tlbl90eXBlIjoicmVmcmVzaCIsImV4cCI6MTcyMTU1OTQ2NCwiaWF0IjoxNzIwMzQ5ODY0LCJqdGkiOiI2Y2FkMGU3MWI2NGY0ZjJlYWY5YTNiZGYyOTM0M2M5ZCIsInVzZXJfaWQiOjYxNDI4M30.fUD5A1L5atymFzeWr8wSznSdAZcNh4B9RJ2isTgs2_s" />
     <option name="easyCodeUserEmail" value="tansautn@gmail.com" />
     <option name="easyCodeModel" value="claude-3-opus-20240229" />
-    <option name="easyCodeHistoryConversationModel" value="claude-3-opus-20240229" />
+    <option name="easyCodeHistoryConversationModel" value="gpt-3.5-turbo-0125" />
   </component>
 </application>
