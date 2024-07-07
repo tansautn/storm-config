@@ -3,6 +3,7 @@
     <DockerRegistry>
       <option name="address" value="registry.hub.docker.com" />
       <option name="name" value="Docker Registry" />
+      <option name="registryProviderId" value="DockerHubRegistryProvider" />
       <option name="username" value="tansautn" />
     </DockerRegistry>
   </component>

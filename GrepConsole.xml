@@ -104,6 +104,8 @@
             </list>
           </option>
           <option name="name" value="default" />
+          <option name="showStatsInConsoleByDefault" value="true" />
+          <option name="showStatsInStatusBarByDefault" value="true" />
         </Profile>
       </list>
     </option>
