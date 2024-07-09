@@ -1,5 +1,16 @@
 <application>
   <component name="NodeJsLocalInterpreterManager">
-    <local-interpreter path="D:/Z-Data/DevTools/node-v16.16.0-win-x64/node.exe" />
+    <local-interpreter path="D:/Z-Data/DevTools/node-v16.16.0-win-x64/node.exe">
+      <version-cache last-modified="0" />
+    </local-interpreter>
+    <local-interpreter path="D:/Z-Data/DevTools/nodejs/16.16.0-win-x64/node.exe">
+      <version-cache version="16.16.0" last-modified="1657195675999" />
+    </local-interpreter>
+    <local-interpreter path="D:/Z-Data/DevTools/nodejs/18.20.2-win-x64/node.exe">
+      <version-cache version="18.20.2" last-modified="1712752614111" />
+    </local-interpreter>
+    <local-interpreter path="D:/Z-Data/DevTools/nodejs/20.13.1-win-x64/node.exe">
+      <version-cache version="20.13.1" last-modified="1715247413752" />
+    </local-interpreter>
   </component>
 </application>
