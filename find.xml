@@ -1,12 +1,13 @@
 <application>
   <component name="FindSettings">
     <option name="caseSensitive" value="true" />
-    <option name="customScope" value="Project Files" />
-    <option name="defaultScopeName" value="Project Files" />
+    <option name="customScope" value="File '…\database\migrations\2024_08_01_000007_create_planting_area_standards_table.php'" />
+    <option name="defaultScopeName" value="File '…\database\migrations\2024_08_01_000007_create_planting_area_standards_table.php'" />
     <option name="searchOverloadedMethods" value="true" />
     <option name="SEARCH_OVERLOADED_METHODS" value="true" />
     <option name="CASE_SENSITIVE_SEARCH" value="true" />
-    <option name="SEARCH_SCOPE" value="Project Files" />
+    <option name="SEARCH_SCOPE" value="File '…\database\migrations\2024_08_01_000007_create_planting_area_standards_table.php'" />
+    <option name="FILE_MASK" value="*.php" />
     <mask>*.css</mask>
     <mask>*.html</mask>
     <mask>*.xml</mask>
