@@ -88,4 +88,15 @@
       <option name="PHP" value="true" />
     </context>
   </template>
+  <template name="docrepo" value=" * @method $MODEL$ find($id)&#10; * @method $MODEL$ findOrFail($id)&#10; * @method $MODEL$ firstOrFail()&#10; * @method $MODEL$|\Illuminate\Database\Eloquent\Builder getCurrentQuery()&#10; * @method $MODEL$ getModel()" description="phpclass doc for repository" toReformat="false" toShortenFQNames="true">
+    <variable name="MODEL" expression="phpClassName()" defaultValue="Model" alwaysStopAt="true" />
+    <context>
+      <option name="PHP" value="true" />
+      <option name="PHP Expression" value="false" />
+      <option name="PHP Interface Member" value="false" />
+      <option name="PHP Statement" value="false" />
+      <option name="PHP String Literal" value="false" />
+      <option name="PHP Trait Member" value="false" />
+    </context>
+  </template>
 </templateSet>
