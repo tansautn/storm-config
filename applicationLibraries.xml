@@ -1,6 +1,19 @@
 <application>
   <component name="libraryTable">
-    <library name="@types/google-maps" type="javaScript">
+    <library name="@types/jquery" type="javaScript">
+      <CLASSES />
+      <JAVADOC />
+      <SOURCES />
+    </library>
+    <library name="@types/select2" type="javaScript">
+      <CLASSES />
+      <JAVADOC />
+      <SOURCES />
+    </library>
+    <library name="jQuery" type="javaScript">
+      <properties>
+        <option name="frameworkName" value="jQuery" />
+      </properties>
       <CLASSES />
       <JAVADOC />
       <SOURCES />
