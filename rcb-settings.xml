@@ -1,6 +1,6 @@
 <application>
   <component name="ReactBuddyPluginAppSettings">
-    <option name="extensionLastUpdateCurrentMillis" value="1725247955077" />
+    <option name="extensionLastUpdateCurrentMillis" value="1727395454268" />
     <option name="extensions">
       <ExtensionState>
         <option name="libraryPackage" value="antd" />
@@ -69,7 +69,5 @@
         </option>
       </ExtensionState>
     </option>
-    <option name="saveOutlineState" value="true" />
-    <option name="subcomponentsNotify" value="true" />
   </component>
 </application>

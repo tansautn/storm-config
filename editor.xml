@@ -4,6 +4,7 @@
   </component>
   <component name="CodeInsightSettings">
     <option name="selectAutopopupSuggestionsByChars" value="true" />
+    <option name="PARAMETER_INFO_DELAY" value="500" />
     <option name="AUTO_POPUP_JAVADOC_INFO" value="true" />
     <option name="JAVADOC_INFO_DELAY" value="250" />
     <option name="SELECT_AUTOPOPUP_SUGGESTIONS_BY_CHARS" value="true" />
@@ -11,34 +12,48 @@
   <component name="CodeVisionSettings">
     <option name="codeVisionGroupToPosition">
       <map>
+        <entry key="component.usage" value="Default" />
         <entry key="inheritors" value="Default" />
+        <entry key="pieces.codevision" value="Default" />
         <entry key="references" value="Default" />
+        <entry key="rename" value="Default" />
         <entry key="vcs.code.vision" value="Default" />
       </map>
     </option>
     <option name="disabledCodeVisionProviderIds">
       <set>
+        <option value="pieces.codevision" />
         <option value="references" />
         <option value="vcs.code.vision" />
       </set>
     </option>
   </component>
+  <component name="CursiveManagers">
+    <option name="newStyle" value="false" />
+  </component>
   <component name="DeclarativeInlayHintsSettings">
+    <option name="enabledOptions">
+      <map>
+        <entry key="js.type.hints#function.returns" value="true" />
+        <entry key="js.type.hints#non.paren.single.param" value="true" />
+        <entry key="js.type.hints#parameters.in.parens" value="true" />
+        <entry key="js.type.hints#variables.and.fields" value="true" />
+        <entry key="ts.type.hints#function.returns" value="true" />
+        <entry key="ts.type.hints#non.paren.single.param" value="true" />
+        <entry key="ts.type.hints#parameters.in.parens" value="true" />
+        <entry key="ts.type.hints#variables.and.fields" value="true" />
+      </map>
+    </option>
     <option name="providerIdToEnabled">
       <map>
         <entry key="js.chain.hints" value="true" />
         <entry key="js.type.hints" value="true" />
+        <entry key="qodana.yaml.inspection.descriptions" value="false" />
         <entry key="ts.chain.hints" value="true" />
         <entry key="ts.enum.hints" value="true" />
         <entry key="ts.type.hints" value="true" />
       </map>
     </option>
-  </component>
-  <component name="DefaultFont">
-    <option name="FONT_SIZE" value="16" />
-    <option name="FONT_FAMILY" value="Monospaced" />
-    <option name="LINE_SPACING" value="0.8" />
-    <option name="USE_LIGATURES" value="true" />
   </component>
   <component name="EditorSettings">
     <option name="USE_SOFT_WRAPS" value="MAIN_EDITOR:CONSOLE" />
@@ -47,17 +62,28 @@
     <option name="TOOLTIPS_DELAY_MS" value="250" />
   </component>
   <component name="InlayHintsSettings">
-    <option name="lastViewedProviderKeyId" value="SQL.parameter.hints.old.sql.show.column.names.for.asterisk" />
-    <settingsMapElement>
-      <SQL.sql.join.cardinality.hints>
-        <Settings>
-          <option name="showForFullJoin" value="true" />
-          <option name="showForInnerJoin" value="true" />
-          <option name="showForLeftJoin" value="true" />
-          <option name="showForRightJoin" value="true" />
-        </Settings>
-      </SQL.sql.join.cardinality.hints>
-    </settingsMapElement>
+    <option name="disabledHintProviderIds">
+      <set>
+        <option value="Dockerfile.docker.inlay.hints" />
+        <option value="ECMA Script Level 4.better.highlights.complexity.hint" />
+        <option value="ECMAScript 6.better.highlights.complexity.hint" />
+        <option value="JSON.composer.package.version.hints" />
+        <option value="JavaScript 1.8.better.highlights.complexity.hint" />
+        <option value="JavaScript.better.highlights.complexity.hint" />
+        <option value="Markdown.MarkdownTableInlayProviderSettingsKey" />
+        <option value="PHP.better.highlights.complexity.hint" />
+        <option value="SQL.sql.join.cardinality.hints" />
+        <option value="TypeScript JSX.better.highlights.complexity.hint" />
+        <option value="TypeScript.better.highlights.complexity.hint" />
+        <option value="Vue.better.highlights.complexity.hint" />
+        <option value="VueJS.better.highlights.complexity.hint" />
+        <option value="VueTS.better.highlights.complexity.hint" />
+      </set>
+    </option>
+    <option name="lastViewedProviderKeyId" value="" />
+  </component>
+  <component name="InlineCompletionOnboarding">
+    <option name="onboardingFinished" value="true" />
   </component>
   <component name="PhpEditorOptions">
     <option name="ALWAYS_ENABLE_PHP_BACKGROUND_HIGHLIGHTING" value="true" />

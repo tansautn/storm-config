@@ -4,32 +4,44 @@
       <list>
         <Profile>
           <option name="defaultProfile" value="true" />
-          <option name="enableFoldings" value="true" />
           <option name="grepExpressionGroups">
             <list>
               <GrepExpressionGroup>
                 <option name="grepExpressionItems">
                   <list>
                     <GrepExpressionItem>
-                      <option name="grepExpression" value=".*FATAL.*" />
+                      <option name="grepExpression" value=".*\b(FATAL|CRITICAL)\b.*" />
                       <option name="style">
                         <GrepStyle>
                           <option name="backgroundColor">
                             <GrepColor>
+                              <option name="colorKey" value="GrepConsole.fatal.background" />
                               <option name="enabled" value="true" />
                             </GrepColor>
                           </option>
                           <option name="bold" value="true" />
+                          <option name="foregroundColor">
+                            <GrepColor>
+                              <option name="colorKey" value="GrepConsole.fatal.foreground" />
+                              <option name="enabled" value="true" />
+                            </GrepColor>
+                          </option>
                         </GrepStyle>
                       </option>
                     </GrepExpressionItem>
                     <GrepExpressionItem>
-                      <option name="grepExpression" value=".*ERROR.*" />
+                      <option name="grepExpression" value=".*\b(ERROR|SEVERE)\b.*" />
                       <option name="style">
                         <GrepStyle>
                           <option name="backgroundColor">
                             <GrepColor>
-                              <option name="color" value="-935919616" />
+                              <option name="colorKey" value="GrepConsole.error.background" />
+                              <option name="enabled" value="true" />
+                            </GrepColor>
+                          </option>
+                          <option name="foregroundColor">
+                            <GrepColor>
+                              <option name="colorKey" value="GrepConsole.error.foreground" />
                               <option name="enabled" value="true" />
                             </GrepColor>
                           </option>
@@ -37,12 +49,18 @@
                       </option>
                     </GrepExpressionItem>
                     <GrepExpressionItem>
-                      <option name="grepExpression" value=".*WARN.*" />
+                      <option name="grepExpression" value=".*\bWARN(ING)?\b.*" />
                       <option name="style">
                         <GrepStyle>
                           <option name="backgroundColor">
                             <GrepColor>
-                              <option name="color" value="-937820105" />
+                              <option name="colorKey" value="GrepConsole.warn.background" />
+                              <option name="enabled" value="true" />
+                            </GrepColor>
+                          </option>
+                          <option name="foregroundColor">
+                            <GrepColor>
+                              <option name="colorKey" value="GrepConsole.warn.foreground" />
                               <option name="enabled" value="true" />
                             </GrepColor>
                           </option>
@@ -50,15 +68,19 @@
                       </option>
                     </GrepExpressionItem>
                     <GrepExpressionItem>
-                      <option name="grepExpression" value=".*INFO.*" />
-                    </GrepExpressionItem>
-                    <GrepExpressionItem>
-                      <option name="grepExpression" value=".*DEBUG.*" />
+                      <option name="enabled" value="false" />
+                      <option name="grepExpression" value=".*\bINFO\b.*" />
                       <option name="style">
                         <GrepStyle>
+                          <option name="backgroundColor">
+                            <GrepColor>
+                              <option name="colorKey" value="GrepConsole.info.background" />
+                              <option name="enabled" value="true" />
+                            </GrepColor>
+                          </option>
                           <option name="foregroundColor">
                             <GrepColor>
-                              <option name="color" value="-8355712" />
+                              <option name="colorKey" value="GrepConsole.info.foreground" />
                               <option name="enabled" value="true" />
                             </GrepColor>
                           </option>
@@ -66,11 +88,37 @@
                       </option>
                     </GrepExpressionItem>
                     <GrepExpressionItem>
-                      <option name="grepExpression" value=".*TRACE.*" />
+                      <option name="grepExpression" value=".*\b(DEBUG|FINE)\b.*" />
                       <option name="style">
                         <GrepStyle>
+                          <option name="backgroundColor">
+                            <GrepColor>
+                              <option name="colorKey" value="GrepConsole.debug.background" />
+                              <option name="enabled" value="true" />
+                            </GrepColor>
+                          </option>
                           <option name="foregroundColor">
                             <GrepColor>
+                              <option name="colorKey" value="GrepConsole.debug.foreground" />
+                              <option name="enabled" value="true" />
+                            </GrepColor>
+                          </option>
+                        </GrepStyle>
+                      </option>
+                    </GrepExpressionItem>
+                    <GrepExpressionItem>
+                      <option name="grepExpression" value=".*\b(TRACE|FINER|FINEST)\b.*" />
+                      <option name="style">
+                        <GrepStyle>
+                          <option name="backgroundColor">
+                            <GrepColor>
+                              <option name="colorKey" value="GrepConsole.trace.background" />
+                              <option name="enabled" value="true" />
+                            </GrepColor>
+                          </option>
+                          <option name="foregroundColor">
+                            <GrepColor>
+                              <option name="colorKey" value="GrepConsole.trace.foreground" />
                               <option name="enabled" value="true" />
                             </GrepColor>
                           </option>
@@ -80,9 +128,12 @@
                   </list>
                 </option>
               </GrepExpressionGroup>
+              <GrepExpressionGroup>
+                <option name="name" value="@Theme Name@" />
+              </GrepExpressionGroup>
             </list>
           </option>
-          <option name="id" value="1608255996285" />
+          <option name="id" value="1726644095909" />
           <option name="inputFilterGroups">
             <list>
               <GrepExpressionGroup>
@@ -104,11 +155,8 @@
             </list>
           </option>
           <option name="name" value="default" />
-          <option name="showStatsInConsoleByDefault" value="true" />
-          <option name="showStatsInStatusBarByDefault" value="true" />
         </Profile>
       </list>
     </option>
-    <option name="version" value="2" />
   </component>
 </application>

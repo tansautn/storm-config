@@ -1,13 +1,9 @@
 <application>
   <component name="RainbowSettings">
-    <option name="applyColorsOfRoundForAllBrackets" value="true" />
-    <option name="cycleCountOnAllBrackets" value="true" />
-    <option name="doNOTRainbowifyBigFiles" value="false" />
-    <option name="doNOTRainbowifyBracketsWithoutContent" value="true" />
-    <option name="numberOfColors" value="8" />
+    <option name="enableRainbowVariablesBySemanticHighlighting" value="true" />
+    <option name="indentGuidesOptions" value="Only selected indent guide" />
     <option name="rainbowifyTagNameInXML" value="true" />
-    <option name="suppressBlackListCheck" value="true" />
-    <option name="useColorGenerator" value="true" />
-    <option name="version" value="6.26" />
+    <option name="suppressBigFileCheck" value="true" />
+    <option name="version" value="2024.2.6-241" />
   </component>
 </application>

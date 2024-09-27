@@ -14,8 +14,8 @@
         <entry key="REGION_COMMENT">
           <value>
             <list>
-              <option value="Region" />
               <option value="End" />
+              <option value="Region" />
             </list>
           </value>
         </entry>
@@ -24,17 +24,20 @@
             <list />
           </value>
         </entry>
+        <entry key="KEYWORD">
+          <value>
+            <list />
+          </value>
+        </entry>
         <entry key="METHOD_KEYWORD">
           <value>
             <list>
-              <option value="abstract" />
               <option value="public" />
+              <option value="abstract" />
             </list>
           </value>
         </entry>
       </map>
     </highlightTokenMap>
-    <plainTextFileHighlightEnabled>true</plainTextFileHighlightEnabled>
-    <regExpHighlightEnabled>true</regExpHighlightEnabled>
   </component>
 </application>

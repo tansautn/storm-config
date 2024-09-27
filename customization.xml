@@ -1,41 +1,42 @@
 <application>
   <component name="com.intellij.ide.ui.customization.CustomActionsSchema">
-    <group seperator="true" action_type="1" position="1">
+    <group value="CodeWithMeToolbarGroupNewUi" is_group="true" forse_popup="false" action_type="-1" position="3">
       <path value="root" />
       <path value="Main Toolbar" />
-      <path value="MainToolBarSettings" />
+      <path value="Right" />
       <option name="myInitialPosition" value="-1" />
     </group>
-    <group value="WebDeployment.Configuration" is_action="true" action_type="1" position="2">
+    <group value="WebDeployment.Configuration" is_action="true" action_type="1" position="0">
       <path value="root" />
       <path value="Main Toolbar" />
-      <path value="MainToolBarSettings" />
+      <path value="Right" />
       <option name="myInitialPosition" value="-1" />
     </group>
-    <group value="WebDeployment.ToggleAutoUpload" is_action="true" action_type="1" position="3">
+    <group value="WebDeployment.Options" is_action="true" action_type="1" position="1">
       <path value="root" />
       <path value="Main Toolbar" />
-      <path value="MainToolBarSettings" />
+      <path value="Right" />
       <option name="myInitialPosition" value="-1" />
     </group>
-    <group value="WebDeployment.Options" is_action="true" action_type="1" position="4">
+    <group value="WebDeployment.ToggleAutoUpload" is_action="true" action_type="1" position="2">
       <path value="root" />
       <path value="Main Toolbar" />
-      <path value="MainToolBarSettings" />
+      <path value="Right" />
       <option name="myInitialPosition" value="-1" />
     </group>
-    <group value="WebDeployment.BrowseServers" is_action="true" action_type="1" position="5">
+    <group value="WebDeployment.BrowseServers" is_action="true" action_type="1" position="3">
       <path value="root" />
       <path value="Main Toolbar" />
-      <path value="MainToolBarSettings" />
+      <path value="Right" />
       <option name="myInitialPosition" value="-1" />
     </group>
-    <group value="com.jetbrains.plugins.remotesdk.console.RunSshConsoleAction" is_action="true" action_type="1" position="6">
+    <group seperator="true" action_type="1" position="4">
       <path value="root" />
       <path value="Main Toolbar" />
-      <path value="MainToolBarSettings" />
+      <path value="Right" />
       <option name="myInitialPosition" value="-1" />
     </group>
+    <action id="PublishGroup" icon="jar:file:/C:/Program%20Files/JetBrains/PhpStorm%202024.1.2/lib/app-client.jar!/expui/toolbar/unknown.svg" />
     <action id="WebDeployment.Options" icon="D:/Onedrive/Pictures/icons/phpstorm/deployment_options.png" />
     <action id="WebDeployment.Configuration" icon="D:/Onedrive/Pictures/icons/phpstorm/deployment_config.png" />
     <action id="WebDeployment.ToggleAutoUpload" icon="D:/Onedrive/Pictures/icons/phpstorm/deployment_autoupload.png" />

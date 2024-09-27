@@ -1,5 +1,14 @@
-#if(${isMagebayProject})
-#parse("Magebay Full Header.php")
-#else
-#parse("New Header2.php")
+/**
+ * --------------------------------------------------------------------------
+ *
+ * --------------------------------------------------------------------------
+ * @PROJECT    : ${PROJECT_NAME}
+ * @AUTHOR     : Zuko <https://github.com/tansautn>
+ * @LINK       : https://www.zuko.pro/
+ * @FILE       :#if (${FILE_NAME}) ${FILE_NAME}
+#else ${NAME}.${EXT}
 #end
+ * @CREATED    : ${TIME} , ${DAY}/${MONTH_NAME_SHORT}/${YEAR}
+#if($VERSION) * @VERSION    : ${VERSION}
+#end
+ */

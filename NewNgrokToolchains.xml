@@ -1,0 +1,9 @@
+<application>
+  <component name="Ngrok Home">
+    <option name="knownToolchains">
+      <set>
+        <option value="D:/Z-Data/DevTools/laragon/bin/ngrok" />
+      </set>
+    </option>
+  </component>
+</application>

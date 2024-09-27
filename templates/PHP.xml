@@ -20,7 +20,6 @@
       <option name="CPT" value="false" />
       <option name="CSS" value="false" />
       <option name="CUCUMBER_FEATURE_FILE" value="false" />
-      <option name="ECMAScript6" value="false" />
       <option name="GENERAL_JSON_FILE" value="false" />
       <option name="GENERAL_YAML_FILE" value="false" />
       <option name="HTML" value="false" />
@@ -97,6 +96,33 @@
       <option name="PHP Statement" value="false" />
       <option name="PHP String Literal" value="false" />
       <option name="PHP Trait Member" value="false" />
+    </context>
+  </template>
+  <template name="dbl" value="\Debugbar::log($VAR$);" description="Insert Debugbar::log" toReformat="false" toShortenFQNames="true">
+    <variable name="VAR" expression="phpSuggestVariableName()" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="Angular" value="false" />
+      <option name="CSS" value="false" />
+      <option name="CUCUMBER_FEATURE_FILE" value="false" />
+      <option name="HTML" value="false" />
+      <option name="HTTP_CLIENT_ENVIRONMENT" value="false" />
+      <option name="JAVA_SCRIPT" value="false" />
+      <option name="JSON" value="false" />
+      <option name="JS_AND_TS_CONTEXT" value="false" />
+      <option name="LIQUID" value="false" />
+      <option name="OTHER" value="true" />
+      <option name="RCB_HIDDEN_CONTEXT" value="false" />
+      <option name="REQUEST" value="false" />
+      <option name="ROOT_PESTPHP" value="false" />
+      <option name="SHELL_SCRIPT" value="false" />
+      <option name="SQL" value="false" />
+      <option name="Twig" value="false" />
+      <option name="TypeScript" value="false" />
+      <option name="Vue" value="false" />
+      <option name="Writerside MD" value="false" />
+      <option name="Writerside XML" value="false" />
+      <option name="XML" value="false" />
+      <option name="powershell.context.file" value="false" />
     </context>
   </template>
 </templateSet>

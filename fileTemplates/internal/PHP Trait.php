@@ -6,6 +6,6 @@ namespace ${NAMESPACE};
 
 #end
 #parse("PHP Class Doc Comment.php")
-interface ${NAME} {
+trait ${NAME} {
 
 }

@@ -1,5 +1,8 @@
 <application>
   <component name="com.codeium.intellij.settings.AppSettingsState">
-    <option name="indexingMaxFileCount" value="60000" />
+    <option name="aggressiveLanguageServerShutdown" value="true" />
+    <option name="autoUpdateCodeium" value="false" />
+    <option name="showChatCommandHint" value="false" />
+    <option name="showCodeiumSelectionToolbar" value="false" />
   </component>
 </application>

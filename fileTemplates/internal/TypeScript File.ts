@@ -1,2 +1,1 @@
-#set($EXT = "ts")
-#parse("New Header.php")
+#parse("PHP File Header.php")
