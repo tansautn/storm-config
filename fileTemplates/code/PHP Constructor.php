@@ -1,9 +1,8 @@
 /**
- * ${CLASS_NAME} constructor.
+ * ${NAME} constructor.
+#if (${PARAM_DOC} != "" || ${THROWS_DOC} != "")
 ${PARAM_DOC}
 ${THROWS_DOC}
-*/
-public function __construct(${PARAM_LIST})
-{
-${BODY}
-}
+#end
+ */
+public function __construct(${PARAM_LIST}) {${BODY}}
