@@ -4,6 +4,8 @@
       <mapping pattern=".env .dev" type=".env file" />
       <mapping pattern="hosts" type="AUTO_DETECTED" />
       <mapping pattern="minitouch" type="AUTO_DETECTED" />
+      <removed_mapping ext="csv" type="CSV/TSV" />
+      <mapping ext="csv" type="MyNativeFile" />
       <mapping ext="list" type="PLAIN_TEXT" />
       <mapping ext="bak_haidn" type="PLAIN_TEXT" />
       <removed_mapping ext="conf" approved="true" type="SmartyConfig" />
