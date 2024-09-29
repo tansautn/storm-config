@@ -1,7 +1,7 @@
 <templateSet group="PHP Interfaces">
   <template name="lzdf" value="public function $NAME$(){&#10;    if(!$this-&gt;$PROPERTY$ instanceof $INSTANCE$){&#10;        $this-&gt;$PROPERTY$ = app()-&gt;make($INSTANCE$::class);&#10;    }&#10;    &#10;    return $this-&gt;$PROPERTY$;&#10;}" description="Lazy dependency injection function" toReformat="true" toShortenFQNames="true">
-    <variable name="NAME" expression="phpSuggestVariableName()" defaultValue="" alwaysStopAt="true" />
-    <variable name="PROPERTY" expression="phpSuggestVariableName()" defaultValue="" alwaysStopAt="false" />
+    <variable name="NAME" expression="phpSuggestFunctionParameter()" defaultValue="" alwaysStopAt="true" />
+    <variable name="PROPERTY" expression="phpSuggestVariableName()" defaultValue="${NAME}" alwaysStopAt="false" />
     <variable name="INSTANCE" expression="phpClassName()" defaultValue="" alwaysStopAt="true" />
     <context>
       <option name="PHP Class Member" value="true" />
