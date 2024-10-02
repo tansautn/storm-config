@@ -1,6 +1,9 @@
 <application>
   <component name="com.codeium.intellij.settings.AppSettingsState">
     <option name="autoUpdateCodeium" value="false" />
+    <option name="detectProxy" value="false" />
+    <option name="fileWatchMaxDirCount" value="5000000" />
+    <option name="indexingMaxFileCount" value="50000" />
     <option name="showChatCommandHint" value="false" />
     <option name="showCodeiumSelectionToolbar" value="false" />
   </component>
