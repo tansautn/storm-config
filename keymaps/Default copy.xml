@@ -151,6 +151,7 @@
   <action id="UsageGrouping.UsageType" />
   <action id="Vcs.EditSource" />
   <action id="Vcs.MoveChangedLinesToChangelist" />
+  <action id="Vcs.UpdateProject" />
   <action id="WD.UploadCurrentRemoteFileAction">
     <keyboard-shortcut first-keystroke="ctrl s" />
   </action>
