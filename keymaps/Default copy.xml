@@ -156,6 +156,9 @@
     <keyboard-shortcut first-keystroke="ctrl s" />
   </action>
   <action id="XDebugger.JumpToSource" />
+  <action id="com.codeium.intellij.command.CommandAction">
+    <keyboard-shortcut first-keystroke="ctrl back_slash" />
+  </action>
   <action id="io.nimbly.i18n.dictionary.DictionaryAction" />
   <action id="osmedile.intellij.stringmanip.PopupChoiceAction">
     <keyboard-shortcut first-keystroke="shift alt m" />
