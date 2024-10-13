@@ -21,6 +21,7 @@
         <option value="dpm" />
         <option value="dpq" />
         <option value="dsm" />
+        <option value="dump" />
         <option value="dvm" />
         <option value="error_log" />
         <option value="kpr" />
@@ -65,8 +66,8 @@
     </option>
     <option name="migratedIntoUserSpace" value="true" />
   </inspection_tool>
-  <inspection_tool class="PhpDocSignatureInspection" enabled="true" level="Missing PHP Doc" enabled_by_default="true" />
-  <inspection_tool class="PhpMissingDocCommentInspection" enabled="true" level="Missing PHP Doc" enabled_by_default="true">
+  <inspection_tool class="PhpDocSignatureInspection" enabled="true" level="WARNING" enabled_by_default="true" />
+  <inspection_tool class="PhpMissingDocCommentInspection" enabled="true" level="WARNING" enabled_by_default="true">
     <option name="CHECK_FIELD" value="true" />
   </inspection_tool>
   <inspection_tool class="ReturnTypeCanBeDeclaredInspection" enabled="true" level="WARNING" enabled_by_default="true" />
@@ -128,5 +129,5 @@
       </list>
     </option>
   </inspection_tool>
-  <inspection_tool class="TypeUnsafeComparisonInspection" enabled="false" level="WARNING" enabled_by_default="false" />
+  <inspection_tool class="t" enabled="false" level="WEAK WARNING" enabled_by_default="false" />
 </profile>
