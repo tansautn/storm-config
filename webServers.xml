@@ -45,6 +45,14 @@
         </fileTransfer>
         <option name="numberOfConnections" value="15" />
       </webServer>
+      <webServer id="24b4ba18-1e31-43a2-a91e-508b92c27ad3" name="knpt" url="https://zuko.pro/">
+        <fileTransfer rootFolder="/www/" accessType="SFTP" host="p.zuko.pro" port="6022" sshConfigId="dc18532c-ad36-4edb-b27b-8f9d28baded5" sshConfig="TW | Web" keyPair="true">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" connections="15" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+        <option name="numberOfConnections" value="15" />
+      </webServer>
     </option>
   </component>
 </application>
