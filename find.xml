@@ -1,10 +1,10 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="Open Files" />
-    <option name="defaultScopeName" value="Open Files" />
+    <option name="customScope" value="Directory '…\packages\zuko-syncro-sheet'" />
+    <option name="defaultScopeName" value="Directory '…\packages\zuko-syncro-sheet'" />
     <option name="searchOverloadedMethods" value="true" />
     <option name="SEARCH_OVERLOADED_METHODS" value="true" />
-    <option name="SEARCH_SCOPE" value="Open Files" />
+    <option name="SEARCH_SCOPE" value="Directory '…\packages\zuko-syncro-sheet'" />
     <mask>*.css</mask>
     <mask>*.html</mask>
     <mask>*.xml</mask>
