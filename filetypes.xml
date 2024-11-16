@@ -4,6 +4,7 @@
       <mapping pattern=".env .dev" type=".env file" />
       <mapping pattern="hosts" type="AUTO_DETECTED" />
       <mapping pattern="minitouch" type="AUTO_DETECTED" />
+      <mapping pattern=".prettierrc" type="JSON" />
       <mapping ext="list" type="PLAIN_TEXT" />
       <mapping ext="bak_haidn" type="PLAIN_TEXT" />
       <removed_mapping ext="conf" approved="true" type="SmartyConfig" />
