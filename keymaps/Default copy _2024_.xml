@@ -164,6 +164,7 @@
     <keyboard-shortcut first-keystroke="ctrl back_slash" />
   </action>
   <action id="io.nimbly.i18n.dictionary.DictionaryAction" />
+  <action id="org.i18nally.jetbrainsideplugin.actions.Action4" />
   <action id="osmedile.intellij.stringmanip.PopupChoiceAction">
     <keyboard-shortcut first-keystroke="shift alt m" />
   </action>
