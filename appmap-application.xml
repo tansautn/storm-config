@@ -1,0 +1,7 @@
+<application>
+  <component name="appmap-application">
+    <option name="enableTelemetry" value="false" />
+    <option name="firstStart" value="false" />
+    <option name="showFirstAppMapNotification" value="true" />
+  </component>
+</application>
