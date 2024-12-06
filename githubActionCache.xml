@@ -9,8 +9,10 @@
               <option name="metaData">
                 <map>
                   <entry key="downloadUrl" value="https://raw.githubusercontent.com/actions/cache/v1/action.yml" />
-                  <entry key="expiryTime" value="1733304726581" />
+                  <entry key="expiryTime" value="1734691403807" />
                   <entry key="githubUrl" value="https://github.com/actions/cache/tree/v1#readme" />
+                  <entry key="ignoredInputs" value="" />
+                  <entry key="ignoredOutputs" value="" />
                   <entry key="isAction" value="true" />
                   <entry key="isLocal" value="false" />
                   <entry key="isSuppressed" value="false" />
@@ -25,30 +27,18 @@
           <value>
             <GitHubAction>
               <option name="action" value="true" />
-              <option name="inputs">
-                <map>
-                  <entry key="key" value="r[true]  An explicit key for restoring and saving the cache" />
-                  <entry key="path" value="r[true]  A list of files, directories, and wildcard patterns to cache and restore" />
-                  <entry key="restore-keys" value="r[false]  An ordered list of keys to use for restoring the cache if no cache hit occurred for key" />
-                  <entry key="upload-chunk-size" value="r[false]  The chunk size used to split up large files during upload, in bytes" />
-                </map>
-              </option>
               <option name="metaData">
                 <map>
                   <entry key="downloadUrl" value="https://raw.githubusercontent.com/actions/cache/v2/action.yml" />
-                  <entry key="expiryTime" value="1733304726146" />
+                  <entry key="expiryTime" value="1734691403807" />
                   <entry key="githubUrl" value="https://github.com/actions/cache/tree/v2#readme" />
+                  <entry key="ignoredInputs" value="" />
+                  <entry key="ignoredOutputs" value="" />
                   <entry key="isAction" value="true" />
                   <entry key="isLocal" value="false" />
-                  <entry key="isResolved" value="true" />
                   <entry key="isSuppressed" value="false" />
                   <entry key="name" value="actions/cache" />
                   <entry key="usesValue" value="actions/cache@v2" />
-                </map>
-              </option>
-              <option name="outputs">
-                <map>
-                  <entry key="cache-hit" value=" A boolean value to indicate an exact match was found for the primary key" />
                 </map>
               </option>
             </GitHubAction>
@@ -58,33 +48,18 @@
           <value>
             <GitHubAction>
               <option name="action" value="true" />
-              <option name="inputs">
-                <map>
-                  <entry key="enableCrossOsArchive" value="r[false] def[false] An optional boolean when enabled, allows windows runners to save or restore caches that can be restored or saved respectively on other platforms" />
-                  <entry key="fail-on-cache-miss" value="r[false] def[false] Fail the workflow if cache entry is not found" />
-                  <entry key="key" value="r[true]  An explicit key for restoring and saving the cache" />
-                  <entry key="lookup-only" value="r[false] def[false] Check if a cache entry exists for the given input(s) (key, restore-keys) without downloading the cache" />
-                  <entry key="path" value="r[true]  A list of files, directories, and wildcard patterns to cache and restore" />
-                  <entry key="restore-keys" value="r[false]  An ordered list of keys to use for restoring stale cache if no cache hit occurred for key. Note `cache-hit` returns false in this case." />
-                  <entry key="upload-chunk-size" value="r[false]  The chunk size used to split up large files during upload, in bytes" />
-                </map>
-              </option>
               <option name="metaData">
                 <map>
                   <entry key="downloadUrl" value="https://raw.githubusercontent.com/actions/cache/v3/action.yml" />
-                  <entry key="expiryTime" value="1733304725569" />
+                  <entry key="expiryTime" value="1734691403807" />
                   <entry key="githubUrl" value="https://github.com/actions/cache/tree/v3#readme" />
+                  <entry key="ignoredInputs" value="" />
+                  <entry key="ignoredOutputs" value="" />
                   <entry key="isAction" value="true" />
                   <entry key="isLocal" value="false" />
-                  <entry key="isResolved" value="true" />
                   <entry key="isSuppressed" value="false" />
                   <entry key="name" value="actions/cache" />
                   <entry key="usesValue" value="actions/cache@v3" />
-                </map>
-              </option>
-              <option name="outputs">
-                <map>
-                  <entry key="cache-hit" value=" A boolean value to indicate an exact match was found for the primary key" />
                 </map>
               </option>
             </GitHubAction>
@@ -97,8 +72,10 @@
               <option name="metaData">
                 <map>
                   <entry key="downloadUrl" value="https://raw.githubusercontent.com/actions/cache_/v1/action.yml" />
-                  <entry key="expiryTime" value="1733304733338" />
+                  <entry key="expiryTime" value="1734691403802" />
                   <entry key="githubUrl" value="https://github.com/actions/cache_/tree/v1#readme" />
+                  <entry key="ignoredInputs" value="" />
+                  <entry key="ignoredOutputs" value="" />
                   <entry key="isAction" value="true" />
                   <entry key="isLocal" value="false" />
                   <entry key="isSuppressed" value="false" />
@@ -116,8 +93,10 @@
               <option name="metaData">
                 <map>
                   <entry key="downloadUrl" value="https://raw.githubusercontent.com/actions/cache_/v2/action.yml" />
-                  <entry key="expiryTime" value="1733304732937" />
+                  <entry key="expiryTime" value="1734691403805" />
                   <entry key="githubUrl" value="https://github.com/actions/cache_/tree/v2#readme" />
+                  <entry key="ignoredInputs" value="" />
+                  <entry key="ignoredOutputs" value="" />
                   <entry key="isAction" value="true" />
                   <entry key="isLocal" value="false" />
                   <entry key="isSuppressed" value="false" />
@@ -135,8 +114,10 @@
               <option name="metaData">
                 <map>
                   <entry key="downloadUrl" value="https://raw.githubusercontent.com/actions/cache_/v3/action.yml" />
-                  <entry key="expiryTime" value="1733304733836" />
+                  <entry key="expiryTime" value="1734691403805" />
                   <entry key="githubUrl" value="https://github.com/actions/cache_/tree/v3#readme" />
+                  <entry key="ignoredInputs" value="" />
+                  <entry key="ignoredOutputs" value="" />
                   <entry key="isAction" value="true" />
                   <entry key="isLocal" value="false" />
                   <entry key="isSuppressed" value="false" />
@@ -151,31 +132,15 @@
           <value>
             <GitHubAction>
               <option name="action" value="true" />
-              <option name="inputs">
-                <map>
-                  <entry key="clean" value="r[false] def[true] Whether to execute `git clean -ffdx &amp;&amp; git reset --hard HEAD` before fetching" />
-                  <entry key="fetch-depth" value="r[false] def[1] Number of commits to fetch. 0 indicates all history for all branches and tags." />
-                  <entry key="lfs" value="r[false] def[false] Whether to download Git-LFS files" />
-                  <entry key="path" value="r[false]  Relative path under $GITHUB_WORKSPACE to place the repository" />
-                  <entry key="persist-credentials" value="r[false] def[true] Whether to configure the token or SSH key with the local git config" />
-                  <entry key="ref" value="r[false] " />
-                  <entry key="repository" value="r[false] def[${{ github.repository }}] Repository name with owner. For example, actions/checkout" />
-                  <entry key="set-safe-directory" value="r[false] def[true] Add repository path as safe.directory for Git global config by running `git config --global --add safe.directory &lt;path&gt;`" />
-                  <entry key="ssh-key" value="r[false] " />
-                  <entry key="ssh-known-hosts" value="r[false] " />
-                  <entry key="ssh-strict" value="r[false] def[true]" />
-                  <entry key="submodules" value="r[false] def[false]" />
-                  <entry key="token" value="r[false] def[${{ github.token }}]" />
-                </map>
-              </option>
               <option name="metaData">
                 <map>
                   <entry key="downloadUrl" value="https://raw.githubusercontent.com/actions/checkout/v2/action.yml" />
-                  <entry key="expiryTime" value="1733304732939" />
+                  <entry key="expiryTime" value="1734691403807" />
                   <entry key="githubUrl" value="https://github.com/actions/checkout/tree/v2#readme" />
+                  <entry key="ignoredInputs" value="" />
+                  <entry key="ignoredOutputs" value="" />
                   <entry key="isAction" value="true" />
                   <entry key="isLocal" value="false" />
-                  <entry key="isResolved" value="true" />
                   <entry key="isSuppressed" value="false" />
                   <entry key="name" value="actions/checkout" />
                   <entry key="usesValue" value="actions/checkout@v2" />
@@ -209,37 +174,18 @@
           <value>
             <GitHubAction>
               <option name="action" value="true" />
-              <option name="inputs">
-                <map>
-                  <entry key="always-auth" value="r[false] def[false] Set always-auth in npmrc" />
-                  <entry key="architecture" value="r[false]  Target architecture for Node to use. Examples: x86, x64. Will use system architecture by default." />
-                  <entry key="cache" value="r[false]  Used to specify a package manager for caching in the default directory. Supported values: npm, yarn, pnpm" />
-                  <entry key="cache-dependency-path" value="r[false]  Used to specify the path to a dependency file: package-lock.json, yarn.lock, etc. Supports wildcards or a list of file names for caching multiple dependencies." />
-                  <entry key="check-latest" value="r[false] def[false] Set this option if you want the action to check for the latest available version that satisfies the version spec" />
-                  <entry key="node-version" value="r[false]  Version Spec of the version to use.  Examples: 12.x, 10.15.1, &gt;=10.15.0" />
-                  <entry key="node-version-file" value="r[false]  File containing the version Spec of the version to use.  Examples: .nvmrc, .node-version" />
-                  <entry key="registry-url" value="r[false]  Optional registry to set up for auth. Will set the registry in a project level .npmrc and .yarnrc file, and set up auth to read in from env.NODE_AUTH_TOKEN" />
-                  <entry key="scope" value="r[false]  Optional scope for authenticating against scoped registries" />
-                  <entry key="token" value="r[false] def[${{ github.token }}] Used to pull node distributions from node-versions.  Since there's a default, this is typically not supplied by the user." />
-                  <entry key="version" value="r[false]  Deprecated. Use node-version instead. Will not be supported after October 1, 2019" />
-                </map>
-              </option>
               <option name="metaData">
                 <map>
                   <entry key="downloadUrl" value="https://raw.githubusercontent.com/actions/setup-node/v2/action.yml" />
-                  <entry key="expiryTime" value="1733304732939" />
+                  <entry key="expiryTime" value="1734691403807" />
                   <entry key="githubUrl" value="https://github.com/actions/setup-node/tree/v2#readme" />
+                  <entry key="ignoredInputs" value="" />
+                  <entry key="ignoredOutputs" value="" />
                   <entry key="isAction" value="true" />
                   <entry key="isLocal" value="false" />
-                  <entry key="isResolved" value="true" />
                   <entry key="isSuppressed" value="false" />
                   <entry key="name" value="actions/setup-node" />
                   <entry key="usesValue" value="actions/setup-node@v2" />
-                </map>
-              </option>
-              <option name="outputs">
-                <map>
-                  <entry key="cache-hit" value=" A boolean value to indicate if a cache was hit" />
                 </map>
               </option>
             </GitHubAction>
@@ -252,7 +198,9 @@
               <option name="metaData">
                 <map>
                   <entry key="downloadUrl" value="docker://composer" />
-                  <entry key="expiryTime" value="1733304733343" />
+                  <entry key="expiryTime" value="1734691403807" />
+                  <entry key="ignoredInputs" value="" />
+                  <entry key="ignoredOutputs" value="" />
                   <entry key="isAction" value="true" />
                   <entry key="isLocal" value="true" />
                   <entry key="isSuppressed" value="false" />
@@ -270,7 +218,9 @@
               <option name="metaData">
                 <map>
                   <entry key="downloadUrl" value="docker://nyholm/roave-bc-check-ga" />
-                  <entry key="expiryTime" value="1733304733344" />
+                  <entry key="expiryTime" value="1734691403807" />
+                  <entry key="ignoredInputs" value="" />
+                  <entry key="ignoredOutputs" value="" />
                   <entry key="isAction" value="true" />
                   <entry key="isLocal" value="true" />
                   <entry key="isSuppressed" value="false" />
@@ -288,11 +238,12 @@
               <option name="metaData">
                 <map>
                   <entry key="downloadUrl" value="https://raw.githubusercontent.com/phpDocumentor/coding-standard/latest/action.yml" />
-                  <entry key="expiryTime" value="1733304733344" />
+                  <entry key="expiryTime" value="1734691403805" />
                   <entry key="githubUrl" value="https://github.com/phpDocumentor/coding-standard/tree/latest#readme" />
+                  <entry key="ignoredInputs" value="" />
+                  <entry key="ignoredOutputs" value="" />
                   <entry key="isAction" value="true" />
                   <entry key="isLocal" value="false" />
-                  <entry key="isResolved" value="true" />
                   <entry key="isSuppressed" value="false" />
                   <entry key="name" value="phpDocumentor/coding-standard" />
                   <entry key="usesValue" value="phpDocumentor/coding-standard@latest" />
@@ -308,11 +259,12 @@
               <option name="metaData">
                 <map>
                   <entry key="downloadUrl" value="https://raw.githubusercontent.com/phpDocumentor/phpstan-ga/latest/action.yml" />
-                  <entry key="expiryTime" value="1733304733344" />
+                  <entry key="expiryTime" value="1734691403807" />
                   <entry key="githubUrl" value="https://github.com/phpDocumentor/phpstan-ga/tree/latest#readme" />
+                  <entry key="ignoredInputs" value="" />
+                  <entry key="ignoredOutputs" value="" />
                   <entry key="isAction" value="true" />
                   <entry key="isLocal" value="false" />
-                  <entry key="isResolved" value="true" />
                   <entry key="isSuppressed" value="false" />
                   <entry key="name" value="phpDocumentor/phpstan-ga" />
                   <entry key="usesValue" value="phpDocumentor/phpstan-ga@latest" />
@@ -325,33 +277,18 @@
           <value>
             <GitHubAction>
               <option name="action" value="true" />
-              <option name="inputs">
-                <map>
-                  <entry key="coverage" value="r[false]  Setup code coverage driver." />
-                  <entry key="extensions" value="r[false]  Setup PHP extensions." />
-                  <entry key="ini-file" value="r[false] def[production] Set base ini file." />
-                  <entry key="ini-values" value="r[false]  Add values to php.ini." />
-                  <entry key="php-version" value="r[false]  Setup PHP version." />
-                  <entry key="php-version-file" value="r[false]  Setup PHP version from a file." />
-                  <entry key="tools" value="r[false]  Setup popular tools globally." />
-                </map>
-              </option>
               <option name="metaData">
                 <map>
                   <entry key="downloadUrl" value="https://raw.githubusercontent.com/shivammathur/setup-php/v2/action.yml" />
-                  <entry key="expiryTime" value="1733304732939" />
+                  <entry key="expiryTime" value="1734691403805" />
                   <entry key="githubUrl" value="https://github.com/shivammathur/setup-php/tree/v2#readme" />
+                  <entry key="ignoredInputs" value="" />
+                  <entry key="ignoredOutputs" value="" />
                   <entry key="isAction" value="true" />
                   <entry key="isLocal" value="false" />
-                  <entry key="isResolved" value="true" />
                   <entry key="isSuppressed" value="false" />
                   <entry key="name" value="shivammathur/setup-php" />
                   <entry key="usesValue" value="shivammathur/setup-php@v2" />
-                </map>
-              </option>
-              <option name="outputs">
-                <map>
-                  <entry key="php-version" value=" PHP version in semver format" />
                 </map>
               </option>
             </GitHubAction>
@@ -361,45 +298,18 @@
           <value>
             <GitHubAction>
               <option name="action" value="true" />
-              <option name="inputs">
-                <map>
-                  <entry key="add_options" value="r[false]  Add options (eg. -u)" />
-                  <entry key="branch" value="r[false] def[${{ github.head_ref }}] Git branch name, where changes should be pushed too. Required if Action is used on the `pull_request` event" />
-                  <entry key="commit_author" value="r[false] def[${{ github.actor }} &lt;${{ github.actor }}@users.noreply.github.com&gt;] Value used for the commit author. Defaults to the username of whoever triggered this workflow run." />
-                  <entry key="commit_message" value="r[false] def[Apply automatic changes] Commit message" />
-                  <entry key="commit_options" value="r[false]  Commit options (eg. --no-verify)" />
-                  <entry key="commit_user_email" value="r[false] def[41898282+github-actions[bot]@users.noreply.github.com] Email address used for the commit user" />
-                  <entry key="commit_user_name" value="r[false] def[github-actions[bot]] Name used for the commit user" />
-                  <entry key="create_branch" value="r[false] def[false] Create new branch with the name of `branch`-input in local and remote repository, if it doesn't exist yet." />
-                  <entry key="disable_globbing" value="r[false] def[false] Stop the shell from expanding filenames (https://www.gnu.org/software/bash/manual/html_node/Filename-Expansion.html)" />
-                  <entry key="file_pattern" value="r[false] def[.] File pattern used for `git add`. For example `src/*.js`" />
-                  <entry key="internal_git_binary" value="r[false] def[git] Internal use only! Path to git binary used to check if git is available. (Don't change this!)" />
-                  <entry key="push_options" value="r[false]  Push options (eg. --force)" />
-                  <entry key="repository" value="r[false] def[.] Local file path to the git repository. Defaults to the current directory (`.`)" />
-                  <entry key="skip_checkout" value="r[false] def[false] Skip the call to git-checkout." />
-                  <entry key="skip_dirty_check" value="r[false] def[false] Skip the check if the git repository is dirty and always try to create a commit." />
-                  <entry key="skip_fetch" value="r[false] def[false] Skip the call to git-fetch." />
-                  <entry key="status_options" value="r[false]  Status options (eg. --untracked-files=no)" />
-                  <entry key="tagging_message" value="r[false]  Message used to create a new git tag with the commit. Keep this empty, if no tag should be created." />
-                </map>
-              </option>
               <option name="metaData">
                 <map>
                   <entry key="downloadUrl" value="https://raw.githubusercontent.com/stefanzweifel/git-auto-commit-action/v4/action.yml" />
-                  <entry key="expiryTime" value="1733304732939" />
+                  <entry key="expiryTime" value="1734691403805" />
                   <entry key="githubUrl" value="https://github.com/stefanzweifel/git-auto-commit-action/tree/v4#readme" />
+                  <entry key="ignoredInputs" value="" />
+                  <entry key="ignoredOutputs" value="" />
                   <entry key="isAction" value="true" />
                   <entry key="isLocal" value="false" />
-                  <entry key="isResolved" value="true" />
                   <entry key="isSuppressed" value="false" />
                   <entry key="name" value="stefanzweifel/git-auto-commit-action" />
                   <entry key="usesValue" value="stefanzweifel/git-auto-commit-action@v4" />
-                </map>
-              </option>
-              <option name="outputs">
-                <map>
-                  <entry key="changes_detected" value=" Value is &quot;true&quot;, if the repository was dirty and file changes have been detected. Value is &quot;false&quot;, if no changes have been detected." />
-                  <entry key="commit_hash" value=" Full hash of the created commit. Only present if the &quot;changes_detected&quot; output is &quot;true&quot;." />
                 </map>
               </option>
             </GitHubAction>
