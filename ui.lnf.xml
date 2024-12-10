@@ -16,8 +16,8 @@
     <option name="SHOW_TOOL_WINDOW_NAMES" value="true" />
     <option name="SHOW_TOOL_WINDOW_NUMBERS" value="true" />
     <option name="showTreeIndentGuides" value="true" />
-    <option name="TOOL_WINDOW_LEFT_SIDE_CUSTOM_WIDTH" value="40" />
-    <option name="TOOL_WINDOW_RIGHT_SIDE_CUSTOM_WIDTH" value="40" />
+    <option name="TOOL_WINDOW_LEFT_SIDE_CUSTOM_WIDTH" value="44" />
+    <option name="TOOL_WINDOW_RIGHT_SIDE_CUSTOM_WIDTH" value="44" />
     <option name="UI_DENSITY" value="COMPACT" />
     <option name="CONTRAST_SCROLLBARS" value="true" />
     <option name="USE_SMALL_LABELS_ON_TABS" value="true" />
