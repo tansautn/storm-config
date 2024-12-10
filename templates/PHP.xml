@@ -125,4 +125,16 @@
       <option name="powershell.context.file" value="false" />
     </context>
   </template>
+  <template name="trace" value="echo '&lt;pre&gt;';&#10;var_dump(debug_backtrace($FLAGS$));&#10;echo '&lt;/pre&gt;';&#10;$END$" description="debug_backtrace" toReformat="true" toShortenFQNames="true">
+    <variable name="FLAGS" expression="" defaultValue="~1" alwaysStopAt="true" />
+    <context>
+      <option name="PHP" value="true" />
+    </context>
+  </template>
+  <template name="trac" value="echo '&lt;pre&gt;';&#10;dump(debug_backtrace($FLAGS$));&#10;echo '&lt;/pre&gt;';&#10;$END$" description="debug_backtrace using dump" toReformat="true" toShortenFQNames="true">
+    <variable name="FLAGS" expression="" defaultValue="~1" alwaysStopAt="true" />
+    <context>
+      <option name="PHP" value="true" />
+    </context>
+  </template>
 </templateSet>
