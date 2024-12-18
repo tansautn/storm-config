@@ -156,7 +156,7 @@
               <option name="metaData">
                 <map>
                   <entry key="downloadUrl" value="https://raw.githubusercontent.com/actions/checkout/v3/action.yml" />
-                  <entry key="expiryTime" value="1733934797396" />
+                  <entry key="expiryTime" value="1735718513928" />
                   <entry key="githubUrl" value="https://github.com/actions/checkout/tree/v3#readme" />
                   <entry key="ignoredInputs" value="" />
                   <entry key="ignoredOutputs" value="" />
