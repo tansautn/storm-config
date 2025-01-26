@@ -2,16 +2,19 @@
   <template name="cls" value="console.log($END$);" description="Console log this" toReformat="true" toShortenFQNames="true">
     <context>
       <option name="JAVA_SCRIPT" value="true" />
+      <option name="TypeScript" value="true" />
     </context>
   </template>
   <template name="cli" value="console.info($END$);" description="Console info this" toReformat="true" toShortenFQNames="true">
     <context>
       <option name="JAVA_SCRIPT" value="true" />
+      <option name="TypeScript" value="true" />
     </context>
   </template>
   <template name="clw" value="console.warn($END$);" description="Console warn this" toReformat="true" toShortenFQNames="true">
     <context>
       <option name="JAVA_SCRIPT" value="true" />
+      <option name="TypeScript" value="true" />
     </context>
   </template>
   <template name="iffe" value="(function($PARAMS$) {&#10;    $END$&#10;})($PARAMS$);&#10;" description="Immediately-invoked Function Expressions (ES5)" toReformat="false" toShortenFQNames="true">
@@ -33,12 +36,14 @@
   <template name="cle" value="console.error($END$);" description="Console error this" toReformat="true" toShortenFQNames="true">
     <context>
       <option name="JAVA_SCRIPT" value="true" />
+      <option name="TypeScript" value="true" />
     </context>
   </template>
   <template name="suj" value="$method$ = (function (_super) {&#10;    return function () {&#10;      console.log('$method$ orginal called with -- ', arguments[0]);&#10;      $END$&#10;      return _super.apply(this, arguments);&#10;    };&#10;  })($method$);" description="Super method js" toReformat="true" toShortenFQNames="true">
     <variable name="method" expression="jsSuggestVariableName()" defaultValue="" alwaysStopAt="true" />
     <context>
       <option name="JAVA_SCRIPT" value="true" />
+      <option name="TypeScript" value="true" />
     </context>
   </template>
 </templateSet>

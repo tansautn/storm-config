@@ -51,6 +51,7 @@
     <context>
       <option name="JAVA_SCRIPT" value="true" />
       <option name="PHP Comment" value="true" />
+      <option name="TypeScript" value="true" />
     </context>
   </template>
   <template name="lzdi" value="    if(!$this-&gt;$PROPERTY$ instanceof $INSTANCE$){&#10;        $this-&gt;$PROPERTY$ = app()-&gt;make($INSTANCE$::class);&#10;    }&#10;    $END$&#10;    return $this-&gt;$PROPERTY$;" description="Lazy dependency injection" toReformat="true" toShortenFQNames="true">

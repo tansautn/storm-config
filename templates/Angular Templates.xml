@@ -6,6 +6,7 @@
     <variable name="this" expression="enum(&quot;ctrl&quot;, &quot;_this&quot;, &quot;vm&quot;)" defaultValue="" alwaysStopAt="true" />
     <context>
       <option name="JS_STATEMENT" value="true" />
+      <option name="TS_STATEMENT" value="true" />
     </context>
   </template>
   <template name="fngcpn" value="(function(angular){&#10;    &quot;use strict&quot;;&#10;    angular.module('$moduleName$')&#10;        .component('$componentName$Component', {&#10;            templateUrl : './views/components/$tplUrl$.component.tpl.html',&#10;            controller : $ctrl$,&#10;            bindings : {$bind$}&#10;        });&#10;    &#10;    function $ctrl$($scope){&#10;        $END$&#10;    }&#10;    &#10;})(angular);" description="Add a module component wrapped in an IIFE" toReformat="false" toShortenFQNames="true" deactivated="true">
@@ -16,6 +17,7 @@
     <variable name="bind" expression="enum(...)" defaultValue="" alwaysStopAt="true" />
     <context>
       <option name="JS_STATEMENT" value="true" />
+      <option name="TS_STATEMENT" value="true" />
     </context>
   </template>
   <template name="@controller iife" value="(function(){&#10;    &quot;use strict&quot;;&#10;    angular.module('$moduleName$')&#10;        .controller('$controllerName$Controller',['$scope', $controllerNameCapitilized$Controller]);&#10;    function $controllerNameCapitilized$Controller($scope){&#10;        var $this$ = this;&#10;        $END$&#10;    }&#10;    &#10;})();" description="Add a controller to a module wrapped in an IIFE" toReformat="false" toShortenFQNames="true" deactivated="true">
