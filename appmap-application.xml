@@ -1,6 +1,7 @@
 <application>
   <component name="appmap-application">
     <option name="apiKey" value="dGFuc2F1dG5AZ21haWwuY29tOmQzNjQyNWY4LTAyNDQtNGNhYi1iZWU0LWUzYTczMGUzODgzNg" />
+    <option name="copilotIntegrationDetected" value="true" />
     <option name="enableTelemetry" value="false" />
     <option name="firstStart" value="false" />
     <option name="showFirstAppMapNotification" value="true" />
