@@ -1,0 +1,9 @@
+<application>
+  <component name="LaravelIdea.CodeGeneration">
+    <option name="generationStringSettings">
+      <map>
+        <entry key="controller:template" value="${MODEL_NAME}ApiController" />
+      </map>
+    </option>
+  </component>
+</application>
