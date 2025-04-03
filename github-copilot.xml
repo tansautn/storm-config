@@ -7,6 +7,7 @@
       </map>
     </languageAllowList>
     <option name="showIdeCompletions" value="true" />
+    <option name="checkForUpdate" value="false" />
     <option name="chatNaturalLanguage" value="English" />
   </component>
 </application>
