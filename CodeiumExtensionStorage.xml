@@ -1,7 +1,7 @@
 <application>
   <component name="com.codeium.intellij.utilities.ExtensionStorage">
     <option name="installationId" value="0e62445d-45ce-41cd-9481-79e4bab3b0b8" />
-    <option name="lastChangelogVersionShown" value="1.20" />
+    <option name="lastChangelogVersionShown" value="2.0.0" />
     <option name="loggedFirstInstall" value="true" />
     <option name="sessionId" value="a07d8068-2184-406b-a684-580962f065cd" />
   </component>
