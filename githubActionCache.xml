@@ -177,7 +177,7 @@
               <option name="metaData">
                 <map>
                   <entry key="downloadUrl" value="https://raw.githubusercontent.com/actions/checkout/v4/action.yml" />
-                  <entry key="expiryTime" value="1747664132939" />
+                  <entry key="expiryTime" value="1748877193128" />
                   <entry key="githubUrl" value="https://github.com/actions/checkout/tree/v4#readme" />
                   <entry key="ignoredInputs" value="" />
                   <entry key="ignoredOutputs" value="" />
@@ -343,7 +343,7 @@
               <option name="metaData">
                 <map>
                   <entry key="downloadUrl" value="https://raw.githubusercontent.com/stefanzweifel/git-auto-commit-action/v5/action.yml" />
-                  <entry key="expiryTime" value="1747664132937" />
+                  <entry key="expiryTime" value="1748877193127" />
                   <entry key="githubUrl" value="https://github.com/stefanzweifel/git-auto-commit-action/tree/v5#readme" />
                   <entry key="ignoredInputs" value="" />
                   <entry key="ignoredOutputs" value="" />
@@ -364,7 +364,7 @@
               <option name="metaData">
                 <map>
                   <entry key="downloadUrl" value="https://raw.githubusercontent.com/tighten/duster-action/v3/action.yml" />
-                  <entry key="expiryTime" value="1747664132939" />
+                  <entry key="expiryTime" value="1748877193128" />
                   <entry key="githubUrl" value="https://github.com/tighten/duster-action/tree/v3#readme" />
                   <entry key="ignoredInputs" value="" />
                   <entry key="ignoredOutputs" value="" />
