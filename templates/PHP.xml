@@ -138,4 +138,9 @@
       <option name="PHP" value="true" />
     </context>
   </template>
+  <template name="ecli" value="if(PHP_SAPI == 'cli'){&#10;    echo '$END$';&#10;}" description="echo when CLI SAPI" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="PHP" value="true" />
+    </context>
+  </template>
 </templateSet>
