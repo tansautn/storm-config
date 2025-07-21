@@ -1,0 +1,21 @@
+<application>
+  <component name="ProjectJdkTable">
+    <jdk version="2">
+      <name value="AutoHotkey v2.0.9" />
+      <type value="AutoHotkeySDK" />
+      <version value="2.0.9" />
+      <homePath value="C:/Program Files/AutoHotkey/v2.0.9" />
+      <roots>
+        <classPath>
+          <root type="composite" />
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional>
+        <option name="exeName" value="AutoHotkey64.exe" />
+      </additional>
+    </jdk>
+  </component>
+</application>
