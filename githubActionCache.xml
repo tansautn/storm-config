@@ -298,33 +298,18 @@
           <value>
             <GitHubAction>
               <option name="action" value="true" />
-              <option name="inputs">
-                <map>
-                  <entry key="coverage" value="r[false]  Setup code coverage driver." />
-                  <entry key="extensions" value="r[false]  Setup PHP extensions." />
-                  <entry key="ini-file" value="r[false] def[production] Set base ini file." />
-                  <entry key="ini-values" value="r[false]  Add values to php.ini." />
-                  <entry key="php-version" value="r[false]  Setup PHP version." />
-                  <entry key="php-version-file" value="r[false]  Setup PHP version from a file." />
-                  <entry key="tools" value="r[false]  Setup popular tools globally." />
-                </map>
-              </option>
               <option name="metaData">
                 <map>
                   <entry key="downloadUrl" value="https://raw.githubusercontent.com/shivammathur/setup-php/0f7f1d08e3e32076e51cae65eb0b0c871405b16e/action.yml" />
-                  <entry key="expiryTime" value="1754062207211" />
+                  <entry key="expiryTime" value="1755273586890" />
                   <entry key="githubUrl" value="https://github.com/shivammathur/setup-php/tree/0f7f1d08e3e32076e51cae65eb0b0c871405b16e#readme" />
+                  <entry key="ignoredInputs" value="" />
+                  <entry key="ignoredOutputs" value="" />
                   <entry key="isAction" value="true" />
                   <entry key="isLocal" value="false" />
-                  <entry key="isResolved" value="true" />
                   <entry key="isSuppressed" value="false" />
                   <entry key="name" value="shivammathur/setup-php" />
                   <entry key="usesValue" value="shivammathur/setup-php@0f7f1d08e3e32076e51cae65eb0b0c871405b16e" />
-                </map>
-              </option>
-              <option name="outputs">
-                <map>
-                  <entry key="php-version" value=" PHP version in semver format" />
                 </map>
               </option>
             </GitHubAction>
