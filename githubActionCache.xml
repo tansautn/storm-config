@@ -247,6 +247,15 @@
           <value>
             <GitHubAction>
               <option name="action" value="true" />
+              <option name="inputs">
+                <map>
+                  <entry key="alert-lookup" value="r[false]  If true, then populate the `alert-state`, `ghsa-id` and `cvss` outputs" />
+                  <entry key="compat-lookup" value="r[false]  If true, then populate the `compatibility-score` output" />
+                  <entry key="github-token" value="r[false] def[${{ github.token }}] The GITHUB_TOKEN secret" />
+                  <entry key="skip-commit-verification" value="r[false] def[false] If true, the action will not expect Dependabot commits to be verified. This should be set as `true` in GHES environments" />
+                  <entry key="skip-verification" value="r[false] def[false] If true, the action will not validate the user or the commit verification status" />
+                </map>
+              </option>
               <option name="metaData">
                 <map>
                   <entry key="downloadUrl" value="https://raw.githubusercontent.com/dependabot/fetch-metadata/v2.3.0/action.yml" />
@@ -254,9 +263,29 @@
                   <entry key="githubUrl" value="https://github.com/dependabot/fetch-metadata/tree/v2.3.0#readme" />
                   <entry key="isAction" value="true" />
                   <entry key="isLocal" value="false" />
+                  <entry key="isResolved" value="true" />
                   <entry key="isSuppressed" value="false" />
                   <entry key="name" value="dependabot/fetch-metadata" />
                   <entry key="usesValue" value="dependabot/fetch-metadata@v2.3.0" />
+                </map>
+              </option>
+              <option name="outputs">
+                <map>
+                  <entry key="alert-state" value=" If this PR is associated with a security alert and `alert-lookup` is `true`, this contains the current state of that alert (OPEN, FIXED or DISMISSED)." />
+                  <entry key="compatibility-score" value=" If this PR has a known compatibility score and `compat-lookup` is `true`, this contains the compatibility score (otherwise it contains 0)." />
+                  <entry key="cvss" value=" If this PR is associated with a security alert and `alert-lookup` is `true`, this contains the CVSS value of that alert (otherwise it contains 0)." />
+                  <entry key="dependency-group" value=" The dependency group that the PR is associated with (otherwise it is an empty string)." />
+                  <entry key="dependency-names" value=" A comma-separated list of all package names updated." />
+                  <entry key="dependency-type" value=" The type of dependency has determined this PR to be, e.g. &quot;direct:production&quot;." />
+                  <entry key="directory" value=" The `directory` configuration that was used by dependabot for this updated Dependency." />
+                  <entry key="ghsa-id" value=" If this PR is associated with a security alert and `alert-lookup` is `true`, this contains the GHSA-ID of that alert." />
+                  <entry key="maintainer-changes" value=" Whether or not the the body of this PR contains the phrase &quot;Maintainer changes&quot; which is an indicator of whether or not any maintainers have changed." />
+                  <entry key="new-version" value=" The version that this PR updates the dependency to." />
+                  <entry key="package-ecosystem" value=" The `package-ecosystem` configuration that was used by dependabot for this updated Dependency." />
+                  <entry key="previous-version" value=" The version that this PR updates the dependency from." />
+                  <entry key="target-branch" value=" The `target-branch` configuration that was used by dependabot for this updated Dependency." />
+                  <entry key="update-type" value=" The highest semver change being made by this PR, e.g. &quot;version-update:semver-major&quot;" />
+                  <entry key="updated-dependencies-json" value=" A JSON string containing the full information about each updated Dependency." />
                 </map>
               </option>
             </GitHubAction>
