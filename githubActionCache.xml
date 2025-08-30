@@ -177,7 +177,7 @@
               <option name="metaData">
                 <map>
                   <entry key="downloadUrl" value="https://raw.githubusercontent.com/actions/checkout/v4/action.yml" />
-                  <entry key="expiryTime" value="1756542855664" />
+                  <entry key="expiryTime" value="1757762524855" />
                   <entry key="githubUrl" value="https://github.com/actions/checkout/tree/v4#readme" />
                   <entry key="ignoredInputs" value="" />
                   <entry key="ignoredOutputs" value="" />
@@ -393,7 +393,7 @@
               <option name="metaData">
                 <map>
                   <entry key="downloadUrl" value="https://raw.githubusercontent.com/shivammathur/setup-php/0f7f1d08e3e32076e51cae65eb0b0c871405b16e/action.yml" />
-                  <entry key="expiryTime" value="1756542855664" />
+                  <entry key="expiryTime" value="1757762524853" />
                   <entry key="githubUrl" value="https://github.com/shivammathur/setup-php/tree/0f7f1d08e3e32076e51cae65eb0b0c871405b16e#readme" />
                   <entry key="ignoredInputs" value="" />
                   <entry key="ignoredOutputs" value="" />
@@ -477,7 +477,7 @@
               <option name="metaData">
                 <map>
                   <entry key="downloadUrl" value="https://raw.githubusercontent.com/stefanzweifel/git-auto-commit-action/v5/action.yml" />
-                  <entry key="expiryTime" value="1756542855663" />
+                  <entry key="expiryTime" value="1757762524855" />
                   <entry key="githubUrl" value="https://github.com/stefanzweifel/git-auto-commit-action/tree/v5#readme" />
                   <entry key="ignoredInputs" value="" />
                   <entry key="ignoredOutputs" value="" />
@@ -550,13 +550,12 @@
               <option name="metaData">
                 <map>
                   <entry key="downloadUrl" value="https://raw.githubusercontent.com/tighten/duster-action/v3/action.yml" />
-                  <entry key="expiryTime" value="1756542855664" />
+                  <entry key="expiryTime" value="1757762524855" />
                   <entry key="githubUrl" value="https://github.com/tighten/duster-action/tree/v3#readme" />
                   <entry key="ignoredInputs" value="args" />
                   <entry key="ignoredOutputs" value="" />
                   <entry key="isAction" value="true" />
                   <entry key="isLocal" value="false" />
-                  <entry key="isResolved" value="true" />
                   <entry key="isSuppressed" value="false" />
                   <entry key="name" value="tighten/duster-action" />
                   <entry key="usesValue" value="tighten/duster-action@v3" />
