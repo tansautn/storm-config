@@ -1,5 +1,7 @@
 <application>
   <component name="com.codeium.intellij.settings.AppSettingsState">
+    <option name="aggressiveLanguageServerShutdown" value="true" />
+    <option name="allowCascadeAccessGitignoreFiles" value="true" />
     <option name="autoUpdateCodeium" value="false" />
     <option name="cascadeOnboardingCompleted" value="true" />
     <option name="detectProxy" value="false" />
