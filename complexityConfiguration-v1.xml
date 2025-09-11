@@ -1,17 +1,18 @@
 <application>
   <component name="BhComplexityConfiguration">
-    <complexityCalculationEnabled>true</complexityCalculationEnabled>
+    <complexityCalculationEnabled>false</complexityCalculationEnabled>
+    <gutterIconEnabled>false</gutterIconEnabled>
     <displayComplexityThreshold>1</displayComplexityThreshold>
     <highComplexityThreshold>15</highComplexityThreshold>
     <mediumComplexityThreshold>9</mediumComplexityThreshold>
     <inlayHintPosition>TOP</inlayHintPosition>
-    <iconInHintEnabled>true</iconInHintEnabled>
-    <textInHintEnabled>true</textInHintEnabled>
+    <iconInHintEnabled>false</iconInHintEnabled>
+    <textInHintEnabled>false</textInHintEnabled>
     <lowComplexityDescription>low complexity ({ratio}%)</lowComplexityDescription>
     <mediumComplexityDescription>medium complexity ({ratio}%)</mediumComplexityDescription>
     <highComplexityDescription>high complexity ({ratio}%)</highComplexityDescription>
-    <lowComplexityBackgroundColor>0x49544a</lowComplexityBackgroundColor>
-    <mediumComplexityBackgroundColor>0x6E6953</mediumComplexityBackgroundColor>
-    <highComplexityBackgroundColor>0x6e535b</highComplexityBackgroundColor>
+    <lowComplexityBackgroundColor>49544a</lowComplexityBackgroundColor>
+    <mediumComplexityBackgroundColor>6e6953</mediumComplexityBackgroundColor>
+    <highComplexityBackgroundColor>6e535b</highComplexityBackgroundColor>
   </component>
 </application>
