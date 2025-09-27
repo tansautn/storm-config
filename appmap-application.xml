@@ -4,6 +4,7 @@
     <option name="copilotIntegrationDetected" value="true" />
     <option name="enableTelemetry" value="false" />
     <option name="firstStart" value="false" />
+    <option name="selectedAppMapModel" value="Copilot:claude-3.5-sonnet" />
     <option name="showFirstAppMapNotification" value="true" />
   </component>
 </application>
