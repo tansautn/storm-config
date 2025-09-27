@@ -378,6 +378,25 @@
             </GitHubAction>
           </value>
         </entry>
+        <entry key="shivammathur/setup-php@bf6b4fbd49ca58e4608c9c89fba0b8d90bd2a39f">
+          <value>
+            <GitHubAction>
+              <option name="action" value="true" />
+              <option name="metaData">
+                <map>
+                  <entry key="downloadUrl" value="https://raw.githubusercontent.com/shivammathur/setup-php/bf6b4fbd49ca58e4608c9c89fba0b8d90bd2a39f/action.yml" />
+                  <entry key="expiryTime" value="1760208568957" />
+                  <entry key="githubUrl" value="https://github.com/shivammathur/setup-php/tree/bf6b4fbd49ca58e4608c9c89fba0b8d90bd2a39f#readme" />
+                  <entry key="isAction" value="true" />
+                  <entry key="isLocal" value="false" />
+                  <entry key="isSuppressed" value="false" />
+                  <entry key="name" value="shivammathur/setup-php" />
+                  <entry key="usesValue" value="shivammathur/setup-php@bf6b4fbd49ca58e4608c9c89fba0b8d90bd2a39f" />
+                </map>
+              </option>
+            </GitHubAction>
+          </value>
+        </entry>
         <entry key="shivammathur/setup-php@ccf2c627fe61b1b4d924adfcbd19d661a18133a0">
           <value>
             <GitHubAction>
