@@ -1,5 +1,10 @@
 <application>
   <component name="ParameterNameHintsSettings">
+    <blacklists>
+      <blacklist language="PHP">
+        <added pattern="\Illuminate\Database\Schema\Builder.table(table,callback)" />
+      </blacklist>
+    </blacklists>
     <option id="sql.show.column.names.in.insert.values" value="true" />
     <option id="php.show.names.for.all.args" value="true" />
     <option id="sql.show.column.names.in.select" value="true" />

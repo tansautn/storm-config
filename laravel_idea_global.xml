@@ -5,5 +5,10 @@
         <entry key="controller:template" value="${MODEL_NAME}ApiController" />
       </map>
     </option>
+    <option name="newModel">
+      <NewModelSettings>
+        <option name="constrainedRelations" value="true" />
+      </NewModelSettings>
+    </option>
   </component>
 </application>
