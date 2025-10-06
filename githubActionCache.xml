@@ -271,7 +271,7 @@
               <option name="metaData">
                 <map>
                   <entry key="downloadUrl" value="https://raw.githubusercontent.com/dependabot/fetch-metadata/v2.3.0/action.yml" />
-                  <entry key="expiryTime" value="1759762798810" />
+                  <entry key="expiryTime" value="1760974024022" />
                   <entry key="githubUrl" value="https://github.com/dependabot/fetch-metadata/tree/v2.3.0#readme" />
                   <entry key="ignoredInputs" value="" />
                   <entry key="ignoredOutputs" value="" />
