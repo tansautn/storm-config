@@ -21,6 +21,26 @@
           </option>
         </PlaceSettings>
       </entry>
+      <entry key="ShelveView">
+        <PlaceSettings>
+          <option name="DIFF_TOOLS_ORDER">
+            <list>
+              <option value="com.intellij.openapi.vcs.changes.patch.tool.ApplyPatchDiffTool" />
+              <option value="com.intellij.openapi.vcs.changes.patch.tool.PatchDiffTool.SideBySide" />
+              <option value="com.intellij.openapi.vcs.changes.patch.tool.PatchDiffTool.Unified" />
+              <option value="com.intellij.diff.tools.combined.CombinedSideBySideDiffTool" />
+              <option value="com.intellij.diff.tools.combined.CombinedUnifiedDiffTool" />
+              <option value="com.github.obiscr.exceleditor.ui.a.d.ExcelDiffTool" />
+              <option value="com.intellij.database.model.diff.SchemaDiffTool" />
+              <option value="com.intellij.database.diff.TableDiffTool" />
+              <option value="com.intellij.diff.tools.simple.SimpleDiffTool" />
+              <option value="com.intellij.diff.tools.fragmented.UnifiedDiffTool" />
+              <option value="com.intellij.diff.tools.binary.BinaryDiffTool" />
+              <option value="com.intellij.diff.tools.dir.DirDiffTool" />
+            </list>
+          </option>
+        </PlaceSettings>
+      </entry>
       <entry key="VcsFileHistoryView">
         <PlaceSettings>
           <option name="DIFF_TOOLS_ORDER">
@@ -82,6 +102,13 @@
           <option name="IGNORE_POLICY" value="IGNORE_WHITESPACES" />
           <option name="SHOW_INDENT_LINES" value="true" />
           <option name="SHOW_WHITESPACES" value="true" />
+        </PlaceSettings>
+      </entry>
+      <entry key="ShelveView">
+        <PlaceSettings>
+          <option name="BREADCRUMBS_PLACEMENT" value="BOTTOM" />
+          <option name="EXPAND_BY_DEFAULT" value="false" />
+          <option name="SHOW_INDENT_LINES" value="true" />
         </PlaceSettings>
       </entry>
       <entry key="VcsFileHistoryView">
