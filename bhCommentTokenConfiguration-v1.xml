@@ -3,6 +3,14 @@
     <tokens>
       <list>
         <CommentTokenDescriptor>
+          <isLineHighlight>true</isLineHighlight>
+          <token>Region</token>
+        </CommentTokenDescriptor>
+        <CommentTokenDescriptor>
+          <isLineHighlight>true</isLineHighlight>
+          <token>End</token>
+        </CommentTokenDescriptor>
+        <CommentTokenDescriptor>
           <token>!</token>
         </CommentTokenDescriptor>
         <CommentTokenDescriptor>
@@ -10,14 +18,6 @@
         </CommentTokenDescriptor>
         <CommentTokenDescriptor>
           <token>*</token>
-        </CommentTokenDescriptor>
-        <CommentTokenDescriptor>
-          <isLineHighlight>true</isLineHighlight>
-          <token>End</token>
-        </CommentTokenDescriptor>
-        <CommentTokenDescriptor>
-          <isLineHighlight>true</isLineHighlight>
-          <token>Region</token>
         </CommentTokenDescriptor>
       </list>
     </tokens>

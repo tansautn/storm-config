@@ -1,8 +1,5 @@
 <application>
   <component name="ExportableFileTemplateSettings">
-    <includes_templates>
-      <template name="Laravel Repository Class.php" file-name="$CLASSNAME$Repository" reformat="true" live-template-enabled="false" />
-    </includes_templates>
     <j2ee_templates>
       <template name="com.intellij.reactbuddy.arrow_function_component.tsx" reformat="true" live-template-enabled="false" enabled="false" />
       <template name="com.intellij.reactbuddy.arrow_function_component.jsx" reformat="true" live-template-enabled="false" enabled="false" />
@@ -30,8 +27,5 @@
       <template name="com.intellij.reactbuddy.useInitial.js" reformat="true" live-template-enabled="false" enabled="false" />
       <template name="com.intellij.reactbuddy.useInitial.ts" reformat="true" live-template-enabled="false" enabled="false" />
     </j2ee_templates>
-    <default_templates>
-      <template name="Repository Class.php" file-name="$NAME$Repository" reformat="true" live-template-enabled="true" />
-    </default_templates>
   </component>
 </application>

@@ -4,9 +4,9 @@
       <SuppressingContext>
         <option name="suppressed">
           <set>
+            <option value="'" />
             <option value="M M" />
             <option value="dP dP" />
-            <option value="'" />
           </set>
         </option>
       </SuppressingContext>

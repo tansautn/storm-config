@@ -8,9 +8,9 @@
     <option name="ADDED_LINES_COLOR" value="" />
     <option name="ANNOTATIONS_COLOR" value="" />
     <option name="ANNOTATIONS_MERGED_COLOR" value="" />
-    <option name="CARET_COLOR" value="56ff00" />
+    <option name="CARET_COLOR" value="56FF00" />
     <option name="CARET_ROW_COLOR" value="101010" />
-    <option name="GUTTER_BACKGROUND" value="3c3f41" />
+    <option name="GUTTER_BACKGROUND" value="3C3F41" />
     <option name="INDENT_GUIDE" value="151515" />
     <option name="LINE_NUMBERS_COLOR" value="666666" />
     <option name="METHOD_SEPARATORS_COLOR" value="101010" />
@@ -20,10 +20,10 @@
     <option name="RIGHT_MARGIN_COLOR" value="101010" />
     <option name="SELECTED_INDENT_GUIDE" value="101010" />
     <option name="SELECTED_TEARLINE_COLOR" value="" />
-    <option name="SELECTION_BACKGROUND" value="0" />
-    <option name="SELECTION_FOREGROUND" value="56ff00" />
+    <option name="SELECTION_BACKGROUND" value="000000" />
+    <option name="SELECTION_FOREGROUND" value="56FF00" />
     <option name="SOFT_WRAP_SIGN_COLOR" value="" />
-    <option name="TEARLINE_COLOR" value="3c3f41" />
+    <option name="TEARLINE_COLOR" value="3C3F41" />
     <option name="WHITESPACES" value="151515" />
   </colors>
   <attributes>
