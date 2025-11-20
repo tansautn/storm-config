@@ -5,6 +5,7 @@
         <CommentTokenDescriptor>
           <isLineHighlight>true</isLineHighlight>
           <token>Region</token>
+          <severity>TEXT</severity>
         </CommentTokenDescriptor>
         <CommentTokenDescriptor>
           <isLineHighlight>true</isLineHighlight>

@@ -1,10 +1,11 @@
 <application>
   <component name="BhComplexityConfiguration">
-    <complexityCalculationEnabled>false</complexityCalculationEnabled>
+    <complexityCalculationEnabled>true</complexityCalculationEnabled>
     <gutterIconEnabled>false</gutterIconEnabled>
     <displayComplexityThreshold>1</displayComplexityThreshold>
-    <highComplexityThreshold>15</highComplexityThreshold>
-    <mediumComplexityThreshold>9</mediumComplexityThreshold>
+    <complexityCalculationStrategy>SONARQUBE</complexityCalculationStrategy>
+    <highComplexityThreshold>0</highComplexityThreshold>
+    <mediumComplexityThreshold>0</mediumComplexityThreshold>
     <inlayHintPosition>TOP</inlayHintPosition>
     <iconInHintEnabled>false</iconInHintEnabled>
     <textInHintEnabled>false</textInHintEnabled>
