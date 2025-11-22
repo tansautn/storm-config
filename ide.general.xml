@@ -22,6 +22,8 @@
     <entry key="eslint.additional.file.extensions" value="svelte" source="SYSTEM" />
     <entry key="terminal.new.ui" value="true" source="SYSTEM" />
     <entry key="ide.images.show.chessboard" value="true" source="SYSTEM" />
+    <entry key="llm.rules.refresh.interval" value="10" source="MANAGER" />
+    <entry key="llm.selector.config.refresh.interval" value="10" source="MANAGER" />
   </component>
   <component name="StatusBar">
     <option name="widgets">
