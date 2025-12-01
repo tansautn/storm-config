@@ -3,6 +3,7 @@
     <option name="pluginIds">
       <list>
         <option value="com.intellij.kubernetes" />
+        <option value="de.nordgedanken.auto_hotkey" />
       </list>
     </option>
   </component>
