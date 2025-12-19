@@ -1,6 +1,7 @@
 <application>
   <component name="AiPluginSettings">
     <option name="enableAutomaticGenerationOutlines" value="true" />
+    <option name="finishChangesEditingHintDismissed" value="true" />
     <option name="gotItToolTipsShown" value="true" />
     <option name="lastLoggedInEmail" value="trachphanvoduyen@gmail.com" />
     <option name="lastUpsellNotificationTimestampByEmail">
