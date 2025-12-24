@@ -13,5 +13,8 @@
     <driver id="mysql">
       <artifact id="MySQL Connector/J" name="MySQL Connector/J" use="true" version="5.1.46" />
     </driver>
+    <driver id="postgresql">
+      <artifact id="PostgreSQL" name="PostgreSQL" use="true" version="42.7.3" />
+    </driver>
   </component>
 </application>
