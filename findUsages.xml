@@ -1,7 +1,9 @@
 <application>
   <component name="FindUsagesSettings">
-    <option name="customScope" value="Project 'anonbot'" />
-    <option name="defaultScopeName" value="Project 'anonbot'" />
-    <option name="SEARCH_SCOPE" value="Project 'anonbot'" />
+    <option name="customScope" value="All Places" />
+    <option name="defaultScopeName" value="All Places" />
+    <option name="searchOverloadedMethods" value="true" />
+    <option name="SEARCH_OVERLOADED_METHODS" value="true" />
+    <option name="SEARCH_SCOPE" value="All Places" />
   </component>
 </application>
