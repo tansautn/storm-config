@@ -70,6 +70,7 @@
   <action id="GotoClass" />
   <action id="GotoFile" />
   <action id="GotoTest" />
+  <action id="GrepConsole.TailQuickSwitch" />
   <action id="Images.ShowThumbnails" />
   <action id="ImplementMethods" />
   <action id="Javascript.Linters.JSCS.Fix">
