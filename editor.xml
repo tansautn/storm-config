@@ -53,6 +53,14 @@
     </option>
   </component>
   <component name="EditorSettings">
+    <option name="languageBreadcrumbsMap">
+      <map>
+        <entry key="JavaScript" value="true" />
+        <entry key="TypeScript" value="true" />
+      </map>
+    </option>
+    <option name="CARET_BLINKING_PERIOD" value="300" />
+    <option name="IS_FOLDING_OUTLINE_SHOWN_ONLY_ON_HOVER" value="false" />
     <option name="IS_WHEEL_FONTCHANGE_ENABLED" value="true" />
   </component>
   <component name="InlayHintsSettings">
