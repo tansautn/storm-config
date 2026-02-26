@@ -16,6 +16,7 @@
       <removed_mapping ext="ignore" approved="true" type="IgnoreLang file" />
       <removed_mapping ext="list" approved="true" type="Writerside List" />
       <removed_mapping ext="log" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping ext="md" approved="true" type="Markdown" />
       <removed_mapping ext="pkb" approved="true" type="SQL" />
       <removed_mapping ext="pks" approved="true" type="SQL" />
       <removed_mapping ext="prc" approved="true" type="SQL" />
