@@ -16,8 +16,8 @@
       <path value="root" />
       <path value="Main Toolbar" />
     </group>
+    <action id="PublishGroup" icon="jar:file:/C:/Program%20Files/JetBrains/PhpStorm%202024.1.2/lib/app-client.jar!/expui/toolbar/unknown.svg" />
     <action id="WebDeployment.Options" icon="D:/Onedrive/Pictures/icons/phpstorm/deployment_options.png" />
     <action id="WebDeployment.ToggleAutoUpload" icon="D:/Onedrive/Pictures/icons/phpstorm/deployment_autoupload.png" />
-    <action id="PublishGroup" icon="jar:file:/C:/Program%20Files/JetBrains/PhpStorm%202024.1.2/lib/app-client.jar!/expui/toolbar/unknown.svg" />
   </component>
 </application>
