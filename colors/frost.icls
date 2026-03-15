@@ -1424,7 +1424,7 @@
         <option name="FOREGROUND" value="6d9cbe" />
       </value>
     </option>
-    <option name="XML_PROLOGUE" baseAttributes="" />
+    <option name="XML_PROLOGUE" baseAttributes="TEXT" />
     <option name="XML_TAG">
       <value>
         <option name="FOREGROUND" value="e8bf6a" />
