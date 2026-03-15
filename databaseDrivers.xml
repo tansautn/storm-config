@@ -3,8 +3,8 @@
     <driver id="sqlite.xerial">
       <artifact id="Xerial SQLiteJDBC" name="Xerial SQLiteJDBC" use="true" version="3.45.1" />
     </driver>
-    <driver id="mariadb" dialect="MySQL">
-      <artifact id="MariaDB Connector J" name="MariaDB Connector J" use="true" version="3.0.7" />
+    <driver id="mariadb">
+      <artifact id="MariaDB Connector J" name="MariaDB Connector J" use="true" version="3.5.7" />
     </driver>
     <driver id="mysql.8">
       <artifact />
