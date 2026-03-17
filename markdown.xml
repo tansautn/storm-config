@@ -2,4 +2,12 @@
   <component name="MarkdownApplicationSettings">
     <MarkdownCssSettings />
   </component>
+  <component name="MarkdownExtensionsSettings">
+    <enabledExtensions>
+      <entry key="PlantUMLLanguageExtension" value="true" />
+    </enabledExtensions>
+  </component>
+  <component name="MarkdownSettings">
+    <option name="fontSize" value="12" />
+  </component>
 </application>
