@@ -1,9 +1,9 @@
 <application>
   <component name="FindUsagesSettings">
-    <option name="customScope" value="Directory '…\app'" />
-    <option name="defaultScopeName" value="Directory '…\app'" />
+    <option name="customScope" value="Project 'Lalita'" />
+    <option name="defaultScopeName" value="Project 'Lalita'" />
     <option name="searchOverloadedMethods" value="true" />
     <option name="SEARCH_OVERLOADED_METHODS" value="true" />
-    <option name="SEARCH_SCOPE" value="Directory '…\app'" />
+    <option name="SEARCH_SCOPE" value="Project 'Lalita'" />
   </component>
 </application>
