@@ -125,5 +125,7 @@
       </list>
     </option>
   </inspection_tool>
+  <inspection_tool class="TransitiveDependenciesUsageInspection" enabled="false" level="WARNING" enabled_by_default="false" />
+  <inspection_tool class="UnusedFunctionResultInspection" enabled="false" level="WARNING" enabled_by_default="false" />
   <inspection_tool class="t" enabled="false" level="WEAK WARNING" enabled_by_default="false" />
 </profile>
