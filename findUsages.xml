@@ -1,9 +1,9 @@
 <application>
   <component name="FindUsagesSettings">
-    <option name="customScope" value="Project 'Lalita'" />
-    <option name="defaultScopeName" value="Project 'Lalita'" />
+    <option name="customScope" value="File '…\app\Filament\Pages\ManageMenuSettings.php'" />
+    <option name="defaultScopeName" value="File '…\app\Filament\Pages\ManageMenuSettings.php'" />
     <option name="searchOverloadedMethods" value="true" />
     <option name="SEARCH_OVERLOADED_METHODS" value="true" />
-    <option name="SEARCH_SCOPE" value="Project 'Lalita'" />
+    <option name="SEARCH_SCOPE" value="File '…\app\Filament\Pages\ManageMenuSettings.php'" />
   </component>
 </application>

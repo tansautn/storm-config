@@ -7,6 +7,7 @@
     <option name="MARK_MODIFIED_TABS_WITH_ASTERISK" value="true" />
     <option name="MAX_LOOKUP_WIDTH2" value="741" />
     <option name="NAVIGATION_BAR_LOCATION" value="TOP" />
+    <option name="OVERRIDE_CONSOLE_CYCLE_BUFFER_SIZE" value="true" />
     <option name="RECENT_FILES_LIMIT" value="120" />
     <option name="RIGHT_HORIZONTAL_SPLIT" value="true" />
     <option name="SCROLL_TAB_LAYOUT_IN_EDITOR" value="false" />
