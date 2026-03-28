@@ -1,5 +1,6 @@
 <application>
   <component name="AiPluginSettings">
+    <option name="enableAutomaticGenerationOutlines" value="true" />
     <option name="finishChangesEditingHintDismissed" value="true" />
     <option name="gcpProjectByEmail">
       <map>
@@ -14,12 +15,12 @@
       </map>
     </option>
     <option name="gotItToolTipsShown" value="true" />
-    <option name="lastLoggedInEmail" value="l2f.hdm@gmail.com" />
+    <option name="lastLoggedInEmail" value="trachphanvoduyen@gmail.com" />
     <option name="lastUpsellNotificationTimestampByEmail">
       <map>
         <entry key="bl.rider77@gmail.com" value="1773288917651" />
         <entry key="l2f.hdm@gmail.com" value="1774259150279" />
-        <entry key="trachphanvoduyen@gmail.com" value="1768585766338" />
+        <entry key="trachphanvoduyen@gmail.com" value="1774726092443" />
       </map>
     </option>
     <option name="privacyBannerDismissedByEmail">
