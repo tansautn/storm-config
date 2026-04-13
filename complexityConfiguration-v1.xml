@@ -1,6 +1,6 @@
 <application>
   <component name="BhComplexityConfiguration">
-    <complexityCalculationEnabled>true</complexityCalculationEnabled>
+    <complexityCalculationEnabled>false</complexityCalculationEnabled>
     <gutterIconEnabled>false</gutterIconEnabled>
     <displayComplexityThreshold>1</displayComplexityThreshold>
     <complexityCalculationStrategy>SONARQUBE</complexityCalculationStrategy>
