@@ -11,6 +11,10 @@
     <keyboard-shortcut first-keystroke="ctrl i" />
   </action>
   <action id="ChangesView.Move" />
+  <action id="ClaudeCodeGUI.ChatNewlineAction" />
+  <action id="ClaudeCodeGUI.ChatSendAction">
+    <keyboard-shortcut first-keystroke="ctrl enter" />
+  </action>
   <action id="CloneElement" />
   <action id="CloseAllEditors">
     <keyboard-shortcut first-keystroke="shift ctrl w" />
